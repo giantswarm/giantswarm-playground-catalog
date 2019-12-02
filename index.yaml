@@ -24,10 +24,10 @@ entries:
     version: 0.1.0
   - apiVersion: v1
     appVersion: edge-19.11.2
-    created: "2019-12-02T17:16:13.437152278Z"
+    created: "2019-12-02T17:19:48.658769769Z"
     description: Linkerd gives you observability, reliability, and security for your
       microservices — with no code change required.
-    digest: e933446d8bfd123ae2098df7581cbbebb95d91c6600a03566cd3438432ef2a27
+    digest: f334e0e8b2b17c03aa4777a3128001e1e4a513a54e18cd7aeb469649db08fa1d
     home: https://linkerd.io
     icon: https://linkerd.io/images/logo-only-200h.png
     keywords:
@@ -62,4 +62,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-02T17:16:13.434832204Z"
+generated: "2019-12-02T17:19:48.657478591Z"
