@@ -3,10 +3,10 @@ entries:
   linkerd2-app:
   - apiVersion: v1
     appVersion: edge-19.11.2
-    created: "2019-11-28T14:49:39.927992707Z"
+    created: "2019-12-02T12:41:19.960382346Z"
     description: Linkerd gives you observability, reliability, and security for your
       microservices — with no code change required.
-    digest: 031564cfec6d0f7035703a8a7f23cfea0d455bf45fcc80d9d5e27c873bc73725
+    digest: 5f8ddfb815e205439bd1c42518c2feeff7de9d741bcd702e69dd85a6a5422557
     home: https://linkerd.io
     icon: https://linkerd.io/images/logo-only-200h.png
     keywords:
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/linkerd2-app-0.0.0-25ecb7f4e6c03e719599e78c750047c931cafe1a.tgz
     version: 0.0.0-25ecb7f4e6c03e719599e78c750047c931cafe1a
-generated: "2019-11-28T14:49:39.92648591Z"
+generated: "2019-12-02T12:41:19.957940673Z"
