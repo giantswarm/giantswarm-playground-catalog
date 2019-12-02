@@ -43,4 +43,23 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/linkerd2-app-0.0.0-25ecb7f4e6c03e719599e78c750047c931cafe1a.tgz
     version: 0.0.0-25ecb7f4e6c03e719599e78c750047c931cafe1a
-generated: "2019-12-02T14:52:48.601966825Z"
+  loki-stack-app:
+  - apiVersion: v1
+    appVersion: v1.0.0
+    created: "2019-12-02T14:57:20.504982165Z"
+    description: 'Loki: like Prometheus, but for logs.'
+    digest: d132130c8a5bd876c6da0666a5286355623b0f0a47164a2274537fe65f4b1938
+    engine: gotpl
+    home: https://grafana.com/loki
+    icon: https://github.com/grafana/loki/raw/master/docs/logo.png
+    kubeVersion: ^1.10.0-0
+    maintainers:
+    - email: lokiproject@googlegroups.com
+      name: Loki Maintainers
+    name: loki-stack-app
+    sources:
+    - https://github.com/grafana/loki
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-12-02T14:57:20.500694541Z"
