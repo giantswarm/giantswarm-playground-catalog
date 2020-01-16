@@ -1,5 +1,24 @@
 apiVersion: v1
 entries:
+  eventrouter-app:
+  - apiVersion: v1
+    appVersion: v0.0.1
+    created: "2020-01-16T13:46:31.609500274Z"
+    description: Heptio EventRouter
+    digest: d3a34cb5b1ae1e65b9710f99b7d335312f93b630f8fdc7c2a4a90ba1724371a9
+    home: https://github.com/heptiolabs/eventrouter
+    maintainers:
+    - name: Heptio/VMWare
+      url: https://github.com/heptiolabs/eventrouter
+    - name: Giant Swarm applications team
+      url: https://github.com/giantswarm/eventrouter-app
+    name: eventrouter-app
+    sources:
+    - https://github.com/heptiolabs/eventrouter
+    - https://github.com/giantswarm/eventrouter-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/eventrouter-app-0.0.1.tgz
+    version: 0.0.1
   giantswarm-todo-app:
   - apiVersion: v1
     appVersion: 0.2.3
@@ -158,4 +177,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-10T14:08:02.830695951Z"
+generated: "2020-01-16T13:46:31.609067541Z"
