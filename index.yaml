@@ -2,6 +2,25 @@ apiVersion: v1
 entries:
   eventrouter-app:
   - apiVersion: v1
+    appVersion: v0.3
+    created: "2020-01-17T09:30:57.374641624Z"
+    description: 'Heptio Event Router: A simple introspective kubernetes service that
+      forwards events to a specified sink.'
+    digest: 697b76f97423f9e5578a515543194344439ad23ad16e55a28e46222144d0cbbf
+    home: https://github.com/heptiolabs/eventrouter
+    maintainers:
+    - name: Heptio/VMWare
+      url: https://github.com/heptiolabs/eventrouter
+    - name: Giant Swarm applications team
+      url: https://github.com/giantswarm/eventrouter-app
+    name: eventrouter-app
+    sources:
+    - https://github.com/heptiolabs/eventrouter
+    - https://github.com/giantswarm/eventrouter-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/eventrouter-app-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v1
     appVersion: v0.0.1
     created: "2020-01-16T13:46:31.609500274Z"
     description: Heptio EventRouter
@@ -177,4 +196,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-16T13:46:31.609067541Z"
+generated: "2020-01-17T09:30:57.374001129Z"
