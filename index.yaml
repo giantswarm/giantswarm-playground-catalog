@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  efk-logging-app:
+  - apiVersion: v1
+    appVersion: 7.4.0
+    created: "2020-01-29T08:05:40.875228484Z"
+    description: Logging stack with Elasticsearch, fluentd and Kibana
+    digest: c46d7beedd3473029275e9bff59b4fb1e81367469fb4c000827c5979c00bf306
+    icon: https://helm.elastic.co/icons/elasticsearch.png
+    name: efk-logging-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/efk-logging-app-0.3.0.tgz
+    version: 0.3.0
   eventrouter-app:
   - apiVersion: v1
     appVersion: v0.3
@@ -196,4 +207,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-17T09:30:57.374001129Z"
+generated: "2020-01-29T08:05:40.871984253Z"
