@@ -49,6 +49,21 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/eventrouter-app-0.0.1.tgz
     version: 0.0.1
+  fluent-logshipping-app:
+  - apiVersion: v1
+    appVersion: v0.2.0
+    created: "2020-01-31T14:59:12.018825658Z"
+    description: The Log Shipping App forwards cluster logs to storage backends
+    digest: cb026b30fce35d712f8898610f520b19a0d4638819dc3d4be16d1a4375157093
+    engine: gotpl
+    home: https://github.com/giantswarm/fluent-logshipping-app
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    name: fluent-logshipping-app
+    sources:
+    - https://github.com/giantswarm/fluent-logshipping-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/fluent-logshipping-app-0.2.0.tgz
+    version: 0.2.0
   giantswarm-todo-app:
   - apiVersion: v1
     appVersion: 0.2.3
@@ -207,4 +222,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-29T08:05:40.871984253Z"
+generated: "2020-01-31T14:59:12.017813601Z"
