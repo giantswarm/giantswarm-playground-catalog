@@ -13,6 +13,21 @@ entries:
     version: 0.3.0
   efk-stack-app:
   - appVersion: 1.3.0
+    created: "2020-02-19T10:38:01.788112906Z"
+    description: Open Distro for Elasticsearch
+    digest: 1c784c9bec76a76cd8a2635ecbdb2ed14bb6f53975c7eeba0e230b49c6806e54
+    engine: gotpl
+    icon: https://github.com/giantswarm/efk-stack-app/raw/master/images/logo.png
+    maintainers:
+    - name: Giant Swarm applications team
+      url: https://github.com/giantswarm/efk-stack-app
+    name: efk-stack-app
+    sources:
+    - https://github.com/giantswarm/efk-stack-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/efk-stack-app-0.1.5.tgz
+    version: 0.1.5
+  - appVersion: 1.3.0
     created: "2020-02-19T10:14:16.205993029Z"
     description: Open Distro for Elasticsearch
     digest: 02f0bea03d56259626847170d2892eb98d1f497301479b05de6678957803b70d
@@ -270,4 +285,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-19T10:14:16.202358153Z"
+generated: "2020-02-19T10:38:01.783528116Z"
