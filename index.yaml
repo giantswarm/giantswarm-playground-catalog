@@ -3,9 +3,9 @@ entries:
   app-mesh-app:
   - apiVersion: v1
     appVersion: 0.3.0
-    created: "2020-02-20T11:42:17.760442579Z"
+    created: "2020-02-20T11:56:10.912717693Z"
     description: App Mesh controller Helm chart for Kubernetes
-    digest: 366bfdf35c746efffa14b6fcbf5584bec393d05a0bda41544e09f28fd1fc29df
+    digest: 6691e1292a6ea5bba5eeb2fa158879d179c75c20b9dfc051009acf83d4a0a793
     home: https://github.com/giantswarm/app-mesh-app
     icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
     keywords:
@@ -309,4 +309,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-20T11:42:17.759936547Z"
+generated: "2020-02-20T11:56:10.912190668Z"
