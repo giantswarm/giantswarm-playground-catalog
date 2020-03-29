@@ -272,6 +272,21 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/giantswarm-todo-app-0.1.4.tgz
     version: 0.1.4
+  inlets-operator-app:
+  - apiVersion: v1
+    appVersion: 0.7.0
+    created: "2020-03-29T20:41:05.415341109Z"
+    description: Public IPs for your private Kubernetes Services
+    digest: 42dc1dc4bda9850e91dec6ddcd638a49704f5134a690763ec896067f66bb0b6c
+    engine: gotpl
+    home: https://docs.inlets.dev/
+    icon: https://docs.inlets.dev/images/inlets-logo.svg
+    name: inlets-operator-app
+    sources:
+    - https://github.com/inlets/inlets
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/inlets-operator-app-0.1.0.tgz
+    version: 0.1.0
   kibana-oss-app:
   - apiVersion: v1
     appVersion: v0.1
@@ -488,4 +503,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-03-26T14:45:54.17256949Z"
+generated: "2020-03-29T20:41:05.414918039Z"
