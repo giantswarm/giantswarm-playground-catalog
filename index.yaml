@@ -170,6 +170,24 @@ entries:
     version: 0.2.0
   giantswarm-todo-app:
   - apiVersion: v1
+    appVersion: 0.2.7
+    created: "2020-03-31T14:17:52.905473261Z"
+    description: A sample microservice TODO management application.
+    digest: 6cfb5f40ab83a28a8691cf066b2ab1344b33200f1ba5b029aa7b38809e1dacd6
+    home: https://giantswarm.io
+    icon: https://raw.githubusercontent.com/giantswarm/giantswarm-todo-app/master/img/icon-todo.png
+    kubeVersion: ^1.10.0-0
+    maintainers:
+    - email: hello@giantswarm.io
+      name: Giantswarm Team
+    name: giantswarm-todo-app
+    sources:
+    - https://github.com/giantswarm/blog-i-want-it-all
+    - https://github.com/giantswarm/giantswarm-todo-app/
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/giantswarm-todo-app-0.2.7.tgz
+    version: 0.2.7
+  - apiVersion: v1
     appVersion: 0.2.6
     created: "2020-03-26T13:44:55.58289242Z"
     description: A sample microservice TODO management application.
@@ -503,4 +521,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-03-29T20:41:05.414918039Z"
+generated: "2020-03-31T14:17:52.902967581Z"
