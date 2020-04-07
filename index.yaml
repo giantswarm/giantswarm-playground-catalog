@@ -111,17 +111,6 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/aqua-app-server-0.2.0.tgz
     version: 0.2.0
-  efk-logging-app:
-  - apiVersion: v1
-    appVersion: 7.4.0
-    created: "2020-01-29T08:05:40.875228484Z"
-    description: Logging stack with Elasticsearch, fluentd and Kibana
-    digest: c46d7beedd3473029275e9bff59b4fb1e81367469fb4c000827c5979c00bf306
-    icon: https://helm.elastic.co/icons/elasticsearch.png
-    name: efk-logging-app
-    urls:
-    - https://giantswarm.github.com/giantswarm-playground-catalog/efk-logging-app-0.3.0.tgz
-    version: 0.3.0
   efk-stack-app:
   - appVersion: 1.3.0
     created: "2020-02-19T10:38:01.788112906Z"
