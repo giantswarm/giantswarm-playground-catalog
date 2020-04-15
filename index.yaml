@@ -84,6 +84,20 @@ entries:
     version: 0.0.1
   fluent-logshipping-app:
   - apiVersion: v1
+    appVersion: v0.3.0
+    created: "2020-04-15T12:47:17.981232227Z"
+    description: The Log Shipping App forwards cluster logs to storage backends
+    digest: 2a6d421b934aca98793dff085e14fd8324a2bc2d8837b827a7b0487be3b4f646
+    engine: gotpl
+    home: https://github.com/giantswarm/fluent-logshipping-app
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    name: fluent-logshipping-app
+    sources:
+    - https://github.com/giantswarm/fluent-logshipping-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/fluent-logshipping-app-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
     appVersion: v0.2.1
     created: "2020-03-16T13:55:06.865844548Z"
     description: The Log Shipping App forwards cluster logs to storage backends
@@ -505,4 +519,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/opencensus-collector-app-0.1.1.tgz
     version: 0.1.1
-generated: "2020-04-09T09:39:58.927049066Z"
+generated: "2020-04-15T12:47:17.980377855Z"
