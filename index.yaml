@@ -127,6 +127,24 @@ entries:
     version: 0.2.0
   giantswarm-todo-app:
   - apiVersion: v1
+    appVersion: 0.2.8
+    created: "2020-04-24T13:10:28.485043463Z"
+    description: A sample microservice TODO management application.
+    digest: c8b9bebf95c675f6a061ed5af15ecba3139a85df00cc0271402824a03439153a
+    home: https://giantswarm.io
+    icon: https://raw.githubusercontent.com/giantswarm/giantswarm-todo-app/master/img/icon-todo.png
+    kubeVersion: ^1.10.0-0
+    maintainers:
+    - email: hello@giantswarm.io
+      name: Giantswarm Team
+    name: giantswarm-todo-app
+    sources:
+    - https://github.com/giantswarm/blog-i-want-it-all
+    - https://github.com/giantswarm/giantswarm-todo-app/
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/giantswarm-todo-app-0.2.8.tgz
+    version: 0.2.8
+  - apiVersion: v1
     appVersion: 0.2.7
     created: "2020-03-31T14:17:52.905473261Z"
     description: A sample microservice TODO management application.
@@ -519,4 +537,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/opencensus-collector-app-0.1.1.tgz
     version: 0.1.1
-generated: "2020-04-15T12:47:17.980377855Z"
+generated: "2020-04-24T13:10:28.483805343Z"
