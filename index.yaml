@@ -280,6 +280,26 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/inlets-operator-app-0.1.0.tgz
     version: 0.1.0
+  jaeger-operator-app:
+  - apiVersion: v1
+    appVersion: 1.17.1
+    created: "2020-04-24T13:17:27.437017955Z"
+    description: |
+      Jaeger operator is a implementation of the operator pattern for installing
+      and managing Jaeger deployments.
+    digest: e21e158b8f9c9519f60429fddf02a25a5000af88e5f461c66ae9d6166960cfb8
+    home: https://github.com/jaegertracing/jaeger-operator
+    icon: https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/master/img/jaeger-icon.svg
+    kubeVersion: ^1.15.0-0
+    maintainers:
+    - email: hello@giantswarm.io
+      name: Giantswarm Team
+    name: jaeger-operator-app
+    sources:
+    - https://github.com/giantswarm/jaeger-operator-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/jaeger-operator-app-0.1.1.tgz
+    version: 0.1.1
   k8s-initiator-app:
   - apiVersion: v1
     appVersion: v0.2.0
@@ -537,4 +557,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/opencensus-collector-app-0.1.1.tgz
     version: 0.1.1
-generated: "2020-04-24T13:10:28.483805343Z"
+generated: "2020-04-24T13:17:27.433991966Z"
