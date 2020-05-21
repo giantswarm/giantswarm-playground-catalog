@@ -463,6 +463,19 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/kibana-oss-app-0.0.0.tgz
     version: 0.0.0
+  kubernetes-gpu-app:
+  - apiVersion: v1
+    appVersion: "440.33"
+    created: "2020-05-21T22:52:23.812381798Z"
+    description: A Helm chart for Kubernetes
+    digest: 949d356d1bfe4696114d74344c2e28ae637d00de7ea19d0d1648621420d9e7ef
+    home: https://github.com/giantswarm/kubernetes-gpu-app
+    name: kubernetes-gpu-app
+    sources:
+    - https://github.com/giantswarm/kubernetes-gpu
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/kubernetes-gpu-app-440.33.0.tgz
+    version: 440.33.0
   linkerd2-app:
   - apiVersion: v1
     appVersion: stable-2.7.1
@@ -667,4 +680,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/opencensus-collector-app-0.1.1.tgz
     version: 0.1.1
-generated: "2020-05-05T11:55:16.002290616Z"
+generated: "2020-05-21T22:52:23.811934652Z"
