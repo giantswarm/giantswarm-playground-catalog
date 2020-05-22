@@ -500,6 +500,18 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/kubernetes-gpu-app-440.33.0.tgz
     version: 440.33.0
+  - apiVersion: v1
+    appVersion: "390.116"
+    created: "2020-05-22T15:16:05.054592963Z"
+    description: A Helm chart for Kubernetes
+    digest: 78a93d7b8f110939ff30275125931951b11116897b674b1edb7c82a55dbc858a
+    home: https://github.com/giantswarm/kubernetes-gpu
+    name: kubernetes-gpu-app
+    sources:
+    - https://github.com/giantswarm/kubernetes-gpu
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/kubernetes-gpu-app-390.116.00.tgz
+    version: 390.116.00
   linkerd2-app:
   - apiVersion: v1
     appVersion: stable-2.7.1
@@ -704,4 +716,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/opencensus-collector-app-0.1.1.tgz
     version: 0.1.1
-generated: "2020-05-22T13:26:50.617430118Z"
+generated: "2020-05-22T15:16:05.054173366Z"
