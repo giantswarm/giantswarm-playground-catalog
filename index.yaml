@@ -24,6 +24,20 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/app-mesh-app-0.4.0.tgz
     version: 0.4.0
+  azure-ad-pod-identity-app:
+  - apiVersion: v1
+    appVersion: 1.6.1
+    created: "2020-07-01T07:51:54.746982984Z"
+    description: Deploy components for the azure-ad-pod-identity-app
+    digest: 4f3b9dc61bb62b220aaa2dfbdcce4e34add487b3290f14a342034655e5ba1ed2
+    home: https://github.com/giantswarm/azure-ad-pod-identity-app
+    name: azure-ad-pod-identity-app
+    sources:
+    - https://github.com/Azure/aad-pod-identity
+    - https://github.com/giantswarm/azure-ad-pod-identity-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.1.0.tgz
+    version: 0.1.0
   eventrouter-app:
   - apiVersion: v1
     appVersion: v0.3
@@ -837,4 +851,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/opencensus-collector-app-0.1.1.tgz
     version: 0.1.1
-generated: "2020-06-30T09:05:11.352575662Z"
+generated: "2020-07-01T07:51:54.74576591Z"
