@@ -134,7 +134,6 @@ entries:
     created: "2020-06-05T14:29:07.667233845Z"
     description: The Log Shipping App forwards cluster logs to storage backends
     digest: 285b66e8cf19978cd0dc7f03981038ca546c63f65d31b3a8966da4ce1c408f30
-    engine: gotpl
     home: https://github.com/giantswarm/fluent-logshipping-app
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     name: fluent-logshipping-app
@@ -148,7 +147,6 @@ entries:
     created: "2020-06-03T13:13:58.116290073Z"
     description: The Log Shipping App forwards cluster logs to storage backends
     digest: 6de0010d6d79d32a3ea1e3141e71124bad0ccbac0d7ef3907d17d2c2082f083d
-    engine: gotpl
     home: https://github.com/giantswarm/fluent-logshipping-app
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     name: fluent-logshipping-app
@@ -162,7 +160,6 @@ entries:
     created: "2020-06-03T08:22:47.555504648Z"
     description: The Log Shipping App forwards cluster logs to storage backends
     digest: 3356d1fde1f4e13bbf45e57688fb1f2a50928c1b576525b2249a25db7503dada
-    engine: gotpl
     home: https://github.com/giantswarm/fluent-logshipping-app
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     name: fluent-logshipping-app
@@ -176,7 +173,6 @@ entries:
     created: "2020-04-15T12:47:17.981232227Z"
     description: The Log Shipping App forwards cluster logs to storage backends
     digest: 2a6d421b934aca98793dff085e14fd8324a2bc2d8837b827a7b0487be3b4f646
-    engine: gotpl
     home: https://github.com/giantswarm/fluent-logshipping-app
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     name: fluent-logshipping-app
@@ -190,7 +186,6 @@ entries:
     created: "2020-03-16T13:55:06.865844548Z"
     description: The Log Shipping App forwards cluster logs to storage backends
     digest: 9a16088acf09bf1ec6c7a44dbf2971c851335b427e22845261484b89bbae5769
-    engine: gotpl
     home: https://github.com/giantswarm/fluent-logshipping-app
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     name: fluent-logshipping-app
@@ -204,7 +199,6 @@ entries:
     created: "2020-01-31T14:59:12.018825658Z"
     description: The Log Shipping App forwards cluster logs to storage backends
     digest: cb026b30fce35d712f8898610f520b19a0d4638819dc3d4be16d1a4375157093
-    engine: gotpl
     home: https://github.com/giantswarm/fluent-logshipping-app
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     name: fluent-logshipping-app
@@ -219,7 +213,6 @@ entries:
     created: "2020-06-02T10:57:48.574569783Z"
     description: 'Async Scala-Akka-Netty based Load Test Tool '
     digest: 3f84c7a89c8af50b6ca9233598e2e14d10a1a8ba6bec33d6376ef81cd6802d24
-    engine: gotpl
     home: https://github.com/giantswarm/gatling-app
     icon: https://gatling.io/wp-content/uploads/2019/04/logo-gatling-transparent@15x.svg
     name: gatling-app
@@ -234,7 +227,6 @@ entries:
     created: "2020-06-01T11:08:15.770360492Z"
     description: 'Async Scala-Akka-Netty based Load Test Tool '
     digest: 5140d06696c49be10437c581799c050ad0b641a2a77a1df997dde7dd05ee4a72
-    engine: gotpl
     home: https://github.com/giantswarm/gatling-app
     icon: https://gatling.io/wp-content/uploads/2019/04/logo-gatling-transparent@15x.svg
     name: gatling-app
@@ -249,7 +241,6 @@ entries:
     created: "2020-05-29T07:19:26.359401993Z"
     description: 'Async Scala-Akka-Netty based Load Test Tool '
     digest: 7fbfe8d8f6ed0a3f1ac04211e8976e99542c27fb9cf6cee23ee15785600f7cff
-    engine: gotpl
     home: https://github.com/giantswarm/gatling-app
     icon: https://gatling.io/wp-content/uploads/2019/04/logo-gatling-transparent@15x.svg
     name: gatling-app
@@ -441,7 +432,6 @@ entries:
     created: "2020-03-29T20:41:05.415341109Z"
     description: Public IPs for your private Kubernetes Services
     digest: 42dc1dc4bda9850e91dec6ddcd638a49704f5134a690763ec896067f66bb0b6c
-    engine: gotpl
     home: https://docs.inlets.dev/
     icon: https://docs.inlets.dev/images/inlets-logo.svg
     name: inlets-operator-app
@@ -493,11 +483,24 @@ entries:
   k8s-initiator-app:
   - apiVersion: v1
     appVersion: v0.3.0
+    created: "2020-07-07T14:05:35.520919956Z"
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
+    digest: d5dfa02e094ea3f4bfe60cec1396e448e2b6e0710acba94b9d9522995471eaa2
+    home: https://github.com/giantswarm/k8s-initiator-app
+    icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
+    name: k8s-initiator-app
+    sources:
+    - https://github.com/giantswarm/k8s-initiator-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/k8s-initiator-app-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v1
+    appVersion: v0.3.0
     created: "2020-06-30T09:05:11.353037964Z"
     description: The k8s initiator runs in master and apply some configuration when
       master is new.
     digest: b0d63e1d393858b6ad2047153dbbc7e065bbd75d42264b190ed08ff5eca39bb7
-    engine: gotpl
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
     name: k8s-initiator-app
@@ -512,7 +515,6 @@ entries:
     description: The k8s initiator runs in master and apply some configuration when
       master is new.
     digest: 3d52e64eb2aa0025abd580b9e8d202dee802fe39241928688c8a20852595d794
-    engine: gotpl
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
     name: k8s-initiator-app
@@ -776,7 +778,6 @@ entries:
     created: "2020-01-02T13:52:23.43419171Z"
     description: 'Loki: like Prometheus, but for logs.'
     digest: f71d9ca17968837d3d6333585d8b0ad86cffe955457cec42911e1f4a2da2fc4c
-    engine: gotpl
     home: https://grafana.com/loki
     icon: https://github.com/grafana/loki/raw/master/docs/logo.png
     kubeVersion: ^1.10.0-0
@@ -797,7 +798,6 @@ entries:
     created: "2019-12-02T14:57:20.504982165Z"
     description: 'Loki: like Prometheus, but for logs.'
     digest: d132130c8a5bd876c6da0666a5286355623b0f0a47164a2274537fe65f4b1938
-    engine: gotpl
     home: https://grafana.com/loki
     icon: https://github.com/grafana/loki/raw/master/docs/logo.png
     kubeVersion: ^1.10.0-0
@@ -883,4 +883,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/opencensus-collector-app-0.1.1.tgz
     version: 0.1.1
-generated: "2020-07-02T13:57:56.782247284Z"
+generated: "2020-07-07T14:05:35.520142624Z"
