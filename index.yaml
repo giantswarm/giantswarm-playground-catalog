@@ -946,4 +946,22 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/opencensus-collector-app-0.1.1.tgz
     version: 0.1.1
-generated: "2020-07-23T12:08:25.594427934Z"
+  strimzi-kafka-operator-app:
+  - apiVersion: v1
+    appVersion: 0.18.0
+    created: "2020-07-25T12:59:33.131060772Z"
+    dependencies:
+    - name: strimzi-kafka-operator
+      repository: https://strimzi.io/charts/
+      version: 0.18.0
+    description: A Helm chart for the strimzi-kafka-operator-app
+    digest: 00878c20a2540caf3fb56d100e62daf3137396c0ca17e64a39886995fefaad5d
+    home: https://github.com/giantswarm/strimzi-kafka-operator-app
+    icon: https://raw.githubusercontent.com/strimzi/strimzi-kafka-operator/master/documentation/logo/strimzi_logo.png
+    name: strimzi-kafka-operator-app
+    sources:
+    - https://raw.githubusercontent.com/giantswarm/strimzi-kafka-operator-app/v0.0.1/README.md
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/strimzi-kafka-operator-app-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-07-25T12:59:33.125125007Z"
