@@ -1044,6 +1044,35 @@ entries:
   loki-stack-app:
   - apiVersion: v1
     appVersion: v1.2.0
+    created: "2020-10-16T13:26:47.460899304Z"
+    dependencies:
+    - condition: loki.enabled
+      name: loki
+      repository: ""
+      version: 0.21.0
+    - condition: promtail.enabled
+      name: promtail
+      repository: ""
+      version: 0.16.0
+    description: 'Loki: like Prometheus, but for logs.'
+    digest: 3065b1e648a0e1516944b72d3f9d13b0597a9800acce1ac82178de28fcc4824d
+    home: https://grafana.com/loki
+    icon: https://raw.githubusercontent.com/grafana/loki/5a8bc848dbe453ce27576d2058755a90f79d07b6/docs/sources/logo.png
+    kubeVersion: ^1.10.0-0
+    maintainers:
+    - email: lokiproject@googlegroups.com
+      name: Loki Maintainers
+    - name: Giant Swarm applications team
+      url: https://github.com/giantswarm/loki-stack-app
+    name: loki-stack-app
+    sources:
+    - https://github.com/grafana/loki
+    - https://github.com/giantswarm/loki-stack-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/loki-stack-app-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    appVersion: v1.2.0
     created: "2020-01-02T13:52:23.43419171Z"
     description: 'Loki: like Prometheus, but for logs.'
     digest: f71d9ca17968837d3d6333585d8b0ad86cffe955457cec42911e1f4a2da2fc4c
@@ -1211,4 +1240,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/strimzi-kafka-operator-app-0.0.1.tgz
     version: 0.0.1
-generated: "2020-10-15T12:57:11.293465096Z"
+generated: "2020-10-16T13:26:47.457911394Z"
