@@ -644,6 +644,20 @@ entries:
   k8s-initiator-app:
   - apiVersion: v1
     appVersion: v0.9.0
+    created: "2020-10-19T09:44:20.81891869Z"
+    description: The k8s initiator runs in a master node and applies some configuration
+      when the master is new.
+    digest: 04ca2f2160ec7075d0df05a9ac033f0c4fd6a3cff46355b48dc206fae91fa26c
+    home: https://github.com/giantswarm/k8s-initiator-app
+    icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
+    name: k8s-initiator-app
+    sources:
+    - https://github.com/giantswarm/k8s-initiator-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/k8s-initiator-app-0.9.1.tgz
+    version: 0.9.1
+  - apiVersion: v1
+    appVersion: v0.9.0
     created: "2020-10-01T13:41:43.74374883Z"
     description: The k8s initiator runs in master and apply some configuration when
       master is new.
@@ -1253,4 +1267,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/strimzi-kafka-operator-app-0.0.1.tgz
     version: 0.0.1
-generated: "2020-10-19T06:47:35.801843386Z"
+generated: "2020-10-19T09:44:20.818359835Z"
