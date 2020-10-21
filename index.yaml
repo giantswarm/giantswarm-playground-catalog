@@ -899,6 +899,19 @@ entries:
   kubernetes-gpu-app:
   - apiVersion: v1
     appVersion: 440.82.2
+    created: "2020-10-21T10:20:08.563436533Z"
+    description: A Helm chart for Kubernetes
+    digest: adeaba6a547ba68b5f932fff6492596b9c9a15de00a3533748c1ac5ba2936887
+    home: https://github.com/giantswarm/kubernetes-gpu
+    icon: https://user-images.githubusercontent.com/273727/96249941-49187d80-0fae-11eb-8481-c0cff48bb9f4.png
+    name: kubernetes-gpu-app
+    sources:
+    - https://github.com/giantswarm/kubernetes-gpu
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/kubernetes-gpu-app-440.82.03.tgz
+    version: 440.82.03
+  - apiVersion: v1
+    appVersion: 440.82.2
     created: "2020-10-15T12:57:11.293958344Z"
     description: A Helm chart for Kubernetes
     digest: a6bff60b62a8490e2813fda0cfcefdd250504f414e8df6a605664d953f92118a
@@ -1286,4 +1299,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/strimzi-kafka-operator-app-0.0.1.tgz
     version: 0.0.1
-generated: "2020-10-19T11:57:57.780474767Z"
+generated: "2020-10-21T10:20:08.562907752Z"
