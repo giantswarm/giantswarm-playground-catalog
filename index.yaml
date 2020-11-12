@@ -961,6 +961,30 @@ entries:
   linkerd2-app:
   - apiVersion: v1
     appVersion: stable-2.8.1
+    created: "2020-11-11T15:37:43.784306775Z"
+    description: Linkerd gives you observability, reliability, and security for your
+      microservices — with no code change required.
+    digest: 0d304832b928a404d6f452cc52702acc2a10479f3210074effbbae8f09290f5e
+    home: https://linkerd.io
+    icon: https://s.giantswarm.io/app-icons/1/png/linkerd2-app-light.png
+    keywords:
+    - service-mesh
+    kubeVersion: '>=1.13.0-0'
+    maintainers:
+    - email: cncf-linkerd-dev@lists.cncf.io
+      name: Linkerd authors
+      url: https://linkerd.io/
+    - name: Giant Swarm applications team
+      url: https://github.com/giantswarm/linkerd2-app
+    name: linkerd2-app
+    sources:
+    - https://github.com/linkerd/linkerd2/
+    - https://github.com/giantswarm/linkerd2-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/linkerd2-app-0.4.1-bbdca58cee67f8fe5e73c9b30f5155e15beb33be.tgz
+    version: 0.4.1-bbdca58cee67f8fe5e73c9b30f5155e15beb33be
+  - apiVersion: v1
+    appVersion: stable-2.8.1
     created: "2020-10-13T10:34:26.352013551Z"
     description: Linkerd gives you observability, reliability, and security for your
       microservices — with no code change required.
