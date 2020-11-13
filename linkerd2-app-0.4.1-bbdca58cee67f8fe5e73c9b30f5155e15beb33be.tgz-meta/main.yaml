@@ -5,5 +5,5 @@ restrictions:
   clusterSingleton: true
   fixedNamespace: linkerd
   gpuInstances: false
-  namespaceSingleton: true
+  namespaceSingleton: false
 upstreamChartURL: https://github.com/linkerd/linkerd2/tree/main/charts/linkerd2
