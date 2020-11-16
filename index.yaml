@@ -278,6 +278,28 @@ entries:
     version: 1.0.0
   giantswarm-todo-app:
   - apiVersion: v1
+    appVersion: 0.5.1
+    created: "2020-11-16T14:33:31.807987021Z"
+    dependencies:
+    - name: mysql
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 1.4.0
+    description: A sample microservice TODO management application.
+    digest: 173a44900b7b93b7e253caf75c48134e459d1922ec0e13574833d1f55113610d
+    home: https://giantswarm.io
+    icon: https://s.giantswarm.io/app-icons/1/png/giantswarm-todo-app-light.png
+    kubeVersion: ^1.10.0-0
+    maintainers:
+    - email: hello@giantswarm.io
+      name: Giantswarm Team
+    name: giantswarm-todo-app
+    sources:
+    - https://github.com/giantswarm/blog-i-want-it-all
+    - https://github.com/giantswarm/giantswarm-todo-app/
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/giantswarm-todo-app-0.5.1.tgz
+    version: 0.5.1
+  - apiVersion: v1
     appVersion: 0.4.1
     created: "2020-09-17T12:39:28.073727178Z"
     dependencies:
@@ -961,30 +983,6 @@ entries:
   linkerd2-app:
   - apiVersion: v1
     appVersion: stable-2.8.1
-    created: "2020-11-11T15:37:43.784306775Z"
-    description: Linkerd gives you observability, reliability, and security for your
-      microservices — with no code change required.
-    digest: 0d304832b928a404d6f452cc52702acc2a10479f3210074effbbae8f09290f5e
-    home: https://linkerd.io
-    icon: https://s.giantswarm.io/app-icons/1/png/linkerd2-app-light.png
-    keywords:
-    - service-mesh
-    kubeVersion: '>=1.13.0-0'
-    maintainers:
-    - email: cncf-linkerd-dev@lists.cncf.io
-      name: Linkerd authors
-      url: https://linkerd.io/
-    - name: Giant Swarm applications team
-      url: https://github.com/giantswarm/linkerd2-app
-    name: linkerd2-app
-    sources:
-    - https://github.com/linkerd/linkerd2/
-    - https://github.com/giantswarm/linkerd2-app
-    urls:
-    - https://giantswarm.github.com/giantswarm-playground-catalog/linkerd2-app-0.4.1-bbdca58cee67f8fe5e73c9b30f5155e15beb33be.tgz
-    version: 0.4.1-bbdca58cee67f8fe5e73c9b30f5155e15beb33be
-  - apiVersion: v1
-    appVersion: stable-2.8.1
     created: "2020-10-13T10:34:26.352013551Z"
     description: Linkerd gives you observability, reliability, and security for your
       microservices — with no code change required.
@@ -1007,6 +1005,30 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/linkerd2-app-0.4.1.tgz
     version: 0.4.1
+  - apiVersion: v1
+    appVersion: stable-2.8.1
+    created: "2020-11-11T15:37:43.784306775Z"
+    description: Linkerd gives you observability, reliability, and security for your
+      microservices — with no code change required.
+    digest: 0d304832b928a404d6f452cc52702acc2a10479f3210074effbbae8f09290f5e
+    home: https://linkerd.io
+    icon: https://s.giantswarm.io/app-icons/1/png/linkerd2-app-light.png
+    keywords:
+    - service-mesh
+    kubeVersion: '>=1.13.0-0'
+    maintainers:
+    - email: cncf-linkerd-dev@lists.cncf.io
+      name: Linkerd authors
+      url: https://linkerd.io/
+    - name: Giant Swarm applications team
+      url: https://github.com/giantswarm/linkerd2-app
+    name: linkerd2-app
+    sources:
+    - https://github.com/linkerd/linkerd2/
+    - https://github.com/giantswarm/linkerd2-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/linkerd2-app-0.4.1-bbdca58cee67f8fe5e73c9b30f5155e15beb33be.tgz
+    version: 0.4.1-bbdca58cee67f8fe5e73c9b30f5155e15beb33be
   - apiVersion: v1
     appVersion: stable-2.8.1
     created: "2020-10-09T14:28:59.305868923Z"
@@ -1323,4 +1345,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/strimzi-kafka-operator-app-0.0.1.tgz
     version: 0.0.1
-generated: "2020-10-21T10:20:08.562907752Z"
+generated: "2020-11-16T14:33:31.804025567Z"
