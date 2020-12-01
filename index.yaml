@@ -24,6 +24,18 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/app-mesh-app-0.4.0.tgz
     version: 0.4.0
+  app-updater-app:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2020-12-01T08:07:24.710844714Z"
+    description: A Helm chart for app-updater
+    digest: 6b389009d97404398d62f0053204412bceea4083192e38882fe0d5d65e38bed7
+    home: https://github.com/giantswarm/app-updater-app
+    icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
+    name: app-updater-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/app-updater-app-0.1.0.tgz
+    version: 0.1.0
   azure-ad-pod-identity-app:
   - apiVersion: v1
     appVersion: 1.6.1
@@ -1380,4 +1392,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2020-11-27T15:41:01.0836318Z"
+generated: "2020-12-01T08:07:24.710107389Z"
