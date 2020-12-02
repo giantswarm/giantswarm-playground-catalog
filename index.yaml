@@ -36,6 +36,20 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/app-updater-app-0.1.0.tgz
     version: 0.1.0
+  aws-ebs-csi-driver-app:
+  - apiVersion: v1
+    appVersion: 0.7.1
+    created: "2020-12-02T11:16:52.796537279Z"
+    description: A Helm chart for AWS EBS CSI Driver
+    digest: 013e5c38e96c754072dbe95929f37e5dba157b01720330ab58aa60e3a2d21e03
+    home: https://github.com/giantswarm/aws-ebs-csi-driver-app
+    kubeVersion: '>=1.13.0-0'
+    name: aws-ebs-csi-driver-app
+    sources:
+    - https://raw.githubusercontent.com/giantswarm/aws-ebs-csi-driver-app/v1.0.0/README.md
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/aws-ebs-csi-driver-app-1.0.0.tgz
+    version: 1.0.0
   azure-ad-pod-identity-app:
   - apiVersion: v1
     appVersion: 1.6.1
@@ -1392,4 +1406,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2020-12-01T08:07:24.710107389Z"
+generated: "2020-12-02T11:16:52.795072475Z"
