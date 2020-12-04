@@ -711,6 +711,17 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/jaeger-operator-app-0.1.1.tgz
     version: 0.1.1
+  k8s-audit-metrics:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2020-12-04T09:41:51.071104734Z"
+    description: Collector that exposes metrics from k8s apiserver audit log.
+    digest: 00516da968d43b0f9856edf11d17c47e7f4c47acef3d70ab7b80f64c712dc153
+    home: https://github.com/giantswarm/k8s-audit-metrics
+    name: k8s-audit-metrics
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/k8s-audit-metrics-0.0.1.tgz
+    version: 0.0.1
   k8s-initiator-app:
   - apiVersion: v1
     appVersion: v0.9.0
@@ -1406,4 +1417,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2020-12-02T11:16:52.795072475Z"
+generated: "2020-12-04T09:41:51.070566441Z"
