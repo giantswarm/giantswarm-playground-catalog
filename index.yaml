@@ -1467,6 +1467,18 @@ entries:
   vertical-pod-autoscaler-app:
   - apiVersion: v1
     appVersion: 0.8.0
+    created: "2020-12-11T11:05:25.626980644Z"
+    description: A Helm chart for vertical-pod-autoscaler
+    digest: 35f3dca126d339f7b8a968362d8e878651a1ed23133b017f0dcfd4f77efe8134
+    home: https://github.com/giantswarm/vertical-pod-autoscaler-app
+    name: vertical-pod-autoscaler-app
+    sources:
+    - https://github.com/kubernetes/autoscaler
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: 0.8.0
     created: "2020-11-27T15:41:01.085049927Z"
     description: A Helm chart for vertical-pod-autoscaler
     digest: b9a4dcdb6f198e3ca0421760045671caf5b386996b26bf374e989651a8eb234d
@@ -1477,4 +1489,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2020-12-07T13:21:36.41751323Z"
+generated: "2020-12-11T11:05:25.625809191Z"
