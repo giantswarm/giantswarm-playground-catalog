@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.2.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.2.tgz-meta/README.md
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.2.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: jaeger-operator-app-0.2.2.tgz
+dateCreated: '2021-01-20T09:59:11+00:00'
+digest: d2219c2b39d1b63fd5db1f86605b06242356294c155d30597bab91dd6bdb041e
