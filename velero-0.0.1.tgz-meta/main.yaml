@@ -1,0 +1,7 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/velero-0.0.1.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/velero-0.0.1.tgz-meta/README.md
+chartApiVersion: v2
+chartFile: velero-0.0.1.tgz
+dateCreated: '2021-01-27T23:45:21+00:00'
+digest: 22c64bf0dc5199314a89a5da22e0462147d1107abf95f2f57dc6484219784dd5

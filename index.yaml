@@ -1731,6 +1731,35 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/strimzi-kafka-operator-app-0.0.1.tgz
     version: 0.0.1
+  velero:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/velero-0.0.1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/velero-0.0.1.tgz-meta/README.md
+    apiVersion: v2
+    appVersion: v1.4.3
+    created: "2021-01-27T23:45:24.150384086Z"
+    description: A Helm chart for Kubernetes
+    digest: 22c64bf0dc5199314a89a5da22e0462147d1107abf95f2f57dc6484219784dd5
+    home: https://github.com/giantswarm/velero-app
+    icon: https://github.com/giantswarm/velero-apps /raw/master/images/velero.svg
+    maintainers:
+    - email: d-caruso@hotmail.it
+      name: domcar
+    - email: hfernandez@mesosphere.com
+      name: hectorj2f
+    - email: brubakern@vmware.com
+      name: nrb
+    - email: carlisiac@vmware.com
+      name: carlisia
+    - email: ashisham@vmware.com
+      name: ashish-amarnath
+    name: velero
+    sources:
+    - https://github.com/vmware-tanzu/velero
+    type: application
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/velero-0.0.1.tgz
+    version: 0.0.1
   vertical-pod-autoscaler-app:
   - apiVersion: v1
     appVersion: 0.8.0
@@ -1780,4 +1809,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-01-27T14:13:33.548069431Z"
+generated: "2021-01-27T23:45:24.147935882Z"
