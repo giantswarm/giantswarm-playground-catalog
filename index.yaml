@@ -80,6 +80,19 @@ entries:
     version: 1.0.0
   aws-efs-csi-driver:
   - apiVersion: v1
+    appVersion: 1.1.0
+    created: "2021-01-29T10:10:10.994916244Z"
+    description: A Helm chart for AWS EFS CSI Driver
+    digest: d1029dd0f3f2a6ea8f0ba34c3735990f8dd4be5aa1653c15a08298ff6a95d3fa
+    home: https://github.com/giantswarm/aws-efs-csi-driver
+    kubeVersion: '>=1.14.0-0'
+    name: aws-efs-csi-driver
+    sources:
+    - https://raw.githubusercontent.com/giantswarm/aws-efs-csi-driver-app/v0.0.6/README.md
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/aws-efs-csi-driver-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v1
     appVersion: 1.0.0
     created: "2021-01-27T14:13:33.548855911Z"
     description: A Helm chart for AWS EFS CSI Driver
@@ -1809,4 +1822,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-01-27T23:45:24.147935882Z"
+generated: "2021-01-29T10:10:10.994099681Z"
