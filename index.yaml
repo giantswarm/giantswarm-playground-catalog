@@ -341,6 +341,19 @@ entries:
     version: 0.0.1
   fluent-logshipping-app:
   - apiVersion: v1
+    appVersion: 0.5.4
+    created: "2021-02-16T17:56:22.258171329Z"
+    description: The Log Shipping App forwards cluster logs to storage backends
+    digest: ab6cf61296701b1efd0d1a7d078714a2a253f0dd922e5d517f9cb06204d6403b
+    home: https://github.com/giantswarm/fluent-logshipping-app
+    icon: https://s.giantswarm.io/app-icons/1/png/fluent-logshipping-app-light.png
+    name: fluent-logshipping-app
+    sources:
+    - https://github.com/giantswarm/fluent-logshipping-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/fluent-logshipping-app-0.5.4.tgz
+    version: 0.5.4
+  - apiVersion: v1
     appVersion: 0.5.3
     created: "2021-02-16T16:55:34.050530586Z"
     description: The Log Shipping App forwards cluster logs to storage backends
@@ -1885,4 +1898,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-02-16T16:55:34.049373983Z"
+generated: "2021-02-16T17:56:22.257178075Z"
