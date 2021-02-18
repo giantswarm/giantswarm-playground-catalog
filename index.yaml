@@ -1193,6 +1193,31 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/k8s-initiator-app-0.2.0.tgz
     version: 0.2.0
+  keda:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/keda-0.1.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/keda-0.1.0.tgz-meta/README.md
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/keda-0.1.0.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: 2.1.0
+    created: "2021-02-18T15:27:17.322324609Z"
+    description: Event-based autoscaler for workloads on Kubernetes
+    digest: f5196ab4b5b3041e59e76254e9e247afa1424f5910acafee98c8af6999d60e96
+    home: https://github.com/kedacore/keda
+    icon: https://raw.githubusercontent.com/kedacore/keda/master/images/keda-logo-500x500-white.png
+    maintainers:
+    - email: ahmels@microsoft.com
+      name: Ahmed ElSayed
+    - email: kerkhove.tom@gmail.com
+      name: Tom Kerkhove
+    - email: zroubali@redhat.com
+      name: Zbynek Roubalik
+    name: keda
+    sources:
+    - https://github.com/kedacore/keda
+    urls:
+    - https://giantswarm.github.com/giantswarm-playground-catalog/keda-0.1.0.tgz
+    version: 0.1.0
   kibana-oss-app:
   - apiVersion: v1
     appVersion: v0.1
@@ -1924,4 +1949,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-02-17T14:20:30.521865291Z"
+generated: "2021-02-18T15:27:17.31898149Z"
