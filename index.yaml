@@ -899,6 +899,33 @@ entries:
     version: 1.0.0
   jaeger-operator-app:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.3.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.3.tgz-meta/README.md
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.3.tgz-meta/values.schema.json
+    apiVersion: v1
+    appVersion: 1.21.2
+    created: "2021-02-26T15:48:43.559981637Z"
+    description: jaeger-operator Helm chart for Kubernetes
+    digest: 31a375b77bdb004481ff5612eedd8c0683c559d2b801328ef450d94b788dc9c4
+    home: https://github.com/jaegertracing/jaeger-operator
+    icon: https://s.giantswarm.io/app-icons/1/png/jaeger-operator-app-light.png
+    maintainers:
+    - email: hello@giantswarm.io
+      name: Giantswarm Team
+    - email: ctadeu@gmail.com
+      name: cpanato
+    - email: batazor111@gmail.com
+      name: batazor
+    name: jaeger-operator-app
+    sources:
+    - https://github.com/jaegertracing/jaeger-operator
+    - https://github.com/giantswarm/jaeger-operator-app
+    - https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/v[[ .Version
+      ]]/README.md
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.3.tgz
+    version: 0.2.3
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.2.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.2.tgz-meta/README.md
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.2.tgz-meta/values.schema.json
@@ -1951,4 +1978,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-02-24T10:08:09.310186388Z"
+generated: "2021-02-26T15:48:43.55840984Z"
