@@ -1399,6 +1399,20 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/kibana-oss-app-0.0.0.tgz
     version: 0.0.0
+  kube-bench-app:
+  - apiVersion: v2
+    appVersion: 0.2.3
+    created: "2021-03-08T09:46:39.372030019Z"
+    description: A Helm chart for the Aqua Security kube-bench tool
+    digest: 5c8e7a3c88c2c41d56e33ba8cb0d60cf4564c557953e02f7d03e8f18a6ad4478
+    home: https://github.com/giantswarm/kube-bench-app
+    icon: https://github.com/aquasecurity/kube-bench/raw/main/images/kube-bench.png
+    name: kube-bench-app
+    sources:
+    - https://raw.githubusercontent.com/giantswarm/kube-bench-app/v0.1.0/README.md
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/kube-bench-app-0.1.0.tgz
+    version: 0.1.0
   kubernetes-gpu-app:
   - apiVersion: v1
     appVersion: 440.82.2
@@ -1995,4 +2009,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-03-04T11:22:47.257092692Z"
+generated: "2021-03-08T09:46:39.37149085Z"
