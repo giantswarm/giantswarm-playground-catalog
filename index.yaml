@@ -41,6 +41,17 @@ entries:
   app-updater-app:
   - apiVersion: v1
     appVersion: 0.1.0
+    created: "2021-04-29T08:17:11.304107585Z"
+    description: A Helm chart for app-updater
+    digest: 7af0a25de621fb6be07de34855fd2bb7b71e4df6eb607545fe8893a71fc8dbce
+    home: https://github.com/giantswarm/app-updater-app
+    icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
+    name: app-updater-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/app-updater-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: 0.1.0
     created: "2020-12-01T08:07:24.710844714Z"
     description: A Helm chart for app-updater
     digest: 6b389009d97404398d62f0053204412bceea4083192e38882fe0d5d65e38bed7
@@ -2155,4 +2166,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-04-16T13:53:17.82653409Z"
+generated: "2021-04-29T08:17:11.303660015Z"
