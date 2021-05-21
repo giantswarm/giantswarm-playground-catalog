@@ -2028,6 +2028,22 @@ entries:
   spark-operator:
   - apiVersion: v2
     appVersion: 2.4.0
+    created: "2021-05-21T11:00:13.000984521Z"
+    description: A Helm chart for spark-operator
+    digest: 9338f1c52a2c2f50564fe963a705e5633de29467f8c61c709af3c83e91097d60
+    home: https://github.com/giantswarm/spark-operator
+    icon: https://some.domain.com/logo.png
+    maintainers:
+    - email: yuchaoran2011@gmail.com
+      name: yuchaoran2011
+    name: spark-operator
+    sources:
+    - https://github.com/some-org/some-repo
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/spark-operator-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 2.4.0
     created: "2021-05-21T10:41:59.881572267Z"
     description: A Helm chart for spark-operator
     digest: 09977cfdb431a1d876ca11afa94fdb0a65a1069e79d37a10e26d2cab351d73fc
@@ -2222,4 +2238,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-05-21T10:41:59.879843316Z"
+generated: "2021-05-21T11:00:12.998570493Z"
