@@ -710,24 +710,6 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/fluent-logshipping-app-0.2.0.tgz
     version: 0.2.0
-  flux-app:
-  - annotations:
-      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/flux-app-0.1.0.tgz-meta/main.yaml
-      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/flux-app-0.1.0.tgz-meta/README.md
-      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/flux-app-0.1.0.tgz-meta/values.schema.json
-    apiVersion: v1
-    appVersion: 0.5.9
-    created: "2021-02-04T12:09:07.563449982Z"
-    description: A Helm chart for flux
-    digest: 3b8b7bc4720a9cdfc5c7562ddaab521cfc25febe1ff3d714d43a36d468f08b1f
-    home: https://github.com/giantswarm/flux-app
-    icon: https://s.giantswarm.io/app-icons/1/png/flux-app-light.png
-    name: flux-app
-    sources:
-    - https://github.com/fluxcd/flux2
-    urls:
-    - https://giantswarm.github.io/giantswarm-playground-catalog/flux-app-0.1.0.tgz
-    version: 0.1.0
   gatling-app:
   - apiVersion: v1
     appVersion: 3.2.1
