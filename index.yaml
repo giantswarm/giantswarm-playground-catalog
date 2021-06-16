@@ -1058,6 +1058,30 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/goldilocks-app-0.1.0.tgz
     version: 0.1.0
+  harbor:
+  - apiVersion: v1
+    appVersion: 1.10.7
+    created: "2021-06-16T08:01:27.284748954Z"
+    description: An open source trusted cloud native registry that stores, signs, and scans content
+    digest: 64fd825809813a3abf7f11634f542cf0d460bd1c631bae84ef6bfbec64243f6a
+    home: https://goharbor.io
+    icon: https://raw.githubusercontent.com/goharbor/harbor/master/docs/img/harbor_logo.png
+    keywords:
+    - docker
+    - registry
+    - harbor
+    maintainers:
+    - email: yinw@vmware.com
+      name: Wenkai Yin
+    - email: hweiwei@vmware.com
+      name: Weiwei He
+    name: harbor
+    sources:
+    - https://github.com/goharbor/harbor
+    - https://github.com/goharbor/harbor-helm
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/harbor-0.1.0.tgz
+    version: 0.1.0
   inlets-operator-app:
   - apiVersion: v1
     appVersion: 0.7.0
@@ -2233,4 +2257,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-05-21T17:35:24.54540696Z"
+generated: "2021-06-16T08:01:27.279818116Z"
