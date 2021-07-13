@@ -1975,6 +1975,24 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/loki-stack-app-0.1.0.tgz
     version: 0.1.0
+  oms-agent:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/oms-agent-0.1.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/oms-agent-0.1.0.tgz-meta/README.md
+    apiVersion: v1
+    appVersion: ciprod06112021
+    created: "2021-07-13T14:52:38.333293492Z"
+    description: A Helm chart for oms-agent
+    digest: aee8bf2ae4db120a28a2fe81075fcb84ce2ffce72a18cd618318fdd403b0a13b
+    home: https://github.com/giantswarm/oms-agent-app
+    icon: https://raw.githubusercontent.com/microsoft/Docker-Provider/ci_prod/img/azuremonitor-containers.svg
+    name: oms-agent
+    sources:
+    - https://github.com/microsoft/Docker-Provider/tree/ci_prod
+    - https://docs.microsoft.com/en-us/azure/monitoring/monitoring-container-health
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/oms-agent-0.1.0.tgz
+    version: 0.1.0
   opencensus-collector-app:
   - apiVersion: v1
     appVersion: 0.1.11
@@ -2285,4 +2303,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-06-29T16:10:10.703097367Z"
+generated: "2021-07-13T14:52:38.332172824Z"

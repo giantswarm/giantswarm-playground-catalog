@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/oms-agent-0.1.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/oms-agent-0.1.0.tgz-meta/README.md
+chartApiVersion: v1
+chartFile: oms-agent-0.1.0.tgz
+dateCreated: '2021-07-13T14:52:36.981794'
+digest: aee8bf2ae4db120a28a2fe81075fcb84ce2ffce72a18cd618318fdd403b0a13b
+home: https://github.com/giantswarm/oms-agent-app
+icon: https://raw.githubusercontent.com/microsoft/Docker-Provider/ci_prod/img/azuremonitor-containers.svg
+restrictions:
+  compatibleProviders:
+  - azure
