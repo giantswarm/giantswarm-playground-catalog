@@ -1481,6 +1481,20 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/keda-0.1.0.tgz
     version: 0.1.0
+  kiam-watchdog:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2021-07-26T12:25:20.469624847Z"
+    description: A Helm chart for kiam-watchdog
+    digest: 81704e299c018bb3e7d009ff695c54376ff4310d233d0a343f9b17f040eedbd7
+    home: https://github.com/giantswarm/kiam-watchdog
+    icon: https://s.giantswarm.io/app-icons/1/png/default-app-light.png
+    name: kiam-watchdog
+    sources:
+    - https://github.com/giantswarm/kiam-watchdog
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/kiam-watchdog-0.1.0.tgz
+    version: 0.1.0
   kibana-oss-app:
   - apiVersion: v1
     appVersion: v0.1
@@ -2303,4 +2317,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-07-13T14:52:38.332172824Z"
+generated: "2021-07-26T12:25:20.468775399Z"
