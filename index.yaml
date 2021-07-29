@@ -2089,6 +2089,24 @@ entries:
     version: 0.1.1
   rook-operator:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.2.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.2.tgz-meta/README.md
+      application.giantswarm.io/team: rocket
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.2.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: 1.6.8
+    created: "2021-07-29T09:52:53.337763147Z"
+    description: File, Block, and Object Storage Services for your Cloud-Native Environment
+    digest: 0b1cdfac82bd73f4ec49e5b48cfcb111184b11473f88b4993da5b3d0c9147c00
+    icon: https://s.giantswarm.io/app-icons/1/png/rook-operator-app-light.png
+    name: rook-operator
+    sources:
+    - https://github.com/rook/rook
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.2.tgz
+    version: 0.3.2
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.1.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.1.tgz-meta/README.md
       application.giantswarm.io/team: rocket
@@ -2366,4 +2384,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-07-29T09:28:04.448610517Z"
+generated: "2021-07-29T09:52:53.331244395Z"
