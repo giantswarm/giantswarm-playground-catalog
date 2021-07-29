@@ -2087,6 +2087,25 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/opencensus-collector-app-0.1.1.tgz
     version: 0.1.1
+  rook-operator:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.1.tgz-meta/README.md
+      application.giantswarm.io/team: rocket
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.1.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: 1.6.8
+    created: "2021-07-29T09:28:04.454564605Z"
+    description: File, Block, and Object Storage Services for your Cloud-Native Environment
+    digest: 5d9c61f57dd091c83d2ee4615eb544cbe772dd4d86ed0e582ca74446fc2fa4e4
+    icon: https://s.giantswarm.io/app-icons/1/png/rook-operator-app-light.png
+    name: rook-operator
+    sources:
+    - https://github.com/rook/rook
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.1.tgz
+    version: 0.3.1
   rook-operator-app:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-app-0.3.0.tgz-meta/main.yaml
@@ -2347,4 +2366,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-07-28T15:04:12.290996379Z"
+generated: "2021-07-29T09:28:04.448610517Z"
