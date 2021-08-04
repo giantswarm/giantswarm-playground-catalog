@@ -2209,6 +2209,28 @@ entries:
     - https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.3-b0b5ab20cbe6329fff2087605dbba81e7e9d72ae.tgz
     version: 0.3.3-b0b5ab20cbe6329fff2087605dbba81e7e9d72ae
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.3-6bcbaf950bd1e722a3bd83f6b23f4979c4740598.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.3-6bcbaf950bd1e722a3bd83f6b23f4979c4740598.tgz-meta/README.md
+      application.giantswarm.io/team: rocket
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.3-6bcbaf950bd1e722a3bd83f6b23f4979c4740598.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v2
+    appVersion: 1.6.8
+    created: "2021-08-04T08:56:18.753723931Z"
+    dependencies:
+    - name: monitoring
+      repository: ""
+      version: 0.2.0
+    description: File, Block, and Object Storage Services for your Cloud-Native Environment
+    digest: 6d924679a5918f063cdacb0b85630fcb63be81963fb130f5fbfe0d33ba4416e3
+    icon: https://s.giantswarm.io/app-icons/1/png/rook-operator-app-light.png
+    name: rook-operator
+    sources:
+    - https://github.com/rook/rook
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.3-6bcbaf950bd1e722a3bd83f6b23f4979c4740598.tgz
+    version: 0.3.3-6bcbaf950bd1e722a3bd83f6b23f4979c4740598
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.2.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.2.tgz-meta/README.md
       application.giantswarm.io/team: rocket
@@ -2504,4 +2526,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-08-04T08:54:09.196474026Z"
+generated: "2021-08-04T08:56:18.749202156Z"
