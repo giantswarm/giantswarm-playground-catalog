@@ -2187,6 +2187,28 @@ entries:
     - https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.3.tgz
     version: 0.3.3
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.3-b0b5ab20cbe6329fff2087605dbba81e7e9d72ae.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.3-b0b5ab20cbe6329fff2087605dbba81e7e9d72ae.tgz-meta/README.md
+      application.giantswarm.io/team: rocket
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.3-b0b5ab20cbe6329fff2087605dbba81e7e9d72ae.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v2
+    appVersion: 1.6.8
+    created: "2021-08-04T08:54:09.200757579Z"
+    dependencies:
+    - name: monitoring
+      repository: ""
+      version: 0.2.0
+    description: File, Block, and Object Storage Services for your Cloud-Native Environment
+    digest: e13dcf06d3c7edd03f16ffb97a4e9dfb4b71c0dd4b4aa44875613e2d65c2406f
+    icon: https://s.giantswarm.io/app-icons/1/png/rook-operator-app-light.png
+    name: rook-operator
+    sources:
+    - https://github.com/rook/rook
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.3-b0b5ab20cbe6329fff2087605dbba81e7e9d72ae.tgz
+    version: 0.3.3-b0b5ab20cbe6329fff2087605dbba81e7e9d72ae
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.2.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/rook-operator-0.3.2.tgz-meta/README.md
       application.giantswarm.io/team: rocket
@@ -2482,4 +2504,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-07-30T09:30:15.623526228Z"
+generated: "2021-08-04T08:54:09.196474026Z"
