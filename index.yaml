@@ -487,6 +487,20 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.1.0.tgz
     version: 0.1.0
+  azure-calico-user-defined-routes:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2021-08-30T09:14:14.631886715Z"
+    description: A Helm chart to apply needed iptables rules in order for Calico user defined routes to work on Azure.
+    digest: 054f808044b69f29ed3502dc19db2481a042d66ccc49e68e48e28492e11301bd
+    home: https://github.com/giantswarm/azure-calico-user-defined-routes-app
+    icon: https://s.giantswarm.io/app-icons/1/png/default-app-light.png
+    name: azure-calico-user-defined-routes
+    sources:
+    - https://github.com/giantswarm/azure-calico-user-defined-routes-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/azure-calico-user-defined-routes-0.1.0.tgz
+    version: 0.1.0
   datadog:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/datadog-2.1.0.tgz-meta/main.yaml
@@ -2693,4 +2707,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-08-27T13:50:11.878540919Z"
+generated: "2021-08-30T09:14:14.631240018Z"
