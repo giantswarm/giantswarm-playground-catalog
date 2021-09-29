@@ -14,6 +14,21 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/actions-runner-controller-0.1.0.tgz
     version: 0.1.0
+  akv2k8s:
+  - apiVersion: v1
+    appVersion: 1.3.0
+    created: "2021-09-29T07:08:34.543409434Z"
+    description: A Helm chart for akv2k8s
+    digest: d705bf74d72b462109c0ddabf0193c0357fc92fe1182a4a870e04bf15c863510
+    home: https://github.com/giantswarm/akv2k8s-app
+    icon: https://s.giantswarm.io/app-icons/1/png/default-app-light.png
+    name: akv2k8s
+    sources:
+    - https://github.com/SparebankenVest/public-helm-charts/tree/master/stable/akv2k8s
+    - https://akv2k8s.io/
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/akv2k8s-0.1.0.tgz
+    version: 0.1.0
   alfred-app:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/alfred-app-v0.2.0.tgz-meta/main.yaml
@@ -2775,4 +2790,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-09-10T12:23:12.466390464Z"
+generated: "2021-09-29T07:08:34.541297654Z"
