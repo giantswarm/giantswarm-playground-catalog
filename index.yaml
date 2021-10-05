@@ -623,6 +623,40 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/datadog-2.0.0.tgz
     version: 2.0.0
+  dex-app:
+  - annotations:
+      application.giantswarm.io/team: biscuit
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: v2.28.1
+    created: "2021-10-05T07:32:23.02061471Z"
+    description: CoreOS Dex
+    digest: 01ab7332de62c8727521855da2227cb1905a671f7f50ae0a180fdc0e4fad4169
+    home: https://github.com/dexidp/dex/
+    icon: https://github.com/dexidp/dex/raw/master/Documentation/logos/dex-glyph-color.png
+    keywords:
+    - dex
+    - oidc
+    maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: kfox1111
+    - email: shane.starcher@gmail.com
+      name: sstarcher
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: vi7alya@gmail.com
+      name: vi7
+    - email: aaron@roydhouse.com
+      name: Aaron Roydhouse
+    - email: nbadger@mintel.com
+      name: Nick Badger
+    name: dex-app
+    sources:
+    - https://github.com/dexidp/dex/
+    - https://github.com/mintel/dex-k8s-authenticator
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.14.0.tgz
+    version: 1.14.0
   eventrouter-app:
   - apiVersion: v1
     appVersion: v0.3
@@ -2790,4 +2824,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-09-29T07:08:34.541297654Z"
+generated: "2021-10-05T07:32:23.017548421Z"
