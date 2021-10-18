@@ -658,6 +658,39 @@ entries:
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
     appVersion: v2.28.1
+    created: "2021-10-18T11:36:16.705662728Z"
+    description: CoreOS Dex
+    digest: b945945306c52306a572d9a8a95c85036efd4d88e9d57bfcc10021348b412523
+    home: https://github.com/dexidp/dex/
+    icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
+    keywords:
+    - dex
+    - oidc
+    maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: kfox1111
+    - email: shane.starcher@gmail.com
+      name: sstarcher
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: vi7alya@gmail.com
+      name: vi7
+    - email: aaron@roydhouse.com
+      name: Aaron Roydhouse
+    - email: nbadger@mintel.com
+      name: Nick Badger
+    name: dex-app
+    sources:
+    - https://github.com/dexidp/dex/
+    - https://github.com/mintel/dex-k8s-authenticator
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.14.1.tgz
+    version: 1.14.1
+  - annotations:
+      application.giantswarm.io/team: biscuit
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: v2.28.1
     created: "2021-10-05T07:32:23.02061471Z"
     description: CoreOS Dex
     digest: 01ab7332de62c8727521855da2227cb1905a671f7f50ae0a180fdc0e4fad4169
@@ -2866,4 +2899,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-10-15T14:18:05.33182267Z"
+generated: "2021-10-18T11:36:16.704684868Z"
