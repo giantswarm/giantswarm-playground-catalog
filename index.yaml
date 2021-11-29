@@ -871,6 +871,20 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.14.0.tgz
     version: 1.14.0
+  etcd-kubernetes-resources-count-exporter:
+  - annotations:
+      application.giantswarm.io/team: phoenix
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: 0.1.0
+    created: "2021-11-29T10:33:51.345358939Z"
+    description: Collector that exposes metrics about k8s resources stored in etcd
+    digest: fe071687246447efe5d681bfc13fba8d3c5f0d7c3da7ad144105d91bc2794270
+    home: https://github.com/giantswarm/etcd-kubernetes-resources-count-exporter
+    name: etcd-kubernetes-resources-count-exporter
+    urls:
+    - https://giantswarm.github.io/playground-catalog/etcd-kubernetes-resources-count-exporter-0.1.0.tgz
+    version: 0.1.0
   eventrouter-app:
   - apiVersion: v1
     appVersion: v0.3
@@ -3076,4 +3090,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-11-25T13:26:14.560179544Z"
+generated: "2021-11-29T10:33:51.344745212Z"
