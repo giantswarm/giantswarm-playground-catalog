@@ -1004,6 +1004,17 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.14.0.tgz
     version: 1.14.0
+  etcd-cluster-migrator:
+  - apiVersion: v1
+    appVersion: 1.1.0
+    created: "2022-01-11T08:55:47.426874589Z"
+    description: Migrate etcd cluster to 3 node cluster.
+    digest: eeab12638fd9a174d888d8359fefe3560c36ba642147261614cc5e4a44c51aca
+    home: https://github.com/giantswarm/etcd-cluster-migrator
+    name: etcd-cluster-migrator
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/etcd-cluster-migrator-1.1.0.tgz
+    version: 1.1.0
   etcd-kubernetes-resources-count-exporter:
   - annotations:
       application.giantswarm.io/team: phoenix
@@ -3233,4 +3244,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2021-12-14T15:27:52.821816854Z"
+generated: "2022-01-11T08:55:47.426265795Z"
