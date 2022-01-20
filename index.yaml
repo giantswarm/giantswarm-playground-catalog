@@ -1004,6 +1004,17 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.14.0.tgz
     version: 1.14.0
+  encryption-config-hasher:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2022-01-20T13:52:14.791947882Z"
+    description: A Helm chart for encryption-config-hasher
+    digest: bcc176c4fbbb6fb349d9bbd2deb1497b307d9be34557d926add19e3e9499fe2f
+    home: https://github.com/giantswarm/encryption-config-hasher
+    name: encryption-config-hasher
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/encryption-config-hasher-0.1.0.tgz
+    version: 0.1.0
   etcd-cluster-migrator:
   - apiVersion: v1
     appVersion: 1.1.0
@@ -3254,4 +3265,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-1.0.0.tgz
     version: 1.0.0
-generated: "2022-01-11T09:12:57.091922023Z"
+generated: "2022-01-20T13:52:14.791400011Z"
