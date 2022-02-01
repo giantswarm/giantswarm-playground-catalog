@@ -3216,6 +3216,26 @@ entries:
     version: 0.0.1
   vertical-pod-autoscaler-app:
   - annotations:
+      application.giantswarm.io/team: atlas
+      config.giantswarm.io/version: 1.x.x
+      repository: https://github.com/FairwindsOps/charts/tree/master/stable/vpa
+      version: fb2ccec4228c26e366bd1ac96aade056f3db0151
+    apiVersion: v2
+    appVersion: 0.9.2
+    created: "2022-02-01T11:09:14.515184181Z"
+    description: A Helm chart for Kubernetes Vertical Pod Autoscaler
+    digest: c0b298441cd88dc740854164bbe5a3f92d062579a4a1e6945640d4b0d7b5b872
+    home: https://github.com/giantswarm/vertical-pod-autoscaler-app
+    maintainers:
+    - name: sudermanjr
+    name: vertical-pod-autoscaler-app
+    sources:
+    - https://github.com/kubernetes/autoscaler
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-2.0.0.tgz
+    version: 2.0.0
+  - annotations:
       application.giantswarm.io/owners: |
         - catalog: control-plane-catalog
           team: atlas
@@ -3357,4 +3377,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-02-01T11:07:50.48269529Z"
+generated: "2022-02-01T11:09:14.513495351Z"
