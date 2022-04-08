@@ -454,6 +454,19 @@ entries:
       application.giantswarm.io/team: phoenix
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
+    appVersion: 0.2.0
+    created: "2022-04-08T14:16:07.701095426Z"
+    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems when upgrading from 16.x to 17.x releases.
+    digest: 0ad5985d6e1cab6f074afd4ed241e0cd47dcb76d1cfb3f20ea07f7b2c2561033
+    home: https://github.com/giantswarm/aws-iptables-legacy-cleaner
+    name: aws-iptables-legacy-cleaner
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/aws-iptables-legacy-cleaner-0.2.0.tgz
+    version: 0.2.0
+  - annotations:
+      application.giantswarm.io/team: phoenix
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
     appVersion: 0.1.1
     created: "2022-04-08T09:07:24.993640336Z"
     description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems when upgrading from 16.x to 17.x releases.
@@ -3498,4 +3511,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-04-08T09:07:24.993163755Z"
+generated: "2022-04-08T14:16:07.699739176Z"
