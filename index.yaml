@@ -1207,6 +1207,21 @@ entries:
   - annotations:
       application.giantswarm.io/team: team-atlas
     apiVersion: v1
+    appVersion: 0.6.7
+    created: "2022-04-11T13:31:01.722582323Z"
+    description: The Log Shipping App forwards cluster logs to storage backends
+    digest: b6fea18af14e530ca530ec7c0bccb44ca0c1a4794c0d2937b4be1a6678756c23
+    home: https://github.com/giantswarm/fluent-logshipping-app
+    icon: https://s.giantswarm.io/app-icons/1/png/fluent-logshipping-app-light.png
+    name: fluent-logshipping-app
+    sources:
+    - https://github.com/giantswarm/fluent-logshipping-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/fluent-logshipping-app-0.6.7.tgz
+    version: 0.6.7
+  - annotations:
+      application.giantswarm.io/team: team-atlas
+    apiVersion: v1
     appVersion: 0.6.6
     created: "2021-11-03T17:25:57.287982759Z"
     description: The Log Shipping App forwards cluster logs to storage backends
@@ -3511,4 +3526,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-04-08T14:16:07.699739176Z"
+generated: "2022-04-11T13:31:01.721111381Z"
