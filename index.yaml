@@ -2065,6 +2065,16 @@ entries:
   k8s-dns-node-cache-app:
   - apiVersion: v1
     appVersion: 1.21.4
+    created: "2022-04-19T16:55:34.741538483Z"
+    description: A Helm chart to run NodeLocal DNSCache in Kubernetes clusters
+    digest: 415fe69d2f1b1f4247e0e57651cc259ba4b12a32c7b59f98043841e839917100
+    home: https://github.com/giantswarm/k8s-dns-node-cache-app
+    name: k8s-dns-node-cache-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/k8s-dns-node-cache-app-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    appVersion: 1.21.4
     created: "2022-03-22T09:43:42.523187306Z"
     description: A Helm chart to run NodeLocal DNSCache in Kubernetes clusters
     digest: 1f5b5ba3eb924976bdcd83cc453495777aca7ddce76b71b68a0b9d7672eadd49
@@ -3526,4 +3536,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-04-11T13:31:01.721111381Z"
+generated: "2022-04-19T16:55:34.740805375Z"
