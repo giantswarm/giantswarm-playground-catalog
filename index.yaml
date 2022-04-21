@@ -1009,6 +1009,18 @@ entries:
     version: 1.23.0
   dns-tester:
   - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2022-04-21T08:24:14.85423348Z"
+    description: A Helm chart used to test DNS status
+    digest: f1800a1a6378c87fb1d0fc837f9641028d6d1d867708e7f15ace1dbe0aab1779
+    home: https://github.com/giantswarm/dns-tester
+    name: dns-tester
+    sources:
+    - https://github.com/giantswarm/dns-tester
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/dns-tester-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
     appVersion: 0.1.0
     created: "2022-02-23T13:48:10.303324892Z"
     description: A Helm chart used to test DNS status
@@ -3536,4 +3548,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-04-19T16:55:34.740805375Z"
+generated: "2022-04-21T08:24:14.853566994Z"
