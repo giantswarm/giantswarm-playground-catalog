@@ -2024,6 +2024,19 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.1.1.tgz
     version: 0.1.1
+  jiralert:
+  - annotations:
+      application.giantswarm.io/team: shield
+    apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-04-29T12:29:15.212010056Z"
+    description: Alertmanager plugin that creates Jira tickets
+    digest: 92ad18a8ba74e3e31e076b57468563fbaf55fcba104afeeb33595f1a36740174
+    home: https://github.com/giantswarm/jiralert-app
+    name: jiralert
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/jiralert-0.0.1.tgz
+    version: 0.0.1
   k8s-audit-metrics:
   - apiVersion: v1
     appVersion: 0.3.0
@@ -3626,4 +3639,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-04-28T09:13:39.651390688Z"
+generated: "2022-04-29T12:29:15.210757095Z"
