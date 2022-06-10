@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/in-cluster-app: 'true'
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.3.1.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.3.1.tgz-meta/README.md
+  application.giantswarm.io/team: shield
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.3.1.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: security-pack-0.3.1.tgz
+dateCreated: '2022-06-10T13:43:43.302168'
+digest: 32d9498b567bab3b9d1615c69c6b0cfcd7fffd837bf1c6ce31af1b6d6ac8ccee
+home: https://github.com/giantswarm/security-pack
