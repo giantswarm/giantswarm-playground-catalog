@@ -3094,6 +3094,22 @@ entries:
       config.giantswarm.io/version: 1.x.x
     apiVersion: v2
     appVersion: 0.0.1
+    created: "2022-06-13T10:18:09.957364491Z"
+    description: A Helm chart for macropower-analytics-panel-server
+    digest: e783f266d4b9dd2e3742c806e2fc16f54c5adb3f05a34d13b6b1cdd3c49439cb
+    home: https://github.com/giantswarm/macropower-analytics-panel-server-app
+    icon: https://s.giantswarm.io/app-icons/1/png/default-app-light.png
+    name: macropower-analytics-panel-server
+    sources:
+    - https://github.com/MacroPower/macropower-analytics-panel/tree/master/server
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/macropower-analytics-panel-server-0.4.2.tgz
+    version: 0.4.2
+  - annotations:
+      application.giantswarm.io/team: atlas
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v2
+    appVersion: 0.0.1
     created: "2021-09-03T10:53:51.540267343Z"
     description: A Helm chart for macropower-analytics-panel-server
     digest: dc1ed3e25b27544aa35418b801caa92d6b3baa183b9effdf2bf5a682d613103d
@@ -3988,4 +4004,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-06-10T13:43:44.529749444Z"
+generated: "2022-06-13T10:18:09.956710238Z"
