@@ -3588,6 +3588,18 @@ entries:
   - annotations:
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
+    appVersion: 2.2.1
+    created: "2022-06-16T10:47:26.00102505Z"
+    description: Chart holding vault-exporter.
+    digest: 5270bc0ef25acbdc9a2ee52cc6845a1ca0dcd480b7b8666dc6571569f484c696
+    home: https://github.com/giantswarm/vault-exporter
+    name: vault-exporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/vault-exporter-2.2.1.tgz
+    version: 2.2.1
+  - annotations:
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
     appVersion: 2.2.0-f71b893fd0f5aaab71a7b8c35a6c23fb3b6754ab
     created: "2022-06-16T10:29:22.287736283Z"
     description: Chart holding vault-exporter.
@@ -4004,4 +4016,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-06-16T10:39:29.335759304Z"
+generated: "2022-06-16T10:47:26.000279036Z"
