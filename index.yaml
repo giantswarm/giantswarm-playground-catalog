@@ -3609,6 +3609,18 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vault-exporter-2.2.0-c8a80ce37bd2ea5be01055a26f7d6960c9425277.tgz
     version: 2.2.0-c8a80ce37bd2ea5be01055a26f7d6960c9425277
+  - annotations:
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: 2.2.0-64fd418a3aefb86af279781f1f79369eb87fcd45
+    created: "2022-06-16T10:34:13.344505918Z"
+    description: Chart holding vault-exporter.
+    digest: 7788ddeed2605df30f3a91df520bd9b4110c64c73dcdcc270ba07508ba378cac
+    home: https://github.com/giantswarm/vault-exporter
+    name: vault-exporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/vault-exporter-2.2.0-64fd418a3aefb86af279781f1f79369eb87fcd45.tgz
+    version: 2.2.0-64fd418a3aefb86af279781f1f79369eb87fcd45
   velero:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/velero-0.1.0.tgz-meta/main.yaml
@@ -3968,4 +3980,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-06-16T10:29:22.287242015Z"
+generated: "2022-06-16T10:34:13.343659334Z"
