@@ -4,7 +4,8 @@ entries:
   - apiVersion: v2
     appVersion: 0.11.2
     created: "2021-01-19T22:19:59.093488144Z"
-    description: A Kubernetes controller that operates self-hosted runners for GitHub Actions on your Kubernetes cluster.
+    description: A Kubernetes controller that operates self-hosted runners for GitHub
+      Actions on your Kubernetes cluster.
     digest: 9ba0f11ace35f7cbe576e0f23c12a477fe38f124be32e21a864adbe5c30d8795
     home: https://github.com/giantswarm/actions-runner-controller-app
     name: actions-runner-controller
@@ -521,7 +522,8 @@ entries:
     apiVersion: v1
     appVersion: 0.2.0
     created: "2022-04-08T14:16:07.701095426Z"
-    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems when upgrading from 16.x to 17.x releases.
+    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems
+      when upgrading from 16.x to 17.x releases.
     digest: 0ad5985d6e1cab6f074afd4ed241e0cd47dcb76d1cfb3f20ea07f7b2c2561033
     home: https://github.com/giantswarm/aws-iptables-legacy-cleaner
     name: aws-iptables-legacy-cleaner
@@ -534,7 +536,8 @@ entries:
     apiVersion: v1
     appVersion: 0.1.1
     created: "2022-04-08T09:07:24.993640336Z"
-    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems when upgrading from 16.x to 17.x releases.
+    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems
+      when upgrading from 16.x to 17.x releases.
     digest: 4e09e066e13eba48aaf7e751a26c12ab7d5110e3cfbca4203b3ad5c5e84f5b58
     home: https://github.com/giantswarm/aws-iptables-legacy-cleaner
     name: aws-iptables-legacy-cleaner
@@ -547,7 +550,8 @@ entries:
     apiVersion: v1
     appVersion: 0.1.0
     created: "2022-04-07T09:14:14.391544397Z"
-    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems when upgrading from 16.x to 17.x releases.
+    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems
+      when upgrading from 16.x to 17.x releases.
     digest: 0652f48a9bcf795aff89237917ccbe38121a0c4a7be7671f721f665a2ddbc505
     home: https://github.com/giantswarm/aws-iptables-legacy-cleaner
     name: aws-iptables-legacy-cleaner
@@ -569,7 +573,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.10.2.tgz
     version: 0.10.2
@@ -587,7 +592,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.10.1.tgz
     version: 0.10.1
@@ -605,7 +611,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.10.0.tgz
     version: 0.10.0
@@ -623,7 +630,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.9.0.tgz
     version: 0.9.0
@@ -641,7 +649,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.8.1.tgz
     version: 0.8.1
@@ -659,7 +668,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.8.0.tgz
     version: 0.8.0
@@ -677,7 +687,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.7.0.tgz
     version: 0.7.0
@@ -693,7 +704,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.6.0.tgz
     version: 0.6.0
@@ -709,7 +721,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.5.0.tgz
     version: 0.5.0
@@ -725,7 +738,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.4.2.tgz
     version: 0.4.2
@@ -741,7 +755,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.4.1.tgz
     version: 0.4.1
@@ -757,7 +772,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.4.0.tgz
     version: 0.4.0
@@ -773,7 +789,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.3.0.tgz
     version: 0.3.0
@@ -819,7 +836,8 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2021-08-30T09:14:14.631886715Z"
-    description: A Helm chart to apply needed iptables rules in order for Calico user defined routes to work on Azure.
+    description: A Helm chart to apply needed iptables rules in order for Calico user
+      defined routes to work on Azure.
     digest: 054f808044b69f29ed3502dc19db2481a042d66ccc49e68e48e28492e11301bd
     home: https://github.com/giantswarm/azure-calico-user-defined-routes-app
     icon: https://s.giantswarm.io/app-icons/1/png/default-app-light.png
@@ -858,6 +876,41 @@ entries:
     - https://giantswarm.github.io/giantswarm-playground-catalog/cluster-api-provider-gcp-0.1.0.tgz
     version: 0.1.0
   datadog:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/datadog-2.3.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/datadog-2.3.0.tgz-meta/README.md
+    apiVersion: v1
+    appVersion: "7"
+    created: "2022-06-28T12:33:28.023213749Z"
+    dependencies:
+    - condition: clusterAgent.metricsProvider.useDatadogMetrics
+      name: datadog-crds
+      repository: https://helm.datadoghq.com
+      tags:
+      - install-crds
+      version: 0.4.7
+    - condition: datadog.kubeStateMetricsEnabled
+      name: kube-state-metrics
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 2.13.2
+    description: Datadog Agent
+    digest: 3e658ed128f79782340177ab47d3e2bf93245b95570f1d14532700dcc61c87d5
+    home: https://www.datadoghq.com
+    icon: https://s.giantswarm.io/app-icons/datadog/1/light.svg
+    keywords:
+    - monitoring
+    - alerting
+    - metric
+    maintainers:
+    - email: support@datadoghq.com
+      name: Datadog
+    name: datadog
+    sources:
+    - https://app.datadoghq.com/account/settings#agent/kubernetes
+    - https://github.com/DataDog/datadog-agent
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/datadog-2.3.0.tgz
+    version: 2.3.0
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/datadog-2.2.1.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/datadog-2.2.1.tgz-meta/README.md
@@ -1008,7 +1061,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.1
     created: "2022-05-24T12:20:55.135734158Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 2899755b5b91c3bb9721fffcceec6c8e036166bb3948ae085e98eb3b4050d48f
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -1044,7 +1098,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.1
     created: "2022-05-02T06:38:01.93861661Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 70f3984ce17fa4b1ff553d42aa69841d013e9f03b43a1418b3f62822749002ad
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -1080,7 +1135,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.0
     created: "2022-04-27T10:27:06.773025378Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 635c0478e57be8aa6b4662f05b1070a55c84ac3ea0bcf34792788f7cb8ad12b1
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -1116,7 +1172,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.0
     created: "2022-03-30T13:27:39.937621895Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 8eff401fe7b1bf19e773aaacbe4f0c81901ca7a14a3fa8abb15ef38726260b78
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -1152,7 +1209,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.0
     created: "2022-03-17T10:20:15.90963066Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 0031c4990b6e781fbb242d91489668b8a9b44406d410694079523fef2b1dbc5b
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -1188,7 +1246,8 @@ entries:
     apiVersion: v2
     appVersion: v2.30.2
     created: "2022-03-10T10:21:01.854673074Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: a4bf5ef6b6155cfb705330dd14e4cf1392e4d9fbfc6c5163349b9190d1cd2d0f
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -1224,7 +1283,8 @@ entries:
     apiVersion: v2
     appVersion: v2.30.2
     created: "2022-03-08T12:23:16.30623653Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 1c7a721f8411ea4400229451a4937f2f1f63541759634d4499ffba9a4e98a2fa
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -1398,7 +1458,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3
     created: "2020-07-02T10:56:06.129292285Z"
-    description: 'Heptio Event Router: A simple introspective kubernetes service that forwards events to a specified sink.'
+    description: 'Heptio Event Router: A simple introspective kubernetes service that
+      forwards events to a specified sink.'
     digest: b28534bfc5e0908c5add944d94e539c17c4adb870fb56f018454a9a32c04d298
     home: https://github.com/heptiolabs/eventrouter
     icon: https://raw.githubusercontent.com/giantswarm/eventrouter-app/master/img/logo-generic.png
@@ -1417,7 +1478,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3
     created: "2020-03-16T11:41:37.617039879Z"
-    description: 'Heptio Event Router: A simple introspective kubernetes service that forwards events to a specified sink.'
+    description: 'Heptio Event Router: A simple introspective kubernetes service that
+      forwards events to a specified sink.'
     digest: d709721c1e765d6d1dd040594c7b0fbc91e346d228c1b109149d169e47bbd9f0
     home: https://github.com/heptiolabs/eventrouter
     icon: https://raw.githubusercontent.com/giantswarm/eventrouter-app/master/img/logo-generic.png
@@ -1436,7 +1498,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3
     created: "2020-01-17T09:30:57.374641624Z"
-    description: 'Heptio Event Router: A simple introspective kubernetes service that forwards events to a specified sink.'
+    description: 'Heptio Event Router: A simple introspective kubernetes service that
+      forwards events to a specified sink.'
     digest: 697b76f97423f9e5578a515543194344439ad23ad16e55a28e46222144d0cbbf
     home: https://github.com/heptiolabs/eventrouter
     maintainers:
@@ -2021,7 +2084,8 @@ entries:
   - apiVersion: v1
     appVersion: 1.10.7
     created: "2021-06-16T08:01:27.284748954Z"
-    description: An open source trusted cloud native registry that stores, signs, and scans content
+    description: An open source trusted cloud native registry that stores, signs,
+      and scans content
     digest: 64fd825809813a3abf7f11634f542cf0d460bd1c631bae84ef6bfbec64243f6a
     home: https://goharbor.io
     icon: https://raw.githubusercontent.com/goharbor/harbor/master/docs/img/harbor_logo.png
@@ -2133,7 +2197,8 @@ entries:
     sources:
     - https://github.com/jaegertracing/jaeger-operator
     - https://github.com/giantswarm/jaeger-operator-app
-    - https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.3.tgz
     version: 0.2.3
@@ -2159,7 +2224,8 @@ entries:
     sources:
     - https://github.com/jaegertracing/jaeger-operator
     - https://github.com/giantswarm/jaeger-operator-app
-    - https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.2.tgz
     version: 0.2.2
@@ -2208,7 +2274,8 @@ entries:
   - apiVersion: v1
     appVersion: 1.17.1
     created: "2020-04-24T13:23:38.680367387Z"
-    description: 'Jaeger operator is a implementation of the operator pattern for installing and managing Jaeger deployments. '
+    description: 'Jaeger operator is a implementation of the operator pattern for
+      installing and managing Jaeger deployments. '
     digest: 9be1b2c964856dfcd64e5ceddff1c3745848def0196384006fd1deb64a43ead7
     home: https://github.com/jaegertracing/jaeger-operator
     icon: https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/master/img/jaeger-icon.svg
@@ -2226,7 +2293,8 @@ entries:
   - apiVersion: v1
     appVersion: 1.17.1
     created: "2020-04-24T13:17:27.437017955Z"
-    description: 'Jaeger operator is a implementation of the operator pattern for installing and managing Jaeger deployments. '
+    description: 'Jaeger operator is a implementation of the operator pattern for
+      installing and managing Jaeger deployments. '
     digest: e21e158b8f9c9519f60429fddf02a25a5000af88e5f461c66ae9d6166960cfb8
     home: https://github.com/jaegertracing/jaeger-operator
     icon: https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/master/img/jaeger-icon.svg
@@ -2411,7 +2479,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2022-06-09T15:56:25.695702051Z"
-    description: The k8s initiator runs in a master node and applies some configuration when the master is new.
+    description: The k8s initiator runs in a master node and applies some configuration
+      when the master is new.
     digest: e19fdff37422c96972110e12626c66dd84d96f5f04acff1da87d8766dc120ad3
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://s.giantswarm.io/app-icons/1/png/k8s-initiator-app-light.png
@@ -2425,7 +2494,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2021-02-04T10:20:33.926637883Z"
-    description: The k8s initiator runs in a master node and applies some configuration when the master is new.
+    description: The k8s initiator runs in a master node and applies some configuration
+      when the master is new.
     digest: 9a6486a0559acbcdd70cb2deee6ecf50304aa85693f517ac1734aeed680d44fe
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://s.giantswarm.io/app-icons/1/png/k8s-initiator-app-light.png
@@ -2439,7 +2509,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2020-10-19T09:44:20.81891869Z"
-    description: The k8s initiator runs in a master node and applies some configuration when the master is new.
+    description: The k8s initiator runs in a master node and applies some configuration
+      when the master is new.
     digest: 04ca2f2160ec7075d0df05a9ac033f0c4fd6a3cff46355b48dc206fae91fa26c
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -2452,7 +2523,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2020-10-01T13:41:43.74374883Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: 5dca6ebce4e447c2ae4d7f64e4c8b991c339ba8ea79e85f7775891708640490d
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -2465,7 +2537,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-09-15T16:54:12.3601808Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: 3e4f1af8a1cf404aaeeded023088e746fb8d0ccc0fd83db3412e1aa30c3c79d4
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -2478,7 +2551,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-09-15T09:28:33.213725057Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: 9efd78881ed3547506c0a7de8205aee8780c7c7b1c23b3aeac8181cd5dd9f5c8
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -2491,7 +2565,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-09-03T09:47:10.729797836Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: d433a600f55b84ee346e87e6c30baebf8c48c4cd04b6cff62d018f5b8d6d5029
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -2504,7 +2579,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-08-31T08:35:17.6100789Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: 83086cdce6d72df25269d5e96e4ffee46975ed0bb813f354c7fc60efffedfb5e
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -2517,7 +2593,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-07-07T14:05:35.520919956Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: d5dfa02e094ea3f4bfe60cec1396e448e2b6e0710acba94b9d9522995471eaa2
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -2530,7 +2607,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-06-30T09:05:11.353037964Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: b0d63e1d393858b6ad2047153dbbc7e065bbd75d42264b190ed08ff5eca39bb7
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -2543,7 +2621,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.2.0
     created: "2020-04-01T09:00:45.404615459Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: 3d52e64eb2aa0025abd580b9e8d202dee802fe39241928688c8a20852595d794
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -2826,7 +2905,8 @@ entries:
   - apiVersion: v1
     appVersion: stable-2.8.1
     created: "2020-10-13T10:34:26.352013551Z"
-    description: Linkerd gives you observability, reliability, and security for your microservices — with no code change required.
+    description: Linkerd gives you observability, reliability, and security for your
+      microservices — with no code change required.
     digest: 397cd8f286858c07e41d2c36ddaa7aaea5c75255a5c1ca3224724756f7d3c652
     home: https://linkerd.io
     icon: https://linkerd.io/images/logo-only-200h.png
@@ -2849,7 +2929,8 @@ entries:
   - apiVersion: v1
     appVersion: stable-2.8.1
     created: "2020-11-11T15:37:43.784306775Z"
-    description: Linkerd gives you observability, reliability, and security for your microservices — with no code change required.
+    description: Linkerd gives you observability, reliability, and security for your
+      microservices — with no code change required.
     digest: 0d304832b928a404d6f452cc52702acc2a10479f3210074effbbae8f09290f5e
     home: https://linkerd.io
     icon: https://s.giantswarm.io/app-icons/1/png/linkerd2-app-light.png
@@ -2872,7 +2953,8 @@ entries:
   - apiVersion: v1
     appVersion: stable-2.8.1
     created: "2020-10-09T14:28:59.305868923Z"
-    description: Linkerd gives you observability, reliability, and security for your microservices — with no code change required.
+    description: Linkerd gives you observability, reliability, and security for your
+      microservices — with no code change required.
     digest: 08a33a78a227d7714e62f8215452a1ab3290c988121f6b9c07aa1e017e69f5eb
     home: https://linkerd.io
     icon: https://linkerd.io/images/logo-only-200h.png
@@ -2895,7 +2977,8 @@ entries:
   - apiVersion: v1
     appVersion: stable-2.7.1
     created: "2020-06-05T10:41:11.265190217Z"
-    description: Linkerd gives you observability, reliability, and security for your microservices — with no code change required.
+    description: Linkerd gives you observability, reliability, and security for your
+      microservices — with no code change required.
     digest: 33bcc3e1a1a14f0eb8e4ddbb2b3e2a04e341005cbb06e735e5ed3965f5ec1db0
     home: https://linkerd.io
     icon: https://linkerd.io/images/logo-only-200h.png
@@ -2918,7 +3001,8 @@ entries:
   - apiVersion: v1
     appVersion: stable-2.7.1
     created: "2020-05-05T11:55:16.005100665Z"
-    description: Linkerd gives you observability, reliability, and security for your microservices — with no code change required.
+    description: Linkerd gives you observability, reliability, and security for your
+      microservices — with no code change required.
     digest: 46dcc1ddd9f0445163d816db18a33ff5bf1474c1bdd1d7085201e1de46b6673d
     home: https://linkerd.io
     icon: https://linkerd.io/images/logo-only-200h.png
@@ -2941,7 +3025,8 @@ entries:
   - apiVersion: v1
     appVersion: edge-19.11.2
     created: "2020-01-07T12:35:29.382876251Z"
-    description: Linkerd gives you observability, reliability, and security for your microservices — with no code change required.
+    description: Linkerd gives you observability, reliability, and security for your
+      microservices — with no code change required.
     digest: b4d6c567fe6ef772828ac6bb75e1f3afe8358e4fd33db2a0fc0c046413533b7a
     home: https://linkerd.io
     icon: https://linkerd.io/images/logo-only-200h.png
@@ -2964,7 +3049,8 @@ entries:
   - apiVersion: v1
     appVersion: edge-19.11.2
     created: "2019-12-02T14:52:48.603223569Z"
-    description: Linkerd gives you observability, reliability, and security for your microservices — with no code change required.
+    description: Linkerd gives you observability, reliability, and security for your
+      microservices — with no code change required.
     digest: f7b8008c78e275f00206b2d0d3254680640085b2ec7c4815aa7633791c60a4a0
     home: https://linkerd.io
     icon: https://linkerd.io/images/logo-only-200h.png
@@ -2985,7 +3071,11 @@ entries:
   - apiVersion: v1
     appVersion: 0.1.0
     created: "2020-12-16T14:52:24.158867268Z"
-    description: 'Linkerd is a *service mesh*, designed to give platform-wide observability, reliability, and security without requiring configuration or code changes. The Linkerd [CNI plugin](https://linkerd.io/2/features/cni/) takes care of setting up your pod''s network so  incoming and outgoing traffic is proxied through the data plane. '
+    description: 'Linkerd is a *service mesh*, designed to give platform-wide observability,
+      reliability, and security without requiring configuration or code changes. The
+      Linkerd [CNI plugin](https://linkerd.io/2/features/cni/) takes care of setting
+      up your pod''s network so  incoming and outgoing traffic is proxied through
+      the data plane. '
     digest: 460daacfe5664f2348a373609c288f366d2891d9819388df44abc79ede4a1ae0
     home: https://github.com/giantswarm/linkerd2-cni-app
     icon: https://s.giantswarm.io/app-icons/1/png/linkerd2-app-light.png
@@ -3006,7 +3096,11 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2020-12-16T14:24:35.5298041Z"
-    description: 'Linkerd is a *service mesh*, designed to give platform-wide observability, reliability, and security without requiring configuration or code changes. The Linkerd [CNI plugin](https://linkerd.io/2/features/cni/) takes care of setting up your pod''s network so  incoming and outgoing traffic is proxied through the data plane. '
+    description: 'Linkerd is a *service mesh*, designed to give platform-wide observability,
+      reliability, and security without requiring configuration or code changes. The
+      Linkerd [CNI plugin](https://linkerd.io/2/features/cni/) takes care of setting
+      up your pod''s network so  incoming and outgoing traffic is proxied through
+      the data plane. '
     digest: e4f14fdd8bb8f6a65536c5d73a3ff8b49490c13715e656850a4dd8b8f8e0a6e9
     home: https://github.com/giantswarm/linkerd2-cni-app
     icon: https://s.giantswarm.io/app-icons/1/png/linkerd2-app-light.png
@@ -3280,7 +3374,15 @@ entries:
   - apiVersion: v1
     appVersion: 0.1.11
     created: "2020-09-03T14:17:55.90856413Z"
-    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g. in the same VPC, AZ, etc.) a user’s application components and receives trace spans and metrics emitted by supported Receivers. The received spans and metrics could be emitted directly by clients in instrumented tasks, or potentially routed via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The collector provides a central egress point for exporting traces and metrics to one or more tracing and/or metrics backends while offering buffering and retries as well as advanced aggregation, filtering, annotation and intelligent sampling capabilities. '
+    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g.
+      in the same VPC, AZ, etc.) a user’s application components and receives trace
+      spans and metrics emitted by supported Receivers. The received spans and metrics
+      could be emitted directly by clients in instrumented tasks, or potentially routed
+      via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The
+      collector provides a central egress point for exporting traces and metrics to
+      one or more tracing and/or metrics backends while offering buffering and retries
+      as well as advanced aggregation, filtering, annotation and intelligent sampling
+      capabilities. '
     digest: fedc546228da76afc743e391f071ae647d8847fee0cb17c76b97fe542c949fe4
     home: https://opencensus.io/service/components/collector/
     icon: https://raw.githubusercontent.com/giantswarm/opencensus-collector-app/master/img/icon-oc.png
@@ -3297,7 +3399,15 @@ entries:
   - apiVersion: v1
     appVersion: 0.1.11
     created: "2020-04-29T10:28:35.816522529Z"
-    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g. in the same VPC, AZ, etc.) a user’s application components and receives trace spans and metrics emitted by supported Receivers. The received spans and metrics could be emitted directly by clients in instrumented tasks, or potentially routed via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The collector provides a central egress point for exporting traces and metrics to one or more tracing and/or metrics backends while offering buffering and retries as well as advanced aggregation, filtering, annotation and intelligent sampling capabilities. '
+    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g.
+      in the same VPC, AZ, etc.) a user’s application components and receives trace
+      spans and metrics emitted by supported Receivers. The received spans and metrics
+      could be emitted directly by clients in instrumented tasks, or potentially routed
+      via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The
+      collector provides a central egress point for exporting traces and metrics to
+      one or more tracing and/or metrics backends while offering buffering and retries
+      as well as advanced aggregation, filtering, annotation and intelligent sampling
+      capabilities. '
     digest: a8d5ab47f4f9348abc2a69d64978c9d6c833319994139a7f7aa5a50a1738cd38
     home: https://opencensus.io/service/components/collector/
     icon: https://raw.githubusercontent.com/giantswarm/opencensus-collector-app/master/img/icon-oc.png
@@ -3314,7 +3424,15 @@ entries:
   - apiVersion: v1
     appVersion: 0.1.11
     created: "2020-04-29T09:53:44.486209599Z"
-    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g. in the same VPC, AZ, etc.) a user’s application components and receives trace spans and metrics emitted by supported Receivers. The received spans and metrics could be emitted directly by clients in instrumented tasks, or potentially routed via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The collector provides a central egress point for exporting traces and metrics to one or more tracing and/or metrics backends while offering buffering and retries as well as advanced aggregation, filtering, annotation and intelligent sampling capabilities. '
+    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g.
+      in the same VPC, AZ, etc.) a user’s application components and receives trace
+      spans and metrics emitted by supported Receivers. The received spans and metrics
+      could be emitted directly by clients in instrumented tasks, or potentially routed
+      via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The
+      collector provides a central egress point for exporting traces and metrics to
+      one or more tracing and/or metrics backends while offering buffering and retries
+      as well as advanced aggregation, filtering, annotation and intelligent sampling
+      capabilities. '
     digest: 1966bc1d573f7c530d99b81e0cd38557132bb867808bd82c054396cba8b3e9d1
     home: https://opencensus.io/service/components/collector/
     icon: https://raw.githubusercontent.com/giantswarm/opencensus-collector-app/master/img/icon-oc.png
@@ -3331,7 +3449,15 @@ entries:
   - apiVersion: v1
     appVersion: 0.1.11
     created: "2020-04-09T09:39:58.927579215Z"
-    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g. in the same VPC, AZ, etc.) a user’s application components and receives trace spans and metrics emitted by supported Receivers. The received spans and metrics could be emitted directly by clients in instrumented tasks, or potentially routed via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The collector provides a central egress point for exporting traces and metrics to one or more tracing and/or metrics backends while offering buffering and retries as well as advanced aggregation, filtering, annotation and intelligent sampling capabilities. '
+    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g.
+      in the same VPC, AZ, etc.) a user’s application components and receives trace
+      spans and metrics emitted by supported Receivers. The received spans and metrics
+      could be emitted directly by clients in instrumented tasks, or potentially routed
+      via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The
+      collector provides a central egress point for exporting traces and metrics to
+      one or more tracing and/or metrics backends while offering buffering and retries
+      as well as advanced aggregation, filtering, annotation and intelligent sampling
+      capabilities. '
     digest: 8e60751f9ea2e4f73c26afd96e80b14e56f637b091b0c2372e0c63c311f33c89
     home: https://opencensus.io/service/components/collector/
     icon: https://raw.githubusercontent.com/giantswarm/opencensus-collector-app/master/img/icon-oc.png
@@ -3472,7 +3598,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.3.1.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-06-10T13:43:44.530779069Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 32d9498b567bab3b9d1615c69c6b0cfcd7fffd837bf1c6ce31af1b6d6ac8ccee
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -3489,7 +3616,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.3.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-05-17T08:31:53.833371152Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 45519af7b3a76e4c28fb315d8c0a7b6bc22739ac82150e318743467ceca82fda
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -3506,7 +3634,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.2.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-04-25T11:30:26.446096294Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: f1c36918440c55f6344a2ceadf9c38c2cb355ed29a3dccbbb71d669cbfb52948
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -3522,7 +3651,8 @@ entries:
       application.giantswarm.io/team: security
     apiVersion: v2
     created: "2022-04-07T11:39:57.137441126Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 98f8aa0e2394fb853d9f6ab93504e25771e1c99bb5dbd4f5bf4f0fd6b460b9df
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -3538,7 +3668,8 @@ entries:
       application.giantswarm.io/team: security
     apiVersion: v2
     created: "2022-03-24T14:03:55.279201816Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 996f25d7ba9116e6758d8c9eb9fdb0dd123648a1eeb1130276b19f02ec83902f
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -4064,4 +4195,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-06-28T09:41:49.166241949Z"
+generated: "2022-06-28T12:33:28.013431415Z"
