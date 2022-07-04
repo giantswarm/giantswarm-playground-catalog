@@ -1,0 +1,9 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/alfred-app-0.3.8.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/alfred-app-0.3.8.tgz-meta/README.md
+chartApiVersion: v1
+chartFile: alfred-app-0.3.8.tgz
+dateCreated: '2022-07-04T07:40:51.694646'
+digest: affb82b1959d124c42411c476659f87648aed8f2d239c574df51e7d0493ee831
+home: https://github.com/giantswarm/alfred-app
+icon: https://s.giantswarm.io/app-icons/1/png/alfred-app-light.png
