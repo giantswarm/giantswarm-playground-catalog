@@ -1563,6 +1563,19 @@ entries:
       application.giantswarm.io/team: phoenix
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
+    appVersion: 0.5.0
+    created: "2022-07-05T15:15:36.267693105Z"
+    description: Collector that exposes metrics about k8s resources stored in etcd
+    digest: 15fe454deb9aefecb787cd09559094eca55586a4d4df928fe73a699d04272672
+    home: https://github.com/giantswarm/etcd-kubernetes-resources-count-exporter
+    name: etcd-kubernetes-resources-count-exporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/etcd-kubernetes-resources-count-exporter-0.5.0.tgz
+    version: 0.5.0
+  - annotations:
+      application.giantswarm.io/team: phoenix
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
     appVersion: 0.4.0
     created: "2022-05-23T08:20:39.440026347Z"
     description: Collector that exposes metrics about k8s resources stored in etcd
@@ -4294,4 +4307,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-07-04T07:40:52.870246149Z"
+generated: "2022-07-05T15:15:36.267036711Z"
