@@ -2577,6 +2577,18 @@ entries:
   - annotations:
       application.giantswarm.io/team: shield
     apiVersion: v2
+    appVersion: 0.0.3
+    created: "2022-07-08T12:36:13.719162887Z"
+    description: Alertmanager plugin that creates Jira tickets
+    digest: 292f6bc1e20f8eb520e63aa5bcd97acf24ac6d0d36b22f8e4bd59efb1d01adc5
+    home: https://github.com/giantswarm/jiralert-app
+    name: jiralert
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/jiralert-0.0.3.tgz
+    version: 0.0.3
+  - annotations:
+      application.giantswarm.io/team: shield
+    apiVersion: v2
     appVersion: 0.0.2
     created: "2022-05-16T13:26:22.51278665Z"
     description: Alertmanager plugin that creates Jira tickets
@@ -4480,4 +4492,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-07-08T09:25:01.60865475Z"
+generated: "2022-07-08T12:36:13.718504943Z"
