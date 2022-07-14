@@ -2059,6 +2059,23 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/gatling-app-1.0.0.tgz
     version: 1.0.0
+  gcp-compute-persistent-disk-csi-driver:
+  - annotations:
+      application.giantswarm.io/team: hydra
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: 0.2.0
+    created: "2022-07-14T08:55:50.072428395Z"
+    description: The Google Compute Engine Persistent Disk (GCE PD) Container Storage
+      Interface (CSI) Storage Plugin.
+    digest: e9ac74c0b904166bd00ad1995e62356d9c8b0a6fcc59f10de3180964fd8501b5
+    home: https://github.com/giantswarm/gcp-compute-persistent-disk-csi-driver-app
+    name: gcp-compute-persistent-disk-csi-driver
+    sources:
+    - https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/gcp-compute-persistent-disk-csi-driver-0.2.0.tgz
+    version: 0.2.0
   giantswarm-todo-app:
   - apiVersion: v1
     appVersion: 0.5.2
@@ -4529,4 +4546,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-07-08T12:50:11.925497807Z"
+generated: "2022-07-14T08:55:50.071690658Z"
