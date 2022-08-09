@@ -2590,6 +2590,20 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/goldilocks-app-0.1.0.tgz
     version: 0.1.0
+  goldpinger:
+  - annotations:
+      application.giantswarm.io/team: sa
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: 3.5.1
+    created: "2022-08-09T09:49:17.955009062Z"
+    description: Tool to install network monitoring tool goldpinger.
+    digest: 08e4932830f685571a47756a7e252dbc650fe5d3fedaa44d57e919fd0d8dc4eb
+    home: https://github.com/giantswarm/goldpinger
+    name: goldpinger
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/goldpinger-3.5.1.tgz
+    version: 3.5.1
   harbor:
   - apiVersion: v1
     appVersion: 1.10.7
@@ -4813,4 +4827,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-08-08T15:54:04.610239058Z"
+generated: "2022-08-09T09:49:17.954543971Z"
