@@ -2671,33 +2671,6 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/inlets-operator-app-0.1.0.tgz
     version: 0.1.0
-  istio-operator:
-  - apiVersion: v1
-    appVersion: v1.6.0
-    created: "2020-07-17T10:03:08.50213477Z"
-    description: A Helm Chart for Istio Operator.
-    digest: 9b9ad96712c122ddfdd4958125306620cd82c093987648dbd1fcc556404e3669
-    home: https://github.com/giantswarm/istio-operator
-    icon: https://images.squarespace-cdn.com/content/v1/58e978bde58c6214d4a77c5c/1542068410201-SN3MPBXJ8N9VF4V8WAN2/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eaDBaxyzPPG4B3J3_Z93rYLky5fjRrZeLmMK3F2aytfjfg4x4lXesDnM4MUpb-Vdw/11_istio_logo.png
-    name: istio-operator
-    sources:
-    - https://github.com/istio/istio/operator
-    urls:
-    - https://giantswarm.github.io/giantswarm-playground-catalog/istio-operator-1.0.1.tgz
-    version: 1.0.1
-  - apiVersion: v1
-    appVersion: v1.6.0
-    created: "2020-07-17T09:20:27.882541524Z"
-    description: A Helm Chart for Istio Operator.
-    digest: f16c6282c17b51a6ef9f2e04694e7f5832b170028d281bf2ed7bfe2672f51bd6
-    home: https://github.com/giantswarm/istio-operator
-    icon: https://images.squarespace-cdn.com/content/v1/58e978bde58c6214d4a77c5c/1542068410201-SN3MPBXJ8N9VF4V8WAN2/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eaDBaxyzPPG4B3J3_Z93rYLky5fjRrZeLmMK3F2aytfjfg4x4lXesDnM4MUpb-Vdw/11_istio_logo.png
-    name: istio-operator
-    sources:
-    - https://github.com/istio/istio/operator
-    urls:
-    - https://giantswarm.github.io/giantswarm-playground-catalog/istio-operator-1.0.0.tgz
-    version: 1.0.0
   jaeger-operator-app:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.3.tgz-meta/main.yaml
