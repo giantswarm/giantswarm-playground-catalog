@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.27.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.27.0.tgz-meta/README.md
+  application.giantswarm.io/team: team-rainbow
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.27.0.tgz-meta/values.schema.json
+  config.giantswarm.io/version: 1.x.x
+chartApiVersion: v2
+chartFile: dex-app-1.27.0.tgz
+dateCreated: '2022-09-06T12:19:00.463374'
+digest: 89eea9627ab00ce1de50c0c22b0476b99297d39d3a31979c706dbf1a3c5c5a05
+home: https://github.com/giantswarm/dex-app
+icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
