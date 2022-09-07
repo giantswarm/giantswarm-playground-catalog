@@ -3068,6 +3068,20 @@ entries:
   k8s-initiator-app:
   - apiVersion: v1
     appVersion: v0.9.0
+    created: "2022-09-07T11:13:40.558888772Z"
+    description: The k8s initiator runs in a master node and applies some configuration when the master is new.
+    digest: 987265b41e06c080256c7e00db0e8351278296607ea7795209a78c82ecdd914b
+    home: https://github.com/giantswarm/k8s-initiator-app
+    icon: https://s.giantswarm.io/app-icons/1/png/k8s-initiator-app-light.png
+    name: k8s-initiator-app
+    sources:
+    - https://github.com/giantswarm/k8s-initiator-app
+    - https://raw.githubusercontent.com/giantswarm/k8s-initiator-app/v0.9.5/README.md
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/k8s-initiator-app-0.9.5.tgz
+    version: 0.9.5
+  - apiVersion: v1
+    appVersion: v0.9.0
     created: "2022-09-07T07:36:57.029662991Z"
     description: The k8s initiator runs in a master node and applies some configuration when the master is new.
     digest: 4e128cb71ffc7ab950d4e90e927d735b1fc6f5f9d91923819006b2cae640a56e
@@ -4864,4 +4878,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-09-07T07:36:57.028872888Z"
+generated: "2022-09-07T11:13:40.55722531Z"
