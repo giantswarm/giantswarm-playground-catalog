@@ -2330,6 +2330,26 @@ entries:
     version: 0.2.0
   gatling-app:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/gatling-app-2.0.1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/gatling-app-2.0.1.tgz-meta/README.md
+      application.giantswarm.io/team: team-cabbage
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/gatling-app-2.0.1.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: 3.8.4
+    created: "2022-09-14T18:15:49.667945571Z"
+    description: Gatling is a load test tool. It officially supports HTTP, WebSocket,
+      Server-Sent-Events and JMS.
+    digest: 66d9d2b6c47a3d875a4b8d4093e0e883e94a9df0b2eb4c3518d9397b04fff83a
+    home: https://github.com/giantswarm/gatling-app
+    icon: https://s.giantswarm.io/app-icons/gatling/1/light.svg
+    name: gatling-app
+    sources:
+    - https://github.com/gatling/gatling
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/gatling-app-2.0.1.tgz
+    version: 2.0.1
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/gatling-app-2.0.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/gatling-app-2.0.0.tgz-meta/README.md
       application.giantswarm.io/team: team-cabbage
@@ -5083,4 +5103,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-09-14T14:25:14.033288964Z"
+generated: "2022-09-14T18:15:49.667197421Z"
