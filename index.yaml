@@ -4452,6 +4452,18 @@ entries:
       application.giantswarm.io/team: team-hydra
     apiVersion: v2
     appVersion: 5.2-22.04_beta
+    created: "2022-09-16T17:48:03.301871987Z"
+    description: squid proxy for giantswarm internal use
+    digest: 572b45d506514fc25a442d88a683550919755f448fced6947526378ea3847049
+    home: https://github.com/giantswarm/squid-proxy-app
+    name: squid-proxy
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/squid-proxy-0.1.1.tgz
+    version: 0.1.1
+  - annotations:
+      application.giantswarm.io/team: team-hydra
+    apiVersion: v2
+    appVersion: 5.2-22.04_beta
     created: "2022-09-16T08:34:17.109779875Z"
     description: squid proxy for giantswarm internal use
     digest: 2a8cfd091f51e90a7d0dac3d0e6fa6b92f8a15c969fd3ee0ff10a9f28668dcb4
@@ -5004,4 +5016,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-09-16T08:34:17.108954796Z"
+generated: "2022-09-16T17:48:03.301330459Z"
