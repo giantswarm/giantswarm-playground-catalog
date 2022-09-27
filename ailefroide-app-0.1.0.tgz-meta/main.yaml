@@ -5,7 +5,7 @@ annotations:
   application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/ailefroide-app-0.1.0.tgz-meta/values.schema.json
 chartApiVersion: v1
 chartFile: ailefroide-app-0.1.0.tgz
-dateCreated: '2022-09-27T05:04:20.970662'
-digest: 26c3cff49306681b032bb57c23ff7b108f4c814f8c6d72de947f5bb04c20e948
+dateCreated: '2022-09-27T05:12:52.199018'
+digest: 1661a57df277635e370e3f7f6c98b9b5072ef4b1530d97445b87c73cbd8e1f14
 home: https://github.com/giantswarm/ailefroide-app
 icon: https://s.giantswarm.io/app-icons/1/png/ailefroide-app-light.png
