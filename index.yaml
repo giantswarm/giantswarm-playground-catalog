@@ -4465,6 +4465,24 @@ entries:
   security-pack:
   - annotations:
       application.giantswarm.io/in-cluster-app: "true"
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.8.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.8.0.tgz-meta/README.md
+      application.giantswarm.io/team: shield
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.8.0.tgz-meta/values.schema.json
+    apiVersion: v2
+    created: "2022-09-27T19:01:34.058574422Z"
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
+    digest: be34f60a6c888ebb4d87ecf46cb6a0d05370c3ba9001f7ef9ed7d95d325b81c4
+    home: https://github.com/giantswarm/security-pack
+    name: security-pack
+    sources:
+    - https://github.com/giantswarm/security-pack
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.8.0.tgz
+    version: 0.8.0
+  - annotations:
+      application.giantswarm.io/in-cluster-app: "true"
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.7.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.7.0.tgz-meta/README.md
       application.giantswarm.io/team: shield
@@ -5270,4 +5288,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-09-27T05:12:53.447648907Z"
+generated: "2022-09-27T19:01:34.057902694Z"
