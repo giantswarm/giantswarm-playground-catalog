@@ -4172,6 +4172,30 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/linkerd2-cni-app-0.1.0-alpha.tgz
     version: 0.1.0-alpha
+  loki:
+  - annotations:
+      application.giantswarm.io/team: atlas
+    apiVersion: v2
+    appVersion: 2.6.1
+    created: "2022-10-13T15:45:28.659333999Z"
+    dependencies:
+    - name: loki
+      repository: https://grafana.github.io/helm-charts
+      version: 3.0.7
+    description: Helm chart for Grafana Loki in simple, scalable mode
+    digest: c7db821e2f0a0ba390c48964d02dc95f7fe4740d5cca8def9e78acc7390ae0ae
+    home: https://github.com/giantswarm/loki-app
+    icon: https://s.giantswarm.io/app-icons/grafana-loki/2/dark.svg
+    maintainers:
+    - name: Giant Swarm applications team
+      url: https://github.com/giantswarm/loki-app
+    name: loki
+    sources:
+    - https://github.com/giantswarm/loki-app
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/loki-0.5.0.tgz
+    version: 0.5.0
   loki-stack-app:
   - apiVersion: v1
     appVersion: v1.2.0
@@ -5464,4 +5488,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-10-13T13:01:35.38598318Z"
+generated: "2022-10-13T15:45:28.647504378Z"
