@@ -4531,6 +4531,24 @@ entries:
   prometheus-agent:
   - annotations:
       application.giantswarm.io/team: atlas
+    apiVersion: v2
+    appVersion: v2.39.1
+    created: "2022-10-17T08:38:05.135316258Z"
+    dependencies:
+    - name: prometheus-agent
+      repository: ""
+      version: v0.1.0
+    description: A Helm chart for Prometheus agent.
+    digest: 525f24abfebd206aff2f6b41ae77024629366ea9f5cf4e1066cf67ddb2891cb3
+    home: https://github.com/giantswarm/prometheus-agent-app
+    name: prometheus-agent
+    sources:
+    - https://github.com/giantswarm/prometheus-agent-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/prometheus-agent-0.1.2.tgz
+    version: 0.1.2
+  - annotations:
+      application.giantswarm.io/team: atlas
       branch: main
     apiVersion: v2
     appVersion: v2.36.1
@@ -5488,4 +5506,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-10-13T15:45:28.647504378Z"
+generated: "2022-10-17T08:38:05.134400817Z"
