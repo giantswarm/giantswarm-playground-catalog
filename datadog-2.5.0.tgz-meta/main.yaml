@@ -1,0 +1,9 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/datadog-2.5.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/datadog-2.5.0.tgz-meta/README.md
+chartApiVersion: v1
+chartFile: datadog-2.5.0.tgz
+dateCreated: '2022-11-03T15:49:55.002735'
+digest: b8ddd955eb8204be27548e0a91739f78160569c6a124a46bb65a7e5cba687a2a
+home: https://www.datadoghq.com
+icon: https://s.giantswarm.io/app-icons/datadog/1/light.svg
