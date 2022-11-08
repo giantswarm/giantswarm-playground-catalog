@@ -713,10 +713,10 @@ entries:
   - annotations:
       application.giantswarm.io/team: phoenix
     apiVersion: v2
-    appVersion: 0.1.0
-    created: "2022-11-08T14:01:42.546645849Z"
+    appVersion: 0.1.1
+    created: "2022-11-08T14:10:46.733719439Z"
     description: Tags AWS EBS Volumes
-    digest: 23873a8121887dd17743c370fb7e84a7efbc3f09a2656782c03f2aa61f31ffac
+    digest: 374f01d484e73a19e07c300a469397aa8935f46d448225493ba6ff5ba2f34b91
     home: https://github.com/giantswarm/aws-ebs-volume-tagger
     name: aws-ebs-volume-tagger
     urls:
@@ -5748,4 +5748,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-11-08T14:01:42.546224426Z"
+generated: "2022-11-08T14:10:46.733087195Z"
