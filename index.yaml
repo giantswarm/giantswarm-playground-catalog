@@ -2712,9 +2712,9 @@ entries:
       config.giantswarm.io/version: 1.x.x
     apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-12-19T15:08:53.387058806Z"
+    created: "2022-12-19T15:11:46.533040563Z"
     description: Tool to install external-secrets in clusters.
-    digest: e5613de5bed9057b6240f0378bb9b4b0734f0f8ca808cf7e0986cca0f5789e7a
+    digest: 541ad15818f5570aeae2ef4ade1fc61dfd5998176d7c78c9f04e9b8f29bf4865
     home: https://github.com/giantswarm/external-secrets
     name: external-secrets
     urls:
@@ -6134,4 +6134,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-12-19T15:08:53.382462333Z"
+generated: "2022-12-19T15:11:46.527398199Z"

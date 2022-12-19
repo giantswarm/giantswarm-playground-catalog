@@ -6,8 +6,8 @@ annotations:
   config.giantswarm.io/version: 1.x.x
 chartApiVersion: v2
 chartFile: external-secrets-0.1.0.tgz
-dateCreated: '2022-12-19T15:08:50.583787'
-digest: e5613de5bed9057b6240f0378bb9b4b0734f0f8ca808cf7e0986cca0f5789e7a
+dateCreated: '2022-12-19T15:11:44.350109'
+digest: 541ad15818f5570aeae2ef4ade1fc61dfd5998176d7c78c9f04e9b8f29bf4865
 home: https://github.com/giantswarm/external-secrets
 restrictions:
   clusterSingleton: true
