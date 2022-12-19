@@ -2703,6 +2703,23 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/eventrouter-app-0.0.1.tgz
     version: 0.0.1
+  external-secrets:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/external-secrets-0.1.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/external-secrets-0.1.0.tgz-meta/README.md
+      application.giantswarm.io/team: honeybadger
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/external-secrets-0.1.0.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v2
+    appVersion: v0.7.0
+    created: "2022-12-19T15:08:53.387058806Z"
+    description: Tool to install external-secrets in clusters.
+    digest: e5613de5bed9057b6240f0378bb9b4b0734f0f8ca808cf7e0986cca0f5789e7a
+    home: https://github.com/giantswarm/external-secrets
+    name: external-secrets
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/external-secrets-0.1.0.tgz
+    version: 0.1.0
   flamethrower:
   - apiVersion: v1
     appVersion: 0.11.0
@@ -6117,4 +6134,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-12-19T14:35:07.877510925Z"
+generated: "2022-12-19T15:08:53.382462333Z"
