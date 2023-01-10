@@ -5864,6 +5864,30 @@ entries:
     version: 0.0.1
   vertical-pod-autoscaler-app:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-2.5.3.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-2.5.3.tgz-meta/README.md
+      application.giantswarm.io/team: atlas
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-2.5.3.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+      repository: https://github.com/FairwindsOps/charts/tree/master/stable/vpa
+      version: fb2ccec4228c26e366bd1ac96aade056f3db0151
+    apiVersion: v2
+    appVersion: 0.11.0
+    created: "2023-01-10T10:49:22.211261684Z"
+    description: A Helm chart for Kubernetes Vertical Pod Autoscaler
+    digest: c2867e4d7b4932e161a724c62d0c55fe02db20d0c6a133cfd64e546e2ff719a0
+    home: https://github.com/giantswarm/vertical-pod-autoscaler-app
+    icon: https://s.giantswarm.io/app-icons/k8s-initiator/1/dark.svg
+    maintainers:
+    - name: sudermanjr
+    name: vertical-pod-autoscaler-app
+    sources:
+    - https://github.com/kubernetes/autoscaler
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-2.5.3.tgz
+    version: 2.5.3
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-2.5.2.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-app-2.5.2.tgz-meta/README.md
       application.giantswarm.io/team: atlas
@@ -6272,4 +6296,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2022-12-22T09:16:50.663727497Z"
+generated: "2023-01-10T10:49:22.209804511Z"
