@@ -3543,6 +3543,19 @@ entries:
       application.giantswarm.io/team: sa
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
+    appVersion: 3.7.0
+    created: "2023-01-27T15:23:17.444959897Z"
+    description: Tool to install network monitoring tool goldpinger.
+    digest: 49b67595def3129ad2aeac39b926848f42ba7cb0397162014768822d15f2d63c
+    home: https://github.com/giantswarm/goldpinger
+    name: goldpinger
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/goldpinger-3.7.0.tgz
+    version: 3.7.0
+  - annotations:
+      application.giantswarm.io/team: sa
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
     appVersion: 3.5.1
     created: "2022-08-09T09:49:17.955009062Z"
     description: Tool to install network monitoring tool goldpinger.
@@ -6396,4 +6409,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2023-01-25T15:48:26.626659448Z"
+generated: "2023-01-27T15:23:17.44444064Z"
