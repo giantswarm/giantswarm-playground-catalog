@@ -4436,6 +4436,20 @@ entries:
     version: 0.1.0
   kubectl-apply-job:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.2.2.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.2.2.tgz-meta/README.md
+    apiVersion: v2
+    created: "2023-02-03T11:28:55.493639573Z"
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
+    digest: 09bad0ade3aea619c0d4130514c4d92d6a7afb0ea892cb7f0dc03ee06de0a837
+    home: https://github.com/giantswarm/kubectl-apply-job
+    name: kubectl-apply-job
+    type: library
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.2.2.tgz
+    version: 0.2.2
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.2.1.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.2.1.tgz-meta/README.md
     apiVersion: v2
@@ -6472,4 +6486,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2023-01-31T16:02:35.468913613Z"
+generated: "2023-02-03T11:28:55.492786244Z"
