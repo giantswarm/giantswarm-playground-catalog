@@ -4587,6 +4587,25 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/kubernetes-gpu-app-390.116.00.tgz
     version: 390.116.00
+  linkerd-bundle:
+  - annotations:
+      application.giantswarm.io/app-type: bundle
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/linkerd-bundle-0.1.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/linkerd-bundle-0.1.0.tgz-meta/README.md
+      application.giantswarm.io/team: cabbage
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/linkerd-bundle-0.1.0.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: stable-2.12.2
+    created: "2023-02-14T09:05:05.693152299Z"
+    description: 'Linkerd gives you observability, reliability, and security for your
+      microservices — with no code change required. '
+    digest: c9e50dfabf48c7c679cacdb7486092d34e9efaa1af2e0dbbfecc7468ab6212e5
+    home: https://github.com/giantswarm/linkerd-bundle
+    icon: https://s.giantswarm.io/app-icons/linkerd2/1/light.svg
+    name: linkerd-bundle
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/linkerd-bundle-0.1.0.tgz
+    version: 0.1.0
   linkerd2-app:
   - apiVersion: v1
     appVersion: stable-2.8.1
@@ -6549,4 +6568,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2023-02-08T12:03:21.427321572Z"
+generated: "2023-02-14T09:05:05.69199423Z"
