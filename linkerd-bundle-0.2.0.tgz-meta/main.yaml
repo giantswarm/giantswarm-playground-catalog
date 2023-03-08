@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/app-type: bundle
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/linkerd-bundle-0.2.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/linkerd-bundle-0.2.0.tgz-meta/README.md
+  application.giantswarm.io/team: cabbage
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/linkerd-bundle-0.2.0.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: linkerd-bundle-0.2.0.tgz
+dateCreated: '2023-03-08T11:06:14.004914'
+digest: 560d90b82b1ef3f97073214a85792dd40f6386fc769047c1538906193cdec407
+home: https://github.com/giantswarm/linkerd-bundle
+icon: https://s.giantswarm.io/app-icons/linkerd2/1/light.svg
