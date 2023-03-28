@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/ailefroide-app-0.1.7.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/ailefroide-app-0.1.7.tgz-meta/README.md
+  application.giantswarm.io/team: chapter-se
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/ailefroide-app-0.1.7.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: ailefroide-app-0.1.7.tgz
+dateCreated: '2023-03-28T13:39:07.826263'
+digest: 8b927369a54679791c68b328e03ee206dca425a5c1b421b5e829f09072d08e64
+home: https://github.com/giantswarm/ailefroide-app
+icon: https://s.giantswarm.io/app-icons/1/png/ailefroide-app-light.png
