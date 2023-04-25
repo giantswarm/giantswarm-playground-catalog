@@ -1,9 +1,0 @@
-chartFile: linkerd2-app-0.4.1-bbdca58cee67f8fe5e73c9b30f5155e15beb33be.tgz
-dateCreated: '2020-10-20T09:51:11+00:00'
-digest: 0d304832b928a404d6f452cc52702acc2a10479f3210074effbbae8f09290f5e
-restrictions:
-  clusterSingleton: true
-  fixedNamespace: linkerd
-  gpuInstances: false
-  namespaceSingleton: false
-upstreamChartURL: https://github.com/linkerd/linkerd2/tree/main/charts/linkerd2
