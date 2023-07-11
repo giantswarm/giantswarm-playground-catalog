@@ -1476,7 +1476,8 @@ entries:
     apiVersion: v1
     appVersion: 0.2.0
     created: "2022-04-08T14:16:07.701095426Z"
-    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems when upgrading from 16.x to 17.x releases.
+    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems
+      when upgrading from 16.x to 17.x releases.
     digest: 0ad5985d6e1cab6f074afd4ed241e0cd47dcb76d1cfb3f20ea07f7b2c2561033
     home: https://github.com/giantswarm/aws-iptables-legacy-cleaner
     name: aws-iptables-legacy-cleaner
@@ -1489,7 +1490,8 @@ entries:
     apiVersion: v1
     appVersion: 0.1.1
     created: "2022-04-08T09:07:24.993640336Z"
-    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems when upgrading from 16.x to 17.x releases.
+    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems
+      when upgrading from 16.x to 17.x releases.
     digest: 4e09e066e13eba48aaf7e751a26c12ab7d5110e3cfbca4203b3ad5c5e84f5b58
     home: https://github.com/giantswarm/aws-iptables-legacy-cleaner
     name: aws-iptables-legacy-cleaner
@@ -1502,7 +1504,8 @@ entries:
     apiVersion: v1
     appVersion: 0.1.0
     created: "2022-04-07T09:14:14.391544397Z"
-    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems when upgrading from 16.x to 17.x releases.
+    description: The aws-iptables-legacy-cleaner is an aid tool to prevent problems
+      when upgrading from 16.x to 17.x releases.
     digest: 0652f48a9bcf795aff89237917ccbe38121a0c4a7be7671f721f665a2ddbc505
     home: https://github.com/giantswarm/aws-iptables-legacy-cleaner
     name: aws-iptables-legacy-cleaner
@@ -1524,7 +1527,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.14.0.tgz
     version: 0.14.0
@@ -1542,7 +1546,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.13.0.tgz
     version: 0.13.0
@@ -1560,7 +1565,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.12.0.tgz
     version: 0.12.0
@@ -1578,7 +1584,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.11.0.tgz
     version: 0.11.0
@@ -1596,7 +1603,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.10.4.tgz
     version: 0.10.4
@@ -1614,7 +1622,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.10.3.tgz
     version: 0.10.3
@@ -1632,7 +1641,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.10.2.tgz
     version: 0.10.2
@@ -1650,7 +1660,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.10.1.tgz
     version: 0.10.1
@@ -1668,7 +1679,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.10.0.tgz
     version: 0.10.0
@@ -1686,7 +1698,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.9.0.tgz
     version: 0.9.0
@@ -1704,7 +1717,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.8.1.tgz
     version: 0.8.1
@@ -1722,7 +1736,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.8.0.tgz
     version: 0.8.0
@@ -1740,7 +1755,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.7.0.tgz
     version: 0.7.0
@@ -1756,7 +1772,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.6.0.tgz
     version: 0.6.0
@@ -1772,7 +1789,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.5.0.tgz
     version: 0.5.0
@@ -1788,7 +1806,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.4.2.tgz
     version: 0.4.2
@@ -1804,7 +1823,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.4.1.tgz
     version: 0.4.1
@@ -1820,7 +1840,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.4.0.tgz
     version: 0.4.0
@@ -1836,7 +1857,8 @@ entries:
     icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
     name: azure-ad-pod-identity-app
     sources:
-    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.3.0.tgz
     version: 0.3.0
@@ -1882,7 +1904,8 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2021-08-30T09:14:14.631886715Z"
-    description: A Helm chart to apply needed iptables rules in order for Calico user defined routes to work on Azure.
+    description: A Helm chart to apply needed iptables rules in order for Calico user
+      defined routes to work on Azure.
     digest: 054f808044b69f29ed3502dc19db2481a042d66ccc49e68e48e28492e11301bd
     home: https://github.com/giantswarm/azure-calico-user-defined-routes-app
     icon: https://s.giantswarm.io/app-icons/1/png/default-app-light.png
@@ -2235,6 +2258,43 @@ entries:
     version: 2.0.0
   dex-app:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.36.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.36.0.tgz-meta/README.md
+      application.giantswarm.io/team: bigmac
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.36.0.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v2
+    appVersion: 1.36.0
+    created: "2023-07-11T07:54:44.673408521Z"
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
+    digest: c226208f420980f348d2e1cb8abf472c14683ec0c28501c0d6cdeaf80d6e9339
+    home: https://github.com/giantswarm/dex-app
+    icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
+    keywords:
+    - authentication
+    - oidc
+    maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: kfox1111
+    - email: shane.starcher@gmail.com
+      name: sstarcher
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: vi7alya@gmail.com
+      name: vi7
+    - email: aaron@roydhouse.com
+      name: Aaron Roydhouse
+    - email: nbadger@mintel.com
+      name: Nick Badger
+    name: dex-app
+    sources:
+    - https://github.com/dexidp/dex/
+    - https://github.com/mintel/dex-k8s-authenticator
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.36.0.tgz
+    version: 1.36.0
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.35.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-1.35.0.tgz-meta/README.md
       application.giantswarm.io/team: bigmac
@@ -2243,7 +2303,8 @@ entries:
     apiVersion: v2
     appVersion: 1.35.0
     created: "2023-06-19T11:00:08.639198873Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 05ba5bf3cf5af9c8893bb6d0766127eab51a04cebfd466b40c87b8b574be8bce
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2279,7 +2340,8 @@ entries:
     apiVersion: v2
     appVersion: 1.34.3
     created: "2023-06-13T07:33:37.585226095Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 3312bf35f99a262f793da001812431ba05952410b587cb81211c1b489bb2c304
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2315,7 +2377,8 @@ entries:
     apiVersion: v2
     appVersion: 1.34.2
     created: "2023-05-05T10:41:29.990884248Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 1adcadde2a1a7cdf3b412ebe6972f423610525ca36729448f2096ecdca9a2100
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2351,7 +2414,8 @@ entries:
     apiVersion: v2
     appVersion: 1.34.1
     created: "2023-05-03T08:14:31.133146968Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 020f0ad3b4d891c2b4e37aa4fe9bbb1c6da70ff30039ba179655de99670f4cfb
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2387,7 +2451,8 @@ entries:
     apiVersion: v2
     appVersion: 1.34.0
     created: "2023-03-22T11:41:43.308941939Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: b0bf2e0e05645113bb912b2b54e2482f6129a81b002153132a3e325744759da9
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2423,7 +2488,8 @@ entries:
     apiVersion: v2
     appVersion: 1.33.0
     created: "2023-03-02T12:50:41.837387551Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: d0f643867cbc5c524c02fb014b20532bc78913598b3ba0ccc01b30d4b7860909
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2459,7 +2525,8 @@ entries:
     apiVersion: v2
     appVersion: 1.32.3
     created: "2023-02-22T06:30:55.90643809Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 0ff6c585b99141de17703bfdc37676b347acef3b00a01f0086be9e2367306308
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2495,7 +2562,8 @@ entries:
     apiVersion: v2
     appVersion: 1.32.2
     created: "2023-01-13T14:28:56.641023673Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 47abcea845a3618476765f5db01fbe84468a5ff9dd223734d134d3362f592f49
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2531,7 +2599,8 @@ entries:
     apiVersion: v2
     appVersion: 1.32.1
     created: "2022-12-22T09:16:50.665474509Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 4b59a205449801eb29f391a431a37c113ff4ddf9792cdc4eb705ce1b1f78fef1
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2567,7 +2636,8 @@ entries:
     apiVersion: v2
     appVersion: 1.32.0
     created: "2022-12-20T11:27:13.62692989Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 200b5ab3d767c0f6a139d4881d61a9c32759f0d25b3b1540adf8924767a37ca5
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2603,7 +2673,8 @@ entries:
     apiVersion: v2
     appVersion: v2.35.3
     created: "2022-12-01T12:40:02.538535628Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 02ba420f8a0063d1c10b206f370357b3ef33af781917ecc6fff20de8bb888297
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2639,7 +2710,8 @@ entries:
     apiVersion: v2
     appVersion: v2.35.3
     created: "2022-12-01T09:18:19.116630182Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 9f1000dd9d7a7b9d987eb4da083ed7ed99d6359081b27d365cd3721c541ad96d
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2675,7 +2747,8 @@ entries:
     apiVersion: v2
     appVersion: v2.35.3
     created: "2022-11-29T10:28:45.068671049Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 28794cd6e39514b6db575a47b9e87cd0fd2ae409d7e35aa9b345ed2525446c28
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2711,7 +2784,8 @@ entries:
     apiVersion: v2
     appVersion: v2.35.3
     created: "2022-11-24T08:46:17.682832264Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 2d9193ce08ea3ecf1a3503b237ff480c32c41e85b11d6bc0bf6961bb63ea03d6
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2747,7 +2821,8 @@ entries:
     apiVersion: v2
     appVersion: v2.35.3
     created: "2022-11-07T10:30:59.174476056Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: c42b49a64745f08ab8d481d466dfd4fe7488e7cdcb96f30df0ab36ec4aaed22a
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2783,7 +2858,8 @@ entries:
     apiVersion: v2
     appVersion: v2.35.3
     created: "2022-10-13T13:01:35.38749465Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: f1740243c420ab96eabf7a1e21fbb119452546a2680215b22da03429214f145c
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2819,7 +2895,8 @@ entries:
     apiVersion: v2
     appVersion: v2.34.0
     created: "2022-09-26T12:11:17.709942671Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: c3df9717cb2f70882827cc9aa245aebde348d1151af912bfaca96e6830b18075
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2855,7 +2932,8 @@ entries:
     apiVersion: v2
     appVersion: v2.34.0
     created: "2022-09-22T13:27:44.845275203Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 94a4bbe90533e7014bf3a680be0bb0fb0347865bab13d55737c80acb4b9a6c49
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2891,7 +2969,8 @@ entries:
     apiVersion: v2
     appVersion: v2.33.0
     created: "2022-09-06T12:19:02.698287694Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 89eea9627ab00ce1de50c0c22b0476b99297d39d3a31979c706dbf1a3c5c5a05
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2927,7 +3006,8 @@ entries:
     apiVersion: v2
     appVersion: v2.33.0
     created: "2022-08-19T15:22:06.819042064Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 287f1722cc9d05e0569d708e53e990af07e104610fa7d149530a59f9c808d53c
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2963,7 +3043,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.1
     created: "2022-08-02T12:57:47.999896222Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 0125a425a465cdeebc96ed3934bc834d713549f7249d0cc20587ec4fc8f1408c
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -2999,7 +3080,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.1
     created: "2022-05-24T12:20:55.135734158Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 2899755b5b91c3bb9721fffcceec6c8e036166bb3948ae085e98eb3b4050d48f
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -3035,7 +3117,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.1
     created: "2022-05-02T06:38:01.93861661Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 70f3984ce17fa4b1ff553d42aa69841d013e9f03b43a1418b3f62822749002ad
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -3071,7 +3154,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.0
     created: "2022-04-27T10:27:06.773025378Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 635c0478e57be8aa6b4662f05b1070a55c84ac3ea0bcf34792788f7cb8ad12b1
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -3107,7 +3191,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.0
     created: "2022-03-30T13:27:39.937621895Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 8eff401fe7b1bf19e773aaacbe4f0c81901ca7a14a3fa8abb15ef38726260b78
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -3143,7 +3228,8 @@ entries:
     apiVersion: v2
     appVersion: v2.31.0
     created: "2022-03-17T10:20:15.90963066Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 0031c4990b6e781fbb242d91489668b8a9b44406d410694079523fef2b1dbc5b
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -3179,7 +3265,8 @@ entries:
     apiVersion: v2
     appVersion: v2.30.2
     created: "2022-03-10T10:21:01.854673074Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: a4bf5ef6b6155cfb705330dd14e4cf1392e4d9fbfc6c5163349b9190d1cd2d0f
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -3215,7 +3302,8 @@ entries:
     apiVersion: v2
     appVersion: v2.30.2
     created: "2022-03-08T12:23:16.30623653Z"
-    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
     digest: 1c7a721f8411ea4400229451a4937f2f1f63541759634d4499ffba9a4e98a2fa
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/1/light.svg
@@ -3428,7 +3516,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3
     created: "2020-07-02T10:56:06.129292285Z"
-    description: 'Heptio Event Router: A simple introspective kubernetes service that forwards events to a specified sink.'
+    description: 'Heptio Event Router: A simple introspective kubernetes service that
+      forwards events to a specified sink.'
     digest: b28534bfc5e0908c5add944d94e539c17c4adb870fb56f018454a9a32c04d298
     home: https://github.com/heptiolabs/eventrouter
     icon: https://raw.githubusercontent.com/giantswarm/eventrouter-app/master/img/logo-generic.png
@@ -3447,7 +3536,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3
     created: "2020-03-16T11:41:37.617039879Z"
-    description: 'Heptio Event Router: A simple introspective kubernetes service that forwards events to a specified sink.'
+    description: 'Heptio Event Router: A simple introspective kubernetes service that
+      forwards events to a specified sink.'
     digest: d709721c1e765d6d1dd040594c7b0fbc91e346d228c1b109149d169e47bbd9f0
     home: https://github.com/heptiolabs/eventrouter
     icon: https://raw.githubusercontent.com/giantswarm/eventrouter-app/master/img/logo-generic.png
@@ -3466,7 +3556,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3
     created: "2020-01-17T09:30:57.374641624Z"
-    description: 'Heptio Event Router: A simple introspective kubernetes service that forwards events to a specified sink.'
+    description: 'Heptio Event Router: A simple introspective kubernetes service that
+      forwards events to a specified sink.'
     digest: 697b76f97423f9e5578a515543194344439ad23ad16e55a28e46222144d0cbbf
     home: https://github.com/heptiolabs/eventrouter
     maintainers:
@@ -3725,7 +3816,8 @@ entries:
     apiVersion: v2
     appVersion: 3.8.4
     created: "2023-04-03T07:51:16.832990138Z"
-    description: Gatling is a load test tool. It officially supports HTTP, WebSocket, Server-Sent-Events and JMS.
+    description: Gatling is a load test tool. It officially supports HTTP, WebSocket,
+      Server-Sent-Events and JMS.
     digest: 20ba529b7a58b016c4d4545cce66b3bfb30bb84f1e6395baca9a1d2ea7687a4a
     home: https://github.com/giantswarm/gatling-app
     icon: https://s.giantswarm.io/app-icons/gatling/1/light.svg
@@ -3744,7 +3836,8 @@ entries:
     apiVersion: v2
     appVersion: 3.8.4
     created: "2022-09-30T16:00:59.087294557Z"
-    description: Gatling is a load test tool. It officially supports HTTP, WebSocket, Server-Sent-Events and JMS.
+    description: Gatling is a load test tool. It officially supports HTTP, WebSocket,
+      Server-Sent-Events and JMS.
     digest: bbaff8ca9b8b4eefb5cd38e66272546e47cb6722cdd209ad153e371c14216586
     home: https://github.com/giantswarm/gatling-app
     icon: https://s.giantswarm.io/app-icons/gatling/1/light.svg
@@ -3763,7 +3856,8 @@ entries:
     apiVersion: v2
     appVersion: 3.8.4
     created: "2022-09-14T18:15:49.667945571Z"
-    description: Gatling is a load test tool. It officially supports HTTP, WebSocket, Server-Sent-Events and JMS.
+    description: Gatling is a load test tool. It officially supports HTTP, WebSocket,
+      Server-Sent-Events and JMS.
     digest: 66d9d2b6c47a3d875a4b8d4093e0e883e94a9df0b2eb4c3518d9397b04fff83a
     home: https://github.com/giantswarm/gatling-app
     icon: https://s.giantswarm.io/app-icons/gatling/1/light.svg
@@ -3782,7 +3876,8 @@ entries:
     apiVersion: v2
     appVersion: 3.8.3
     created: "2022-09-14T14:25:14.034117727Z"
-    description: Gatling is a load test tool. It officially supports HTTP, WebSocket, Server-Sent-Events and JMS.
+    description: Gatling is a load test tool. It officially supports HTTP, WebSocket,
+      Server-Sent-Events and JMS.
     digest: 5d5cb5b2cf9278828c3dc55b693b80c94956a493fab4d48fa6497e8258a7ef3c
     home: https://github.com/giantswarm/gatling-app
     icon: https://s.giantswarm.io/app-icons/gatling/1/light.svg
@@ -3880,7 +3975,8 @@ entries:
     apiVersion: v1
     appVersion: 0.2.0
     created: "2022-07-14T08:55:50.072428395Z"
-    description: The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+    description: The Google Compute Engine Persistent Disk (GCE PD) Container Storage
+      Interface (CSI) Storage Plugin.
     digest: e9ac74c0b904166bd00ad1995e62356d9c8b0a6fcc59f10de3180964fd8501b5
     home: https://github.com/giantswarm/gcp-compute-persistent-disk-csi-driver-app
     name: gcp-compute-persistent-disk-csi-driver
@@ -4238,7 +4334,8 @@ entries:
   - apiVersion: v1
     appVersion: 1.10.7
     created: "2021-06-16T08:01:27.284748954Z"
-    description: An open source trusted cloud native registry that stores, signs, and scans content
+    description: An open source trusted cloud native registry that stores, signs,
+      and scans content
     digest: 64fd825809813a3abf7f11634f542cf0d460bd1c631bae84ef6bfbec64243f6a
     home: https://goharbor.io
     icon: https://raw.githubusercontent.com/goharbor/harbor/master/docs/img/harbor_logo.png
@@ -4323,7 +4420,8 @@ entries:
     sources:
     - https://github.com/jaegertracing/jaeger-operator
     - https://github.com/giantswarm/jaeger-operator-app
-    - https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.3.tgz
     version: 0.2.3
@@ -4349,7 +4447,8 @@ entries:
     sources:
     - https://github.com/jaegertracing/jaeger-operator
     - https://github.com/giantswarm/jaeger-operator-app
-    - https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/v[[ .Version ]]/README.md
+    - https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/v[[ .Version
+      ]]/README.md
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.2.tgz
     version: 0.2.2
@@ -4398,7 +4497,8 @@ entries:
   - apiVersion: v1
     appVersion: 1.17.1
     created: "2020-04-24T13:23:38.680367387Z"
-    description: 'Jaeger operator is a implementation of the operator pattern for installing and managing Jaeger deployments. '
+    description: 'Jaeger operator is a implementation of the operator pattern for
+      installing and managing Jaeger deployments. '
     digest: 9be1b2c964856dfcd64e5ceddff1c3745848def0196384006fd1deb64a43ead7
     home: https://github.com/jaegertracing/jaeger-operator
     icon: https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/master/img/jaeger-icon.svg
@@ -4416,7 +4516,8 @@ entries:
   - apiVersion: v1
     appVersion: 1.17.1
     created: "2020-04-24T13:17:27.437017955Z"
-    description: 'Jaeger operator is a implementation of the operator pattern for installing and managing Jaeger deployments. '
+    description: 'Jaeger operator is a implementation of the operator pattern for
+      installing and managing Jaeger deployments. '
     digest: e21e158b8f9c9519f60429fddf02a25a5000af88e5f461c66ae9d6166960cfb8
     home: https://github.com/jaegertracing/jaeger-operator
     icon: https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/master/img/jaeger-icon.svg
@@ -4683,7 +4784,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2022-09-07T11:13:40.558888772Z"
-    description: The k8s initiator runs in a master node and applies some configuration when the master is new.
+    description: The k8s initiator runs in a master node and applies some configuration
+      when the master is new.
     digest: 987265b41e06c080256c7e00db0e8351278296607ea7795209a78c82ecdd914b
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://s.giantswarm.io/app-icons/1/png/k8s-initiator-app-light.png
@@ -4697,7 +4799,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2022-09-07T07:36:57.029662991Z"
-    description: The k8s initiator runs in a master node and applies some configuration when the master is new.
+    description: The k8s initiator runs in a master node and applies some configuration
+      when the master is new.
     digest: 4e128cb71ffc7ab950d4e90e927d735b1fc6f5f9d91923819006b2cae640a56e
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://s.giantswarm.io/app-icons/1/png/k8s-initiator-app-light.png
@@ -4711,7 +4814,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2022-06-09T15:56:25.695702051Z"
-    description: The k8s initiator runs in a master node and applies some configuration when the master is new.
+    description: The k8s initiator runs in a master node and applies some configuration
+      when the master is new.
     digest: e19fdff37422c96972110e12626c66dd84d96f5f04acff1da87d8766dc120ad3
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://s.giantswarm.io/app-icons/1/png/k8s-initiator-app-light.png
@@ -4725,7 +4829,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2021-02-04T10:20:33.926637883Z"
-    description: The k8s initiator runs in a master node and applies some configuration when the master is new.
+    description: The k8s initiator runs in a master node and applies some configuration
+      when the master is new.
     digest: 9a6486a0559acbcdd70cb2deee6ecf50304aa85693f517ac1734aeed680d44fe
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://s.giantswarm.io/app-icons/1/png/k8s-initiator-app-light.png
@@ -4739,7 +4844,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2020-10-19T09:44:20.81891869Z"
-    description: The k8s initiator runs in a master node and applies some configuration when the master is new.
+    description: The k8s initiator runs in a master node and applies some configuration
+      when the master is new.
     digest: 04ca2f2160ec7075d0df05a9ac033f0c4fd6a3cff46355b48dc206fae91fa26c
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -4752,7 +4858,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2020-10-01T13:41:43.74374883Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: 5dca6ebce4e447c2ae4d7f64e4c8b991c339ba8ea79e85f7775891708640490d
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -4765,7 +4872,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-09-15T16:54:12.3601808Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: 3e4f1af8a1cf404aaeeded023088e746fb8d0ccc0fd83db3412e1aa30c3c79d4
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -4778,7 +4886,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-09-15T09:28:33.213725057Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: 9efd78881ed3547506c0a7de8205aee8780c7c7b1c23b3aeac8181cd5dd9f5c8
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -4791,7 +4900,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-09-03T09:47:10.729797836Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: d433a600f55b84ee346e87e6c30baebf8c48c4cd04b6cff62d018f5b8d6d5029
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -4804,7 +4914,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-08-31T08:35:17.6100789Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: 83086cdce6d72df25269d5e96e4ffee46975ed0bb813f354c7fc60efffedfb5e
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -4817,7 +4928,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-07-07T14:05:35.520919956Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: d5dfa02e094ea3f4bfe60cec1396e448e2b6e0710acba94b9d9522995471eaa2
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -4830,7 +4942,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.3.0
     created: "2020-06-30T09:05:11.353037964Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: b0d63e1d393858b6ad2047153dbbc7e065bbd75d42264b190ed08ff5eca39bb7
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -4843,7 +4956,8 @@ entries:
   - apiVersion: v1
     appVersion: v0.2.0
     created: "2020-04-01T09:00:45.404615459Z"
-    description: The k8s initiator runs in master and apply some configuration when master is new.
+    description: The k8s initiator runs in master and apply some configuration when
+      master is new.
     digest: 3d52e64eb2aa0025abd580b9e8d202dee802fe39241928688c8a20852595d794
     home: https://github.com/giantswarm/k8s-initiator-app
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
@@ -5067,7 +5181,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.5.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2023-05-10T09:04:41.861584235Z"
-    description: 'A Helm chart containing a Job to apply kubernetes manifests using kubectl apply. '
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
     digest: 1967ea0e3bc48260a25d00b4ab363e911e078a0e8141de85afafe63002a212c4
     home: https://github.com/giantswarm/kubectl-apply-job
     name: kubectl-apply-job
@@ -5081,7 +5196,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.4.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2023-05-04T12:18:52.135995847Z"
-    description: 'A Helm chart containing a Job to apply kubernetes manifests using kubectl apply. '
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
     digest: ab048dc998103e17aac7ef4c3682f7084089bc151792e67a2d7a4a7e4405baee
     home: https://github.com/giantswarm/kubectl-apply-job
     name: kubectl-apply-job
@@ -5095,7 +5211,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.3.1.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2023-04-19T14:15:14.842037457Z"
-    description: 'A Helm chart containing a Job to apply kubernetes manifests using kubectl apply. '
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
     digest: 3ff3ae2befbf9b9cc43edf6ee13967bc667b6213d40cd5e2877388549b99a231
     home: https://github.com/giantswarm/kubectl-apply-job
     name: kubectl-apply-job
@@ -5109,7 +5226,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.3.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2023-04-19T13:17:39.697768985Z"
-    description: 'A Helm chart containing a Job to apply kubernetes manifests using kubectl apply. '
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
     digest: bbb90941e49b8c2234da3b36cd5d9159f2e7d8d1f7f3cbc5780447829ca94574
     home: https://github.com/giantswarm/kubectl-apply-job
     name: kubectl-apply-job
@@ -5122,7 +5240,8 @@ entries:
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.2.2.tgz-meta/README.md
     apiVersion: v2
     created: "2023-02-03T11:28:55.493639573Z"
-    description: 'A Helm chart containing a Job to apply kubernetes manifests using kubectl apply. '
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
     digest: 09bad0ade3aea619c0d4130514c4d92d6a7afb0ea892cb7f0dc03ee06de0a837
     home: https://github.com/giantswarm/kubectl-apply-job
     name: kubectl-apply-job
@@ -5135,7 +5254,8 @@ entries:
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.2.1.tgz-meta/README.md
     apiVersion: v2
     created: "2023-01-31T07:21:03.656747179Z"
-    description: 'A Helm chart containing a Job to apply kubernetes manifests using kubectl apply. '
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
     digest: 8ee6ea853889cc14ee118f70888ab4437e382402a1afd5b3e43d95355b056465
     home: https://github.com/giantswarm/kubectl-apply-job
     name: kubectl-apply-job
@@ -5148,7 +5268,8 @@ entries:
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.2.0.tgz-meta/README.md
     apiVersion: v2
     created: "2023-01-31T06:47:54.408395032Z"
-    description: 'A Helm chart containing a Job to apply kubernetes manifests using kubectl apply. '
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
     digest: 43065c933af9c0032b4d63e9f448dfb955ffdc4709c67747977c059199bff7c7
     home: https://github.com/giantswarm/kubectl-apply-job
     name: kubectl-apply-job
@@ -5161,7 +5282,8 @@ entries:
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.1.1.tgz-meta/README.md
     apiVersion: v2
     created: "2023-01-25T15:48:26.627840806Z"
-    description: 'A Helm chart containing a Job to apply kubernetes manifests using kubectl apply. '
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
     digest: 8caffed38618c9e8139e5aaa8fe49e40450fe83fe17c98c6e761d332519d68c0
     name: kubectl-apply-job
     type: library
@@ -5173,7 +5295,8 @@ entries:
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.1.0.tgz-meta/README.md
     apiVersion: v2
     created: "2023-01-19T17:07:01.288760146Z"
-    description: 'A Helm chart containing a Job to apply kubernetes manifests using kubectl apply. '
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
     digest: edd678eba3028d928063726bb7b26a12f2c2a32cae5b4f68144b247f4aa1b2ae
     name: kubectl-apply-job
     type: library
@@ -5636,7 +5759,15 @@ entries:
   - apiVersion: v1
     appVersion: 0.1.11
     created: "2020-09-03T14:17:55.90856413Z"
-    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g. in the same VPC, AZ, etc.) a user’s application components and receives trace spans and metrics emitted by supported Receivers. The received spans and metrics could be emitted directly by clients in instrumented tasks, or potentially routed via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The collector provides a central egress point for exporting traces and metrics to one or more tracing and/or metrics backends while offering buffering and retries as well as advanced aggregation, filtering, annotation and intelligent sampling capabilities. '
+    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g.
+      in the same VPC, AZ, etc.) a user’s application components and receives trace
+      spans and metrics emitted by supported Receivers. The received spans and metrics
+      could be emitted directly by clients in instrumented tasks, or potentially routed
+      via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The
+      collector provides a central egress point for exporting traces and metrics to
+      one or more tracing and/or metrics backends while offering buffering and retries
+      as well as advanced aggregation, filtering, annotation and intelligent sampling
+      capabilities. '
     digest: fedc546228da76afc743e391f071ae647d8847fee0cb17c76b97fe542c949fe4
     home: https://opencensus.io/service/components/collector/
     icon: https://raw.githubusercontent.com/giantswarm/opencensus-collector-app/master/img/icon-oc.png
@@ -5653,7 +5784,15 @@ entries:
   - apiVersion: v1
     appVersion: 0.1.11
     created: "2020-04-29T10:28:35.816522529Z"
-    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g. in the same VPC, AZ, etc.) a user’s application components and receives trace spans and metrics emitted by supported Receivers. The received spans and metrics could be emitted directly by clients in instrumented tasks, or potentially routed via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The collector provides a central egress point for exporting traces and metrics to one or more tracing and/or metrics backends while offering buffering and retries as well as advanced aggregation, filtering, annotation and intelligent sampling capabilities. '
+    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g.
+      in the same VPC, AZ, etc.) a user’s application components and receives trace
+      spans and metrics emitted by supported Receivers. The received spans and metrics
+      could be emitted directly by clients in instrumented tasks, or potentially routed
+      via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The
+      collector provides a central egress point for exporting traces and metrics to
+      one or more tracing and/or metrics backends while offering buffering and retries
+      as well as advanced aggregation, filtering, annotation and intelligent sampling
+      capabilities. '
     digest: a8d5ab47f4f9348abc2a69d64978c9d6c833319994139a7f7aa5a50a1738cd38
     home: https://opencensus.io/service/components/collector/
     icon: https://raw.githubusercontent.com/giantswarm/opencensus-collector-app/master/img/icon-oc.png
@@ -5670,7 +5809,15 @@ entries:
   - apiVersion: v1
     appVersion: 0.1.11
     created: "2020-04-29T09:53:44.486209599Z"
-    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g. in the same VPC, AZ, etc.) a user’s application components and receives trace spans and metrics emitted by supported Receivers. The received spans and metrics could be emitted directly by clients in instrumented tasks, or potentially routed via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The collector provides a central egress point for exporting traces and metrics to one or more tracing and/or metrics backends while offering buffering and retries as well as advanced aggregation, filtering, annotation and intelligent sampling capabilities. '
+    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g.
+      in the same VPC, AZ, etc.) a user’s application components and receives trace
+      spans and metrics emitted by supported Receivers. The received spans and metrics
+      could be emitted directly by clients in instrumented tasks, or potentially routed
+      via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The
+      collector provides a central egress point for exporting traces and metrics to
+      one or more tracing and/or metrics backends while offering buffering and retries
+      as well as advanced aggregation, filtering, annotation and intelligent sampling
+      capabilities. '
     digest: 1966bc1d573f7c530d99b81e0cd38557132bb867808bd82c054396cba8b3e9d1
     home: https://opencensus.io/service/components/collector/
     icon: https://raw.githubusercontent.com/giantswarm/opencensus-collector-app/master/img/icon-oc.png
@@ -5687,7 +5834,15 @@ entries:
   - apiVersion: v1
     appVersion: 0.1.11
     created: "2020-04-09T09:39:58.927579215Z"
-    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g. in the same VPC, AZ, etc.) a user’s application components and receives trace spans and metrics emitted by supported Receivers. The received spans and metrics could be emitted directly by clients in instrumented tasks, or potentially routed via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The collector provides a central egress point for exporting traces and metrics to one or more tracing and/or metrics backends while offering buffering and retries as well as advanced aggregation, filtering, annotation and intelligent sampling capabilities. '
+    description: 'The OpenCensus Collector is a component that runs "nearby" (e.g.
+      in the same VPC, AZ, etc.) a user’s application components and receives trace
+      spans and metrics emitted by supported Receivers. The received spans and metrics
+      could be emitted directly by clients in instrumented tasks, or potentially routed
+      via intermediate proxy sidecar/daemon agents such as the OpenCensus Agent. The
+      collector provides a central egress point for exporting traces and metrics to
+      one or more tracing and/or metrics backends while offering buffering and retries
+      as well as advanced aggregation, filtering, annotation and intelligent sampling
+      capabilities. '
     digest: 8e60751f9ea2e4f73c26afd96e80b14e56f637b091b0c2372e0c63c311f33c89
     home: https://opencensus.io/service/components/collector/
     icon: https://raw.githubusercontent.com/giantswarm/opencensus-collector-app/master/img/icon-oc.png
@@ -5714,7 +5869,8 @@ entries:
     - name: opencost
       repository: https://opencost.github.io/opencost-helm-chart
       version: 1.16.*
-    description: OpenCost is a vendor-neutral open source project for measuring and allocating infrastructure and container costs in Kubernetes environments.
+    description: OpenCost is a vendor-neutral open source project for measuring and
+      allocating infrastructure and container costs in Kubernetes environments.
     digest: d549bfd88607bca560057eca215c101296653c596c8ec2f27d8db829bf2abb22
     home: https://github.com/giantswarm/opencost
     name: opencost
@@ -5733,7 +5889,8 @@ entries:
     - name: opencost
       repository: https://opencost.github.io/opencost-helm-chart
       version: 1.16.*
-    description: OpenCost is a vendor-neutral open source project for measuring and allocating infrastructure and container costs in Kubernetes environments.
+    description: OpenCost is a vendor-neutral open source project for measuring and
+      allocating infrastructure and container costs in Kubernetes environments.
     digest: 509590f1748765c42df3f45194bd3155fa7a2fd6dbc7840a41fa1c8efee02dcc
     home: https://github.com/giantswarm/opencost
     name: opencost
@@ -5752,7 +5909,8 @@ entries:
     - name: opencost
       repository: https://opencost.github.io/opencost-helm-chart
       version: 1.16.*
-    description: OpenCost is a vendor-neutral open source project for measuring and allocating infrastructure and container costs in Kubernetes environments.
+    description: OpenCost is a vendor-neutral open source project for measuring and
+      allocating infrastructure and container costs in Kubernetes environments.
     digest: 0c106a65e67c85c8016ff7bc4e1fbb23591682b6365c549a7213b2652865b755
     home: https://github.com/giantswarm/opencost
     name: opencost
@@ -5771,7 +5929,8 @@ entries:
     - name: opencost
       repository: https://opencost.github.io/opencost-helm-chart
       version: 1.16.*
-    description: OpenCost is a vendor-neutral open source project for measuring and allocating infrastructure and container costs in Kubernetes environments.
+    description: OpenCost is a vendor-neutral open source project for measuring and
+      allocating infrastructure and container costs in Kubernetes environments.
     digest: 8315c8d6ff68c289d963d61121a10cc4e7d783ccd08cbcff2e2db0529faaebc7
     home: https://github.com/giantswarm/opencost
     name: opencost
@@ -6057,7 +6216,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.12.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2023-02-08T12:03:21.429093217Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 0ff3e8cd5144c86ee7884d60b4ddc89f2cf2fa2aa00cba29682375e6b2fcdd6e
     home: https://github.com/giantswarm/security-pack
     icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
@@ -6076,7 +6236,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.11.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2023-01-11T11:35:00.754416895Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 48a291afa3ce73c51625cf951d7b095cb21db6c0c2676751d60e31ab30de1ab9
     home: https://github.com/giantswarm/security-pack
     icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
@@ -6095,7 +6256,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.10.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-12-21T15:16:21.830060116Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: f8b5d4e0899782e38f34e9d06cf76d5f84ec35c53c07cf43060c3e6884a50727
     home: https://github.com/giantswarm/security-pack
     icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
@@ -6114,7 +6276,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.9.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-11-10T13:59:05.424374623Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: a9c1a780781815f02c475da68338456fe5097f04673535faf4e308330b0f350c
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6132,7 +6295,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.8.1.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-10-25T19:17:43.821324624Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 4d5cfc7625f41c356d42d9249bef1599536ab6d058fa0f3ae13f8b07a8966907
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6149,7 +6313,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.8.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-09-27T19:01:34.058574422Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: be34f60a6c888ebb4d87ecf46cb6a0d05370c3ba9001f7ef9ed7d95d325b81c4
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6166,7 +6331,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.7.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-09-06T18:22:45.685237673Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: a162f2c744c5109e1ccb6343334e97e7bf73028ae1210e04d330279664bf769d
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6183,7 +6349,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.6.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-08-17T20:42:32.021354234Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 70e3232f9d1eb4c199a5a9797b0f35913d602865a09e85908100532180e230ce
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6200,7 +6367,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.5.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-08-01T19:52:28.782369552Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 941f0d8ba85c0e71ed94cd8bfd2915b74c13309b6c80235e92623691d6190fda
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6217,7 +6385,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.4.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-07-08T12:47:53.502874826Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 368800fbef417dc1de19c764f0bddaebeb3d273ecf723f8181c96121ee563e74
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6234,7 +6403,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.3.1.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-06-10T13:43:44.530779069Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 32d9498b567bab3b9d1615c69c6b0cfcd7fffd837bf1c6ce31af1b6d6ac8ccee
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6251,7 +6421,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.3.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-05-17T08:31:53.833371152Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 45519af7b3a76e4c28fb315d8c0a7b6bc22739ac82150e318743467ceca82fda
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6268,7 +6439,8 @@ entries:
       application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/security-pack-0.2.0.tgz-meta/values.schema.json
     apiVersion: v2
     created: "2022-04-25T11:30:26.446096294Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: f1c36918440c55f6344a2ceadf9c38c2cb355ed29a3dccbbb71d669cbfb52948
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6284,7 +6456,8 @@ entries:
       application.giantswarm.io/team: security
     apiVersion: v2
     created: "2022-04-07T11:39:57.137441126Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 98f8aa0e2394fb853d9f6ab93504e25771e1c99bb5dbd4f5bf4f0fd6b460b9df
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -6300,7 +6473,8 @@ entries:
       application.giantswarm.io/team: security
     apiVersion: v2
     created: "2022-03-24T14:03:55.279201816Z"
-    description: A Helm chart for Giant Swarm's collection of open-source security tools.
+    description: A Helm chart for Giant Swarm's collection of open-source security
+      tools.
     digest: 996f25d7ba9116e6758d8c9eb9fdb0dd123648a1eeb1130276b19f02ec83902f
     home: https://github.com/giantswarm/security-pack
     name: security-pack
@@ -7503,4 +7677,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2023-06-30T15:39:18.353974304Z"
+generated: "2023-07-11T07:54:44.672146893Z"
