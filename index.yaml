@@ -6822,6 +6822,28 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/strimzi-kafka-operator-app-0.0.1.tgz
     version: 0.0.1
+  teleport-kube-agent:
+  - annotations:
+      application.giantswarm.io/team: bigmac
+    apiVersion: v2
+    appVersion: 13.1.0
+    created: "2023-07-30T09:32:18.84302104Z"
+    description: A Helm chart for Teleport Kubernetes access.
+    digest: a5ed3b5da70ca512ee5dfec79c601e3de4a00043bc9efc7f4c406fc381ef0699
+    home: https://github.com/giantswarm/teleport-kube-agent-app
+    icon: https://s.giantswarm.io/app-icons/teleport/1/light.png
+    keywords:
+    - Teleport
+    maintainers:
+    - email: team-bigmac@giantswarm.io
+      name: giantswarm/team-bigmac
+    name: teleport-kube-agent
+    sources:
+    - https://github.com/gravitational/teleport
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/teleport-kube-agent-0.2.0.tgz
+    version: 0.2.0
   vault-exporter:
   - annotations:
       config.giantswarm.io/version: 1.x.x
@@ -7826,4 +7848,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2023-07-28T16:18:54.738561317Z"
+generated: "2023-07-30T09:32:18.84093715Z"
