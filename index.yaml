@@ -4786,6 +4786,16 @@ entries:
     version: 0.0.1
   k8s-audit-metrics:
   - apiVersion: v1
+    appVersion: 0.7.0
+    created: "2023-09-13T14:10:08.896119804Z"
+    description: Collector that exposes metrics from k8s apiserver audit log.
+    digest: 7d5a8fa3e720de1f4fa2d6314bb572c221b5412b554fbbb8e4d3f5976094b299
+    home: https://github.com/giantswarm/k8s-audit-metrics
+    name: k8s-audit-metrics
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/k8s-audit-metrics-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v1
     appVersion: 0.6.1
     created: "2023-08-03T14:56:12.204482605Z"
     description: Collector that exposes metrics from k8s apiserver audit log.
@@ -8056,4 +8066,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2023-08-30T20:03:33.488835812Z"
+generated: "2023-09-13T14:10:08.895441498Z"
