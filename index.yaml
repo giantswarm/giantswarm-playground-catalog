@@ -4651,6 +4651,28 @@ entries:
     - https://giantswarm.github.io/giantswarm-playground-catalog/inlets-operator-app-0.1.0.tgz
     version: 0.1.0
   jaeger-operator-app:
+  - apiVersion: v1
+    appVersion: 1.21.2
+    created: "2023-10-02T14:13:54.745811415Z"
+    description: jaeger-operator Helm chart for Kubernetes
+    digest: ef4d2d48a7565d89d97e2a2406fd792dfec5ade9d1f63240506074bd41f1af12
+    home: https://github.com/jaegertracing/jaeger-operator
+    icon: https://s.giantswarm.io/app-icons/1/png/jaeger-operator-app-light.png
+    maintainers:
+    - email: hello@giantswarm.io
+      name: Giantswarm Team
+    - email: ctadeu@gmail.com
+      name: cpanato
+    - email: batazor111@gmail.com
+      name: batazor
+    name: jaeger-operator-app
+    sources:
+    - https://github.com/jaegertracing/jaeger-operator
+    - https://github.com/giantswarm/jaeger-operator-app
+    - https://raw.githubusercontent.com/giantswarm/jaeger-operator-app/v0.3.0/README.md
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.3.0.tgz
+    version: 0.3.0
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.3.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/jaeger-operator-app-0.2.3.tgz-meta/README.md
@@ -8173,4 +8195,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2023-10-02T09:07:11.364115447Z"
+generated: "2023-10-02T14:13:54.744878377Z"
