@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/memcached-0.1.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/memcached-0.1.0.tgz-meta/README.md
+  application.giantswarm.io/team: atlas
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/memcached-0.1.0.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: memcached-0.1.0.tgz
+dateCreated: '2023-10-17T09:49:50.585796'
+digest: 5062fab95064ea9c3cea8a2e1a00897442cc0ef38436c391bf363190e2b05a97
+home: https://github.com/giantswarm/memcached
