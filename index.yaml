@@ -3988,6 +3988,18 @@ entries:
   flamethrower:
   - apiVersion: v1
     appVersion: 0.11.0
+    created: "2023-10-18T08:14:06.076587779Z"
+    description: A Helm chart for flamethrower, a DNS testing tool.
+    digest: 52ca85a168ff994d1ee8f1df128cc99f68174d40e4a37a648458dc7f60df4985
+    home: https://github.com/giantswarm/flamethrower-app
+    name: flamethrower
+    sources:
+    - https://github.com/DNS-OARC/flamethrower
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/flamethrower-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    appVersion: 0.11.0
     created: "2021-05-21T17:35:24.546252847Z"
     description: A Helm chart for flamethrower, a DNS testing tool.
     digest: 14c73bd5f208af0e8f16fd1fd230e837704534972cf24916029052b3407eda1b
@@ -8464,4 +8476,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2023-10-17T12:09:18.786320538Z"
+generated: "2023-10-18T08:14:06.075691977Z"
