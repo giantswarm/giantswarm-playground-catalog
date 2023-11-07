@@ -5286,6 +5286,23 @@ entries:
     - https://giantswarm.github.io/giantswarm-playground-catalog/k8s-dns-node-cache-app-0.1.0.tgz
     version: 0.1.0
   k8s-initiator-app:
+  - annotations:
+      application.giantswarm.io/team: team-horizon
+    apiVersion: v1
+    appVersion: v0.9.6
+    created: "2023-11-07T17:51:45.855832847Z"
+    description: The k8s initiator runs in a master node and applies some configuration
+      when the master is new.
+    digest: f55ac28ae4973c5b4cd36dba88f2b8bcbe028a5969caab8da62361a3e63ac909
+    home: https://github.com/giantswarm/k8s-initiator-app
+    icon: https://s.giantswarm.io/app-icons/1/png/k8s-initiator-app-light.png
+    name: k8s-initiator-app
+    sources:
+    - https://github.com/giantswarm/k8s-initiator-app
+    - https://raw.githubusercontent.com/giantswarm/k8s-initiator-app/v0.9.6/README.md
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/k8s-initiator-app-0.9.6.tgz
+    version: 0.9.6
   - apiVersion: v1
     appVersion: v0.9.0
     created: "2022-09-07T11:13:40.558888772Z"
@@ -8653,4 +8670,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2023-10-31T13:57:21.406952201Z"
+generated: "2023-11-07T17:51:45.854792281Z"
