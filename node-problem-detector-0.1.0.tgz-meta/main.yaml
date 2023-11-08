@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/node-problem-detector-0.1.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/node-problem-detector-0.1.0.tgz-meta/README.md
+  application.giantswarm.io/team: phoenix
+chartApiVersion: v2
+chartFile: node-problem-detector-0.1.0.tgz
+dateCreated: '2023-11-08T14:06:35.409483'
+digest: fca3d20ec9e36a7f2366b7da41a74cb5731b10a905e27b8b9fc51010450312f1
+home: https://github.com/giantswarm/node-problem-detector-app
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
