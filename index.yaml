@@ -2,6 +2,28 @@ apiVersion: v1
 entries:
   ailefroide-app:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/ailefroide-app-0.3.5.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/ailefroide-app-0.3.5.tgz-meta/README.md
+      application.giantswarm.io/team: chapter-se
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/ailefroide-app-0.3.5.tgz-meta/values.schema.json
+    apiVersion: v1
+    appVersion: 0.3.5
+    created: "2023-11-30T15:09:06.479171788Z"
+    description: A Helm chart for Ailefroide, the Slack support handle manager
+    digest: 415f2f8e6e2aea1a9a153782afb009d0b472813eee23eb11327befbd447065e1
+    home: https://github.com/giantswarm/ailefroide-app
+    icon: https://s.giantswarm.io/app-icons/1/png/ailefroide-app-light.png
+    maintainers:
+    - name: Giant Swarm applications team
+      url: https://github.com/giantswarm/ailefroide-app
+    name: ailefroide-app
+    sources:
+    - https://github.com/giantswarm/ailefroide-app
+    - https://raw.githubusercontent.com/giantswarm/ailefroide-app/v[[ .Version ]]/README.md
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/ailefroide-app-0.3.5.tgz
+    version: 0.3.5
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/ailefroide-app-0.3.4.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/ailefroide-app-0.3.4.tgz-meta/README.md
       application.giantswarm.io/team: chapter-se
@@ -8906,4 +8928,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2023-11-30T12:29:16.347975169Z"
+generated: "2023-11-30T15:09:06.47706324Z"
