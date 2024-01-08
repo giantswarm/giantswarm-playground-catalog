@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/slack-replier-0.0.1.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/slack-replier-0.0.1.tgz-meta/README.md
+  application.giantswarm.io/team: horizon
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/slack-replier-0.0.1.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: slack-replier-0.0.1.tgz
+dateCreated: '2024-01-08T12:09:51.246097'
+digest: 97c1d577d30c3fd5eaf88aa45883a5d5f1e992c27bce2e9bcb3ec70bc190e1c3
+home: https://github.com/giantswarm/slack-replier
