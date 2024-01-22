@@ -1880,6 +1880,25 @@ entries:
     version: 0.1.0
   azure-ad-pod-identity-app:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.15.1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.15.1.tgz-meta/README.md
+      application.giantswarm.io/team: phoenix
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: 1.7.4
+    created: "2024-01-22T10:26:31.274815113Z"
+    description: Deploy components for the azure-ad-pod-identity-app
+    digest: 79474a38c26938f870f38b7355cec6f37f984e163dfe0250971a7eb377b552e1
+    home: https://github.com/giantswarm/azure-ad-pod-identity-app
+    icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
+    name: azure-ad-pod-identity-app
+    sources:
+    - https://raw.githubusercontent.com/giantswarm/azure-ad-pod-identity-app/v[[ .Version
+      ]]/README.md
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.15.1.tgz
+    version: 0.15.1
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.15.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.15.0.tgz-meta/README.md
       application.giantswarm.io/team: phoenix
@@ -9636,4 +9655,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2024-01-22T09:48:56.092298446Z"
+generated: "2024-01-22T10:26:31.27274772Z"
