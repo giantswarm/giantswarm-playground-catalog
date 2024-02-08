@@ -8272,6 +8272,18 @@ entries:
       application.giantswarm.io/team: phoenix
     apiVersion: v2
     appVersion: 5.2-22.04_beta
+    created: "2024-02-08T16:07:11.061638272Z"
+    description: squid proxy for giantswarm internal use
+    digest: 295a74439c1ba101f35414c73a9ab0a8b6eab59cbb8512d0d72115a3324f4be2
+    home: https://github.com/giantswarm/squid-proxy-app
+    name: squid-proxy
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/squid-proxy-0.5.1.tgz
+    version: 0.5.1
+  - annotations:
+      application.giantswarm.io/team: phoenix
+    apiVersion: v2
+    appVersion: 5.2-22.04_beta
     created: "2024-02-08T15:06:25.688634713Z"
     description: squid proxy for giantswarm internal use
     digest: ae6595473783fb191b7b49799872188df35edf5a4f2c24635b83f80ff9043369
@@ -9806,4 +9818,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2024-02-08T15:06:25.688026214Z"
+generated: "2024-02-08T16:07:11.061008375Z"
