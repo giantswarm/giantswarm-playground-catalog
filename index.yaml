@@ -2442,6 +2442,18 @@ entries:
       application.giantswarm.io/team: phoenix
     apiVersion: v1
     appVersion: 0.0.1
+    created: "2024-03-19T10:58:07.440925334Z"
+    description: CAPA karpenter taint remover
+    digest: 32bfefe5897ef8f35e13cecc64e981364256a1e494808bea1cbd8ec4aad8cb50
+    home: https://github.com/giantswarm/capa-karpenter-taint-remover
+    name: capa-karpenter-taint-remover
+    urls:
+    - https://giantswarm.github.io/playground-catalog/capa-karpenter-taint-remover-0.2.0.tgz
+    version: 0.2.0
+  - annotations:
+      application.giantswarm.io/team: phoenix
+    apiVersion: v1
+    appVersion: 0.0.1
     created: "2024-03-19T09:40:02.955911762Z"
     description: CAPA karpenter taint remover
     digest: 57fbe5914356805515c3804c41c9ede4799cda02e4394ad525c73d92b20e634b
@@ -10066,4 +10078,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2024-03-19T09:40:02.955304802Z"
+generated: "2024-03-19T10:58:07.439996619Z"
