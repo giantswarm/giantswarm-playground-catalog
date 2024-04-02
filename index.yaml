@@ -6044,6 +6044,18 @@ entries:
     - https://giantswarm.github.io/giantswarm-playground-catalog/jiralert-0.0.1.tgz
     version: 0.0.1
   k8s-audit-metrics:
+  - annotations:
+      application.giantswarm.io/team: turtles
+    apiVersion: v1
+    appVersion: 0.9.0
+    created: "2024-04-02T06:25:01.812505298Z"
+    description: Collector that exposes metrics from k8s apiserver audit log.
+    digest: 4c0c8431436239909f8285e5ab277ce18bb51ce85c21adc262876cb171482a53
+    home: https://github.com/giantswarm/k8s-audit-metrics
+    name: k8s-audit-metrics
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/k8s-audit-metrics-0.9.0.tgz
+    version: 0.9.0
   - apiVersion: v1
     appVersion: 0.8.0
     created: "2023-10-18T08:39:19.015845871Z"
@@ -10100,4 +10112,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2024-03-27T07:45:40.458843954Z"
+generated: "2024-04-02T06:25:01.8118002Z"
