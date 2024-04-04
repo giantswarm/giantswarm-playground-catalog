@@ -8360,6 +8360,24 @@ entries:
     version: 0.0.1
   slack-replier:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/slack-replier-0.0.10.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/slack-replier-0.0.10.tgz-meta/README.md
+      application.giantswarm.io/team: horizon
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/slack-replier-0.0.10.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-04-04T15:55:49.220369093Z"
+    description: Please add description
+    digest: 3747694936522ccd7fa3b80ea436ac7c1928d05296c61c30040cb747e84ea2c2
+    home: https://github.com/giantswarm/slack-replier
+    icon: https://s.giantswarm.io/app-icons/slack-replier/1/light.svg
+    name: slack-replier
+    sources:
+    - https://github.com/some-org/some-repo
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/slack-replier-0.0.10.tgz
+    version: 0.0.10
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/slack-replier-0.0.9.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/slack-replier-0.0.9.tgz-meta/README.md
       application.giantswarm.io/team: horizon
@@ -10131,4 +10149,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2024-04-02T07:50:47.731023708Z"
+generated: "2024-04-04T15:55:49.219632838Z"
