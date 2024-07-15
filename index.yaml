@@ -6427,6 +6427,24 @@ entries:
     version: 0.1.0
   kube-downscaler:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/kube-downscaler-0.2.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kube-downscaler-0.2.0.tgz-meta/README.md
+      application.giantswarm.io/team: horizon
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/kube-downscaler-0.2.0.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-07-15T13:53:32.817903174Z"
+    description: Downscaling tool to save on resources with dev clusters when they
+      are not used
+    digest: e3b5a20d06003a3f5d579cfd9cdfe80839cfc6df2327d3cd4fcf71a7c3c70a84
+    home: https://github.com/giantswarm/kube-downscaler
+    name: kube-downscaler
+    sources:
+    - https://codeberg.org/hjacobs/kube-downscaler
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/kube-downscaler-0.2.0.tgz
+    version: 0.2.0
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/kube-downscaler-0.1.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kube-downscaler-0.1.0.tgz-meta/README.md
       application.giantswarm.io/team: horizon
@@ -9923,4 +9941,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2024-07-11T07:44:35.421286482Z"
+generated: "2024-07-15T13:53:32.817181296Z"
