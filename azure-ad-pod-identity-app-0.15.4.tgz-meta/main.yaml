@@ -1,0 +1,14 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.15.4.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.15.4.tgz-meta/README.md
+  application.giantswarm.io/team: phoenix
+  config.giantswarm.io/version: 1.x.x
+chartApiVersion: v1
+chartFile: azure-ad-pod-identity-app-0.15.4.tgz
+dateCreated: '2024-07-29T13:03:41.571470'
+digest: a4e15b191c5b362f8fc3abab9a566745e302f7769e9fd93efe58a4007c0b20a3
+home: https://github.com/giantswarm/azure-ad-pod-identity-app
+icon: https://s.giantswarm.io/app-icons/1/png/azure-ad-pod-identity-app-light.png
+restrictions:
+  compatibleProviders:
+  - azure
