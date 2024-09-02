@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/debug-toolbox-1.0.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/debug-toolbox-1.0.0.tgz-meta/README.md
+  application.giantswarm.io/team: team-horizon
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/debug-toolbox-1.0.0.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: debug-toolbox-1.0.0.tgz
+dateCreated: '2024-09-02T19:10:01.285553'
+digest: d585deaa1d17bed4b06f7db0d0d3c01cc0fc93feae62eb3746a794b51dd857a5
+home: https://github.com/giantswarm/debug-toolbox
+icon: https://s.giantswarm.io/app-icons/1/png/k8s-initiator-app-light.png
