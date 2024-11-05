@@ -2708,6 +2708,25 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/cluster-api-provider-gcp-0.1.0.tgz
     version: 0.1.0
+  csi-driver-nfs:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/csi-driver-nfs-0.1.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/csi-driver-nfs-0.1.0.tgz-meta/README.md
+      application.giantswarm.io/team: rocket
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/csi-driver-nfs-0.1.0.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: v4.9.0
+    created: "2024-11-05T08:53:52.516881682Z"
+    description: CSI NFS Driver for Kubernetes
+    digest: e39da1f6c250f41e905ca091cbeea932d73af41655d6843e09cfee8781bed14c
+    home: https://github.com/giantswarm/csi-driver-nfs-app
+    icon: https://s.giantswarm.io/app-icons/csi/1/light.svg
+    name: csi-driver-nfs
+    sources:
+    - https://github.com/kubernetes-csi/csi-driver-nfs
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/csi-driver-nfs-0.1.0.tgz
+    version: 0.1.0
   datadog:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/datadog-2.5.1.tgz-meta/main.yaml
@@ -10209,4 +10228,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2024-10-31T16:29:52.546269448Z"
+generated: "2024-11-05T08:53:52.51452123Z"
