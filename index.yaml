@@ -2708,6 +2708,25 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/cluster-api-provider-gcp-0.1.0.tgz
     version: 0.1.0
+  coredns-extensions:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/coredns-extensions-0.1.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/coredns-extensions-0.1.0.tgz-meta/README.md
+      application.giantswarm.io/team: cabbage
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/coredns-extensions-0.1.0.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: 0.0.1
+    created: "2025-01-15T10:18:06.316674202Z"
+    description: Extra resources for CoreDNS
+    digest: 977649585202354f4d0c2fb31ab09d5ae9adb38eecc2e0f675a6b41b9329655d
+    home: https://github.com/giantswarm/coredns-extensions-app
+    icon: https://s.giantswarm.io/app-icons/coredns/1/dark.svg
+    name: coredns-extensions
+    sources:
+    - https://github.com/giantswarm/coredns-extensions-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/coredns-extensions-0.1.0.tgz
+    version: 0.1.0
   csi-driver-nfs:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/csi-driver-nfs-1.0.0.tgz-meta/main.yaml
@@ -10326,4 +10345,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2024-12-20T09:57:42.506585317Z"
+generated: "2025-01-15T10:18:06.316167192Z"
