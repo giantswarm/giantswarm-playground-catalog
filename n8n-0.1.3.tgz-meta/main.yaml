@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/n8n-0.1.3.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/n8n-0.1.3.tgz-meta/README.md
+  application.giantswarm.io/team: team-planeteers
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/n8n-0.1.3.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: n8n-0.1.3.tgz
+dateCreated: '2025-01-29T15:56:26.904466Z'
+digest: 63ab644ec4aaf565434227e4fc614d8f3eab7799cd0b12aaf08c38f943a10aef
+home: https://github.com/giantswarm/n8n
+icon: https://s.giantswarm.io/app-icons/k8s-initiator/1/light.svg
