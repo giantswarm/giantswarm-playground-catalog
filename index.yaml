@@ -6907,6 +6907,25 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/kube-downscaler-0.1.0.tgz
     version: 0.1.0
+  kube-vip:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/kube-vip-0.1.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kube-vip-0.1.0.tgz-meta/README.md
+      application.giantswarm.io/team: rocket
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/kube-vip-0.1.0.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: v0.8.4
+    created: "2025-02-20T16:37:50.361792111Z"
+    description: A Helm chart for kube-vip
+    digest: 3ab965e127e687f9ce3829f463ba345991ddac9d0c02d14bdceebaf57779495b
+    icon: https://github.com/kube-vip/kube-vip/raw/main/kube-vip.png
+    maintainers:
+    - name: kube-vip
+    name: kube-vip
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/kube-vip-0.1.0.tgz
+    version: 0.1.0
   kubectl-apply-job:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.9.1.tgz-meta/main.yaml
@@ -10672,4 +10691,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2025-02-18T09:46:22.070910424Z"
+generated: "2025-02-20T16:37:50.360954656Z"

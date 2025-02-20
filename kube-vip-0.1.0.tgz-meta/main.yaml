@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/kube-vip-0.1.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kube-vip-0.1.0.tgz-meta/README.md
+  application.giantswarm.io/team: rocket
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/kube-vip-0.1.0.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: kube-vip-0.1.0.tgz
+dateCreated: '2025-02-20T16:37:48.220634'
+digest: 3ab965e127e687f9ce3829f463ba345991ddac9d0c02d14bdceebaf57779495b
+icon: https://github.com/kube-vip/kube-vip/raw/main/kube-vip.png
