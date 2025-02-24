@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/faiq-0.1.4.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/faiq-0.1.4.tgz-meta/README.md
+  application.giantswarm.io/team: teddyfriends
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/faiq-0.1.4.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: faiq-0.1.4.tgz
+dateCreated: '2025-02-24T16:14:21.841764Z'
+digest: fec68fae916aeeb526e6abd7aead49febf5ec5bb959fef3321f067ac0e1960be
+home: https://github.com/giantswarm/faiq
+icon: https://s.giantswarm.io/app-icons/faiq/1/light.svg
