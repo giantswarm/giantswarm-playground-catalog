@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/pr-generator-0.1.6.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/pr-generator-0.1.6.tgz-meta/README.md
+  application.giantswarm.io/team: teddyfriends
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/pr-generator-0.1.6.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: pr-generator-0.1.6.tgz
+dateCreated: '2025-02-26T12:29:37.746558Z'
+digest: 4d1393bc18eed61b1d8f622f2df66cbcf42a0da1b039cc18c25005ccb730226f
+home: https://github.com/giantswarm/pr-generator
+icon: https://s.giantswarm.io/app-icons/pr-generator/1/light.svg
