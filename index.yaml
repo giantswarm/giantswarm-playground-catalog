@@ -8232,6 +8232,28 @@ entries:
     version: 0.1.1
   pr-generator:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/pr-generator-0.1.5.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/pr-generator-0.1.5.tgz-meta/README.md
+      application.giantswarm.io/team: teddyfriends
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/pr-generator-0.1.5.tgz-meta/values.schema.json
+    apiVersion: v1
+    appVersion: 0.1.5
+    created: "2025-02-26T08:57:52.65028192Z"
+    description: A Helm chart for pr-generator, the Slack support manager
+    digest: 25bf8cf4393a665d17535a844ea94c1686fa772e65cc61972b15f48decb2ad00
+    home: https://github.com/giantswarm/pr-generator
+    icon: https://s.giantswarm.io/app-icons/pr-generator/1/light.svg
+    maintainers:
+    - name: Giant Swarm teddyfriends
+      url: https://github.com/giantswarm/pr-generator
+    name: pr-generator
+    sources:
+    - https://github.com/giantswarm/pr-generator
+    - https://raw.githubusercontent.com/giantswarm/pr-generator/v[[ .Version ]]/README.md
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/pr-generator-0.1.5.tgz
+    version: 0.1.5
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/pr-generator-0.1.4.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/pr-generator-0.1.4.tgz-meta/README.md
       application.giantswarm.io/team: teddyfriends
@@ -10894,4 +10916,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2025-02-25T15:05:30.436559902Z"
+generated: "2025-02-26T08:57:52.64957415Z"
