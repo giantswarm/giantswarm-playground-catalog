@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.1.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.1.0.tgz-meta/README.md
+  application.giantswarm.io/team: cabbage
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.1.0.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: proxysocks-0.1.0.tgz
+dateCreated: '2025-04-01T15:15:19.420226Z'
+digest: 1c1e4c037d285510b663d8636b9b9791d059a0b6281f33dceeb53e881c2d1cd0
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
