@@ -6325,6 +6325,18 @@ entries:
   - annotations:
       application.giantswarm.io/team: turtles
     apiVersion: v1
+    appVersion: 0.10.4
+    created: "2025-06-07T07:11:49.414030109Z"
+    description: Collector that exposes metrics from k8s apiserver audit log.
+    digest: 999e30033fade0080b7604f1181a2f72f8ca558524e2ddabf8420ecbd56b0804
+    home: https://github.com/giantswarm/k8s-audit-metrics
+    name: k8s-audit-metrics
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/k8s-audit-metrics-0.10.4.tgz
+    version: 0.10.4
+  - annotations:
+      application.giantswarm.io/team: turtles
+    apiVersion: v1
     appVersion: 0.10.3
     created: "2025-06-03T08:07:22.281199172Z"
     description: Collector that exposes metrics from k8s apiserver audit log.
@@ -11375,4 +11387,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2025-06-03T08:07:22.280551875Z"
+generated: "2025-06-07T07:11:49.413316738Z"
