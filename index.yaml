@@ -9277,6 +9277,22 @@ entries:
     version: 0.1.0
   proxysocks:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.2.1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.2.1.tgz-meta/README.md
+      application.giantswarm.io/team: cabbage
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.2.1.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: 0.2.1
+    created: "2025-08-27T13:42:50.175851211Z"
+    description: A Helm chart for the Giant Swarm Proxy
+    digest: bfd087d419ea77d39c6a64e06101278063a68b35ac6a46630181eb72f653a92c
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: proxysocks
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.2.1.tgz
+    version: 0.2.1
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.2.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.2.0.tgz-meta/README.md
       application.giantswarm.io/team: cabbage
@@ -11673,4 +11689,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2025-08-27T13:31:23.124623887Z"
+generated: "2025-08-27T13:42:50.174933479Z"
