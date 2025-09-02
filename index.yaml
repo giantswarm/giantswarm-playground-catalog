@@ -10444,6 +10444,20 @@ entries:
     version: 0.2.0
   vault-exporter:
   - annotations:
+      application.giantswarm.io/team: phoenix
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: 2.5.1
+    created: "2025-09-02T13:00:33.166336802Z"
+    description: Chart holding vault-exporter.
+    digest: 3ff992788f35733f64717b10499d0578a998b90895c3a02d4ef92d0cbb7d4d8b
+    home: https://github.com/giantswarm/vault-exporter
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: vault-exporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/vault-exporter-2.5.1.tgz
+    version: 2.5.1
+  - annotations:
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
     appVersion: 2.5.0
@@ -11771,4 +11785,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2025-09-01T08:17:57.975967595Z"
+generated: "2025-09-02T13:00:33.165484032Z"
