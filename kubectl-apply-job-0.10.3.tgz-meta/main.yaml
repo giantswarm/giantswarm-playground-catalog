@@ -1,0 +1,9 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.10.3.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.10.3.tgz-meta/README.md
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.10.3.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: kubectl-apply-job-0.10.3.tgz
+dateCreated: '2025-11-07T07:47:00.623995Z'
+digest: b01270c52c1a6ca7bfb5b924fce03eba42132eb562afbdb6b657318e2f64b43e
+home: https://github.com/giantswarm/kubectl-apply-job
