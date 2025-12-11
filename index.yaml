@@ -5488,6 +5488,16 @@ entries:
     version: 0.1.0
   encryption-config-hasher:
   - apiVersion: v1
+    appVersion: 0.3.0
+    created: "2025-12-11T16:53:38.61365541Z"
+    description: A Helm chart for encryption-config-hasher
+    digest: 10707527f0796b1d24983099dcdda118434f084676eda0e5d5b6bc1d57d41e2d
+    home: https://github.com/giantswarm/encryption-config-hasher
+    name: encryption-config-hasher
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/encryption-config-hasher-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
     appVersion: 0.2.0
     created: "2025-10-08T19:28:44.573214501Z"
     description: A Helm chart for encryption-config-hasher
@@ -12263,4 +12273,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2025-12-10T10:41:07.883540588Z"
+generated: "2025-12-11T16:53:38.612460651Z"
