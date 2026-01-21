@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/app-type: bundle
+  application.giantswarm.io/in-cluster-app: 'true'
+  application.giantswarm.io/team: bigmac
+  config.giantswarm.io/version: 1.x.x
+chartApiVersion: v2
+chartFile: auth-bundle-0.4.0.tgz
+dateCreated: '2026-01-21T12:41:38.182760Z'
+digest: f9a4676fb8854a8189c92b1fb6d063d5c19e3b7d4356f863153b0e5e47f8be2b
+home: https://github.com/giantswarm/auth-bundle
+icon: https://s.giantswarm.io/app-icons/athena/1/light.svg
