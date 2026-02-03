@@ -1582,6 +1582,25 @@ entries:
     version: 0.4.0
   auth-bundle:
   - annotations:
+      io.giantswarm.application.app-type: bundle
+      io.giantswarm.application.audience: all
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/auth-bundle-0.5.1.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/auth-bundle/refs/tags/v0.5.1/README.md
+      io.giantswarm.application.team: shield
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/auth-bundle/refs/tags/v0.5.1/helm/auth-bundle/values.schema.json
+    apiVersion: v2
+    created: "2026-02-03T12:46:22.660005663Z"
+    description: A Helm chart for Giant Swarm's collection of auth tools.
+    digest: 6fcbfe30b0b1e5d7d73df71b2e6d878760b668ac8cad343d0194c8f2e3330b89
+    home: https://github.com/giantswarm/auth-bundle
+    icon: https://s.giantswarm.io/app-icons/athena/1/light.svg
+    name: auth-bundle
+    sources:
+    - https://github.com/giantswarm/auth-bundle
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/auth-bundle-0.5.1.tgz
+    version: 0.5.1
+  - annotations:
       config.giantswarm.io/version: 1.x.x
       io.giantswarm.application.app-type: bundle
       io.giantswarm.application.in-cluster-app: "true"
@@ -12471,4 +12490,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-01-21T13:23:55.52049031Z"
+generated: "2026-02-03T12:46:22.658922298Z"
