@@ -6999,6 +6999,22 @@ entries:
     version: 0.0.1
   k8s-audit-metrics:
   - annotations:
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/k8s-audit-metrics-0.10.12.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/k8s-audit-metrics/refs/tags/v0.10.12/README.md
+      io.giantswarm.application.team: tenet
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/k8s-audit-metrics/refs/tags/v0.10.12/helm/k8s-audit-metrics-app/values.schema.json
+    apiVersion: v2
+    appVersion: 0.10.12
+    created: "2026-02-04T12:55:00.486713989Z"
+    description: Collector that exposes metrics from k8s apiserver audit log.
+    digest: 1d5c7a96a0f1b3840c183f065b178082b2d25fb619bd4d1e324608624984304d
+    home: https://github.com/giantswarm/k8s-audit-metrics
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: k8s-audit-metrics
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/k8s-audit-metrics-0.10.12.tgz
+    version: 0.10.12
+  - annotations:
       application.giantswarm.io/team: turtles
     apiVersion: v1
     appVersion: 0.10.11
@@ -12490,4 +12506,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-02-03T12:46:22.658922298Z"
+generated: "2026-02-04T12:55:00.486110772Z"
