@@ -10362,6 +10362,37 @@ entries:
     version: 2.2.0-127bf021a4121c778811f15c4885761c374e274f
   velero:
   - annotations:
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/velero-0.2.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/velero-app/refs/tags/v0.2.0/README.md
+      io.giantswarm.application.team: tenet
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/velero-app/refs/tags/v0.2.0/helm/velero/values.schema.json
+    apiVersion: v2
+    appVersion: v1.4.3
+    created: "2026-03-03T17:24:24.798929455Z"
+    description: A Helm chart for Kubernetes
+    digest: 999cf576b49a9c86ad7547e1da99eba1481543b64488a8202223d34f491582f8
+    home: https://github.com/giantswarm/velero-app
+    icon: https://s.giantswarm.io/app-icons/velero/1/light.svg
+    maintainers:
+    - email: d-caruso@hotmail.it
+      name: domcar
+    - email: hfernandez@mesosphere.com
+      name: hectorj2f
+    - email: brubakern@vmware.com
+      name: nrb
+    - email: carlisiac@vmware.com
+      name: carlisia
+    - email: ashisham@vmware.com
+      name: ashish-amarnath
+    name: velero
+    sources:
+    - https://github.com/vmware-tanzu/velero
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/velero-0.2.0.tgz
+    version: 0.2.0
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-playground-catalog/velero-0.1.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-playground-catalog/velero-0.1.0.tgz-meta/README.md
     apiVersion: v2
@@ -11565,4 +11596,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-02-16T10:54:58.852943396Z"
+generated: "2026-03-03T17:24:24.795974829Z"
