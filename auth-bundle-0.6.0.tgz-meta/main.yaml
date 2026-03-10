@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/appType: bundle
+  application.giantswarm.io/audience: all
+  application.giantswarm.io/managed: 'true'
+  application.giantswarm.io/team: shield
+chartApiVersion: v2
+chartFile: auth-bundle-0.6.0.tgz
+dateCreated: '2026-03-10T22:35:45.906217Z'
+digest: cbfedc01cb119887e4804912b916a41d974d251defee5f2a73bb17c79d1f159b
+home: https://github.com/giantswarm/auth-bundle
+icon: https://s.giantswarm.io/app-icons/athena/1/light.svg
