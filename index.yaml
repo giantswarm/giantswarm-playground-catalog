@@ -6555,6 +6555,32 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/goldpinger-3.5.1.tgz
     version: 3.5.1
+  important-service:
+  - annotations:
+      io.giantswarm.application.audience: all
+      io.giantswarm.application.managed: "false"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/important-service-0.1.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/important-service/refs/tags/v0.1.0/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/important-service/refs/tags/v0.1.0/helm/important-service/values.schema.json
+    apiVersion: v2
+    appVersion: 0.3.0
+    created: "2026-03-12T16:28:55.01259106Z"
+    description: An application to demonstrate workload deployment at Giant Swarm
+    digest: 0cf160a274261251e44350347e3d26328f448404430cc8369d098ed4da4a8ae5
+    home: https://github.com/giantswarm/important-service
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    keywords:
+    - demo
+    - webapp
+    - testing
+    name: important-service
+    sources:
+    - https://github.com/giantswarm/helloworld
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/important-service-0.1.0.tgz
+    version: 0.1.0
   jiralert:
   - annotations:
       application.giantswarm.io/team: shield
@@ -11616,4 +11642,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-03-10T22:35:48.189676348Z"
+generated: "2026-03-12T16:28:55.010379689Z"
