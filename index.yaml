@@ -2910,6 +2910,27 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.1.0.tgz
     version: 0.1.0
+  bootstrap-cluster:
+  - annotations:
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.managed: "false"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-0.0.2.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.0.2/README.md
+      io.giantswarm.application.team: phoenix
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.0.2/helm/bootstrap-cluster/values.schema.json
+    apiVersion: v2
+    created: "2026-03-16T09:01:57.502938323Z"
+    description: Bootstrap chart that installs all required controllers via Flux HelmReleases
+    digest: b95410e3944022084d0213a87defc9b799eebb4d41704a549c6ac105c44caa1c
+    home: https://github.com/giantswarm/mctl
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: bootstrap-cluster
+    sources:
+    - https://github.com/giantswarm/mctl
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-0.0.2.tgz
+    version: 0.0.2
   bootstrap-cluster-crossplane-providers:
   - annotations:
       io.giantswarm.application.audience: giantswarm
@@ -11713,4 +11734,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-03-16T09:01:30.561701906Z"
+generated: "2026-03-16T09:01:57.502068345Z"
