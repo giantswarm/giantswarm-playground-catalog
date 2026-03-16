@@ -2910,6 +2910,27 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/azure-ad-pod-identity-app-0.1.0.tgz
     version: 0.1.0
+  bootstrap-cluster-crossplane-providers:
+  - annotations:
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.managed: "false"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-crossplane-providers-0.0.2.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.0.2/README.md
+      io.giantswarm.application.team: phoenix
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.0.2/helm/bootstrap-cluster-crossplane-providers/values.schema.json
+    apiVersion: v2
+    created: "2026-03-16T09:01:30.562103574Z"
+    description: Installs Crossplane providers needed by the cluster chart
+    digest: 4f57c7cbcd185f707c8cc272b35a8b1218d3e0bf43f6a67b5c9050d3efa0418b
+    home: https://github.com/giantswarm/mctl
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: bootstrap-cluster-crossplane-providers
+    sources:
+    - https://github.com/some-org/some-repo
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-crossplane-providers-0.0.2.tgz
+    version: 0.0.2
   capa-karpenter-taint-remover:
   - annotations:
       application.giantswarm.io/team: phoenix
@@ -11692,4 +11713,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-03-13T16:40:41.468160452Z"
+generated: "2026-03-16T09:01:30.561701906Z"
