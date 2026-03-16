@@ -2914,6 +2914,26 @@ entries:
   - annotations:
       io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.managed: "false"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-0.0.7.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.0.7/README.md
+      io.giantswarm.application.team: phoenix
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.0.7/helm/bootstrap-cluster/values.schema.json
+    apiVersion: v2
+    created: "2026-03-16T17:32:08.644587983Z"
+    description: Bootstrap chart that installs all required controllers via Flux HelmReleases
+    digest: 586b0eca09a401517ee71bfa7b0bf95016b101409595872b779ded1d2c3e034f
+    home: https://github.com/giantswarm/mctl
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: bootstrap-cluster
+    sources:
+    - https://github.com/giantswarm/mctl
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-0.0.7.tgz
+    version: 0.0.7
+  - annotations:
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.managed: "false"
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-0.0.6.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.0.6/README.md
       io.giantswarm.application.team: phoenix
@@ -11939,4 +11959,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-03-16T17:31:31.385057632Z"
+generated: "2026-03-16T17:32:08.643052685Z"
