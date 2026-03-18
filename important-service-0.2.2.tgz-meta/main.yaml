@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/audience: all
+  application.giantswarm.io/managed: 'false'
+  application.giantswarm.io/team: honeybadger
+chartApiVersion: v2
+chartFile: important-service-0.2.2.tgz
+dateCreated: '2026-03-18T16:10:33.547531Z'
+digest: 9e06692c7efd5e2898f0e318ac5899c71f8299f540f0198a634dac6046dd20ec
+home: https://github.com/giantswarm/important-service
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
