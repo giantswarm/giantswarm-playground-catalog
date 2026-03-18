@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'false'
+  application.giantswarm.io/team: phoenix
+chartApiVersion: v2
+chartFile: bootstrap-cluster-0.0.9.tgz
+dateCreated: '2026-03-18T12:59:11.343320Z'
+digest: 28484ffe4798fa335a71f632459594a70036eb122844a851e55d517968a942c5
+home: https://github.com/giantswarm/mctl
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
