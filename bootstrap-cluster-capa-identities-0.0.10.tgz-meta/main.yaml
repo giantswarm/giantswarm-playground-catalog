@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'false'
+  application.giantswarm.io/team: phoenix
+chartApiVersion: v2
+chartFile: bootstrap-cluster-capa-identities-0.0.10.tgz
+dateCreated: '2026-03-20T10:38:18.522845Z'
+digest: f70373352b4e3bc15756110a803396bec26ba63f0a81ff6c97ebcf732f5dbff4
+home: https://github.com/giantswarm/mctl
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg

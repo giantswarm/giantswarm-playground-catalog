@@ -3071,6 +3071,28 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-0.0.2.tgz
     version: 0.0.2
+  bootstrap-cluster-capa-identities:
+  - annotations:
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.managed: "false"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-capa-identities-0.0.10.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.0.10/README.md
+      io.giantswarm.application.team: phoenix
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.0.10/helm/bootstrap-cluster-capa-identities/values.schema.json
+    apiVersion: v2
+    created: "2026-03-20T10:38:20.583768548Z"
+    description: Creates CAPA identity resources (AWSClusterControllerIdentity + AWSClusterRoleIdentity)
+      needed before installing cluster-aws
+    digest: f70373352b4e3bc15756110a803396bec26ba63f0a81ff6c97ebcf732f5dbff4
+    home: https://github.com/giantswarm/mctl
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: bootstrap-cluster-capa-identities
+    sources:
+    - https://github.com/giantswarm/mctl
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-capa-identities-0.0.10.tgz
+    version: 0.0.10
   bootstrap-cluster-crossplane-providers:
   - annotations:
       io.giantswarm.application.audience: giantswarm
@@ -12228,4 +12250,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-03-20T10:38:17.049684615Z"
+generated: "2026-03-20T10:38:20.583110351Z"
