@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'false'
+  application.giantswarm.io/team: phoenix
+chartApiVersion: v2
+chartFile: bootstrap-cluster-crossplane-resources-0.0.16.tgz
+dateCreated: '2026-04-29T15:45:51.316435Z'
+digest: 18a28689df5522c01241e8e362b7afc4d699cd9ffb641e09376e2974aa960ceb
+home: https://github.com/giantswarm/mctl
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
