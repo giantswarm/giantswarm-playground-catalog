@@ -7436,6 +7436,31 @@ entries:
   - annotations:
       io.giantswarm.application.audience: all
       io.giantswarm.application.managed: "false"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/important-service-0.2.5.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/important-service/refs/tags/v0.2.5/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/important-service/refs/tags/v0.2.5/helm/important-service/values.schema.json
+    apiVersion: v2
+    appVersion: 0.3.0
+    created: "2026-05-07T07:13:14.253711327Z"
+    description: An application to demonstrate workload deployment at Giant Swarm
+    digest: 9eeeecfd54d250934bc8c8655ee0203cac18558e4a7f0bbab23a6418ab81e351
+    home: https://github.com/giantswarm/important-service
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    keywords:
+    - demo
+    - webapp
+    - testing
+    name: important-service
+    sources:
+    - https://github.com/giantswarm/helloworld
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/important-service-0.2.5.tgz
+    version: 0.2.5
+  - annotations:
+      io.giantswarm.application.audience: all
+      io.giantswarm.application.managed: "false"
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/important-service-0.2.4.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/important-service/refs/tags/v0.2.4/README.md
       io.giantswarm.application.team: honeybadger
@@ -12719,4 +12744,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-05-05T11:52:28.378367737Z"
+generated: "2026-05-07T07:13:14.251734336Z"
