@@ -1,0 +1,6 @@
+annotations: {}
+chartApiVersion: v2
+chartFile: kubectl-apply-job-0.11.3.tgz
+dateCreated: '2026-06-24T08:58:47.750464Z'
+digest: 4e71103564e7d689dd90191500844692aaec5f0de408981dbc1a70f4976e8627
+home: https://github.com/giantswarm/kubectl-apply-job
