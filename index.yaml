@@ -465,6 +465,28 @@ entries:
     version: 0.1.0
   alfred-app:
   - annotations:
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/alfred-app-0.16.3.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/alfred-app/refs/tags/v0.16.3/README.md
+      io.giantswarm.application.team: planeteers
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/alfred-app/refs/tags/v0.16.3/helm/alfred-app/values.schema.json
+    apiVersion: v1
+    appVersion: 0.16.3
+    created: "2026-06-28T07:59:57.559925889Z"
+    description: A Helm chart for Alfred, the Slack support manager
+    digest: 061b7479e0b9a7465c7b4cdd6b8a9158d913101a23664f358eb83d59caa28fca
+    home: https://github.com/giantswarm/alfred-app
+    icon: https://s.giantswarm.io/app-icons/1/png/alfred-app-light.png
+    maintainers:
+    - name: Giant Swarm applications team
+      url: https://github.com/giantswarm/alfred-app
+    name: alfred-app
+    sources:
+    - https://github.com/giantswarm/alfred-app-app
+    - https://raw.githubusercontent.com/giantswarm/alfred-app/v[[ .Version ]]/README.md
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/alfred-app-0.16.3.tgz
+    version: 0.16.3
+  - annotations:
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/alfred-app-0.16.2.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/alfred-app/refs/tags/v0.16.2/README.md
       io.giantswarm.application.team: planeteers
@@ -12896,4 +12918,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-06-28T07:56:12.616053443Z"
+generated: "2026-06-28T07:59:57.559005207Z"

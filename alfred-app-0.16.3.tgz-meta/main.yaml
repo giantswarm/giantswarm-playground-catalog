@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.com/giantswarm-playground-test-catalog/alfred-app-0.7.2.tgz-meta/main.yaml
+  application.giantswarm.io/team: planeteers
+  application.giantswarm.io/values-schema: https://giantswarm.github.com/giantswarm-playground-test-catalog/alfred-app-0.7.2.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: alfred-app-0.16.3.tgz
+dateCreated: '2026-06-28T07:59:55.783805Z'
+digest: 061b7479e0b9a7465c7b4cdd6b8a9158d913101a23664f358eb83d59caa28fca
+home: https://github.com/giantswarm/alfred-app
+icon: https://s.giantswarm.io/app-icons/1/png/alfred-app-light.png
