@@ -1,0 +1,9 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: cabbage
+chartApiVersion: v2
+chartFile: proxysocks-0.4.1.tgz
+dateCreated: '2026-07-08T16:23:50.275047Z'
+digest: 1fe83fcaddbfa251896e3e0ed28815338b0166ed3416ac74cce21e8cec721fa9
+home: https://github.com/giantswarm/proxysocks
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
