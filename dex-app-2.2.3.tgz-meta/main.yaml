@@ -1,0 +1,14 @@
+annotations:
+  application.giantswarm.io/audience: all
+  application.giantswarm.io/managed: 'true'
+  application.giantswarm.io/readme: https://raw.githubusercontent.com/giantswarm/dex-app/v[[
+    .Version ]]/README.md
+  application.giantswarm.io/team: shield
+  application.giantswarm.io/values-schema: https://raw.githubusercontent.com/giantswarm/dex-app/v[[
+    .Version ]]/helm/dex-app/values.schema.json
+chartApiVersion: v2
+chartFile: dex-app-2.2.3.tgz
+dateCreated: '2026-07-14T13:06:54.600989Z'
+digest: 0ceb4eed45d2663810f106aa165418becaf8838a8007597b0c4783596fd2bb1f
+home: https://github.com/giantswarm/dex-app
+icon: https://s.giantswarm.io/app-icons/dex/2/icon_light.svg
