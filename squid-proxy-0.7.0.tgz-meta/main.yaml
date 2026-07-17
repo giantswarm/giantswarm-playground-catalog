@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: phoenix
+chartApiVersion: v2
+chartFile: squid-proxy-0.7.0.tgz
+dateCreated: '2026-07-17T13:42:07.669735Z'
+digest: a02696b3bdeb67321418d2f11ae90fd60b6636d6dc8c657e0092d694eabaf644
+home: https://github.com/giantswarm/squid-proxy-app
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
