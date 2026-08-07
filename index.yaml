@@ -10604,6 +10604,41 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/proxmox-cloud-controller-manager-0.1.0.tgz
     version: 0.1.0
+  proxmox-csi-plugin:
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/proxmox-csi-plugin-app/issues
+        - name: Upstream project
+          url: https://github.com/sergelogvinov/proxmox-csi-plugin
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/proxmox-csi-plugin-0.1.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/proxmox-csi-plugin-app/refs/tags/v0.1.0/README.md
+      io.giantswarm.application.team: rocket
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/proxmox-csi-plugin-app/refs/tags/v0.1.0/helm/proxmox-csi-plugin/values.schema.json
+    apiVersion: v2
+    appVersion: 0.1.0
+    created: "2026-08-07T09:35:12.363532779Z"
+    description: Container Storage Interface plugin for Proxmox
+    digest: 6edf70ae8ba0c69814db45b60fc30b1b309d74eb607aa04554ecc602c378f759
+    home: https://github.com/giantswarm/proxmox-csi-plugin-app
+    icon: https://s.giantswarm.io/app-icons/proxmox/2/light.svg
+    keywords:
+    - csi
+    - storage
+    - block-storage
+    - volume
+    - proxmox
+    maintainers:
+    - name: sergelogvinov
+      url: https://github.com/sergelogvinov
+    name: proxmox-csi-plugin
+    sources:
+    - https://github.com/sergelogvinov/proxmox-csi-plugin
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/proxmox-csi-plugin-0.1.0.tgz
+    version: 0.1.0
   proxysocks:
   - annotations:
       io.giantswarm.application.audience: giantswarm
@@ -13096,4 +13131,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-07-17T13:42:10.149336746Z"
+generated: "2026-08-07T09:35:12.361548215Z"
