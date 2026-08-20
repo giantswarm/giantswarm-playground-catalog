@@ -527,6 +527,34 @@ entries:
           url: https://github.com/giantswarm/alfred-app/issues
         - name: Upstream project
           url: https://raw.githubusercontent.com/giantswarm/alfred-app/v[[ .Version ]]/README.md
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/alfred-app-0.17.3.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/alfred-app/refs/tags/v0.17.3/README.md
+      io.giantswarm.application.team: planeteers
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/alfred-app/refs/tags/v0.17.3/helm/alfred-app/values.schema.json
+    apiVersion: v1
+    appVersion: 0.17.3
+    created: "2026-08-20T11:06:08.664410434Z"
+    description: A Helm chart for Alfred, the Slack support manager
+    digest: 452ccc67e34087625fae9d94a18b1f2c030e75ac77fe7b4ce17455057283d2bf
+    home: https://github.com/giantswarm/alfred-app
+    icon: https://s.giantswarm.io/app-icons/1/png/alfred-app-light.png
+    maintainers:
+    - name: Giant Swarm applications team
+      url: https://github.com/giantswarm/alfred-app
+    name: alfred-app
+    sources:
+    - https://github.com/giantswarm/alfred-app-app
+    - https://raw.githubusercontent.com/giantswarm/alfred-app/v[[ .Version ]]/README.md
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/alfred-app-0.17.3.tgz
+    version: 0.17.3
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/alfred-app/issues
+        - name: Upstream project
+          url: https://raw.githubusercontent.com/giantswarm/alfred-app/v[[ .Version ]]/README.md
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/alfred-app-0.17.2.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/alfred-app/refs/tags/v0.17.2/README.md
       io.giantswarm.application.team: planeteers
@@ -13494,4 +13522,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-08-20T11:03:55.07627394Z"
+generated: "2026-08-20T11:06:08.663423662Z"
