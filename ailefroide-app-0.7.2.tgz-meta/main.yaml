@@ -1,0 +1,13 @@
+annotations:
+  application.giantswarm.io/team: chapter-se
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/ailefroide-app/issues\n\
+    - name: Upstream project\n  url: https://raw.githubusercontent.com/giantswarm/ailefroide-app/v[[\
+    \ .Version ]]/README.md\n"
+chartApiVersion: v1
+chartFile: ailefroide-app-0.7.2.tgz
+dateCreated: '2026-08-20T11:03:52.798996Z'
+digest: 15f519f2cdd56765961bf38b6aa8c826cef986d9612b770158b8200a8c0a0f94
+home: https://github.com/giantswarm/ailefroide-app
+icon: https://s.giantswarm.io/app-icons/1/png/alfred-app-light.png
