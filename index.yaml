@@ -9327,6 +9327,31 @@ entries:
     version: 0.1.0
   kubectl-apply-job:
   - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/kubectl-apply-job/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.13.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/kubectl-apply-job/refs/tags/v0.13.0/README.md
+      io.giantswarm.application.team: cabbage
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/kubectl-apply-job/refs/tags/v0.13.0/helm/kubectl-apply-job/values.schema.json
+    apiVersion: v2
+    appVersion: 0.13.0
+    created: "2026-08-31T11:39:51.469160222Z"
+    description: 'A Helm chart containing a Job to apply kubernetes manifests using
+      kubectl apply. '
+    digest: 6caecd6e817e3fa36f8b869662982f1718e9c86cdcd5f3998c02ea1604a69b77
+    home: https://github.com/giantswarm/kubectl-apply-job
+    keywords:
+    - kubectl
+    - job
+    - library
+    name: kubectl-apply-job
+    type: library
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.13.0.tgz
+    version: 0.13.0
+  - annotations:
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/kubectl-apply-job-0.12.0.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/kubectl-apply-job/refs/tags/v0.12.0/README.md
       io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/kubectl-apply-job/refs/tags/v0.12.0/helm/kubectl-apply-job/values.schema.json
@@ -13718,4 +13743,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-08-28T10:30:48.248575623Z"
+generated: "2026-08-31T11:39:51.468449066Z"
