@@ -1,0 +1,14 @@
+annotations:
+  application.giantswarm.io/team: planeteers
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/headlamp-app/issues\n-\
+    \ name: Upstream project\n  url: https://github.com/some-org/some-repo\n"
+  branch: my-branch
+  commit: f00bar
+chartApiVersion: v2
+chartFile: headlamp-0.1.7.tgz
+dateCreated: '2026-09-05T11:24:17.977863Z'
+digest: 1c68424b23bd5d8b430382d6c5d880956b7561f53c9de770dff1e60b20914af5
+home: https://github.com/giantswarm/headlamp-app
+icon: https://s.giantswarm.io/app-icons/headlamp/1/light.svg
