@@ -1,0 +1,15 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.com/giantswarm-playground-test-catalog/alfred-app-0.7.2.tgz-meta/main.yaml
+  application.giantswarm.io/team: planeteers
+  application.giantswarm.io/values-schema: https://giantswarm.github.com/giantswarm-playground-test-catalog/alfred-app-0.7.2.tgz-meta/values.schema.json
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/alfred-app/issues\n- name:\
+    \ Upstream project\n  url: https://raw.githubusercontent.com/giantswarm/alfred-app/v[[\
+    \ .Version ]]/README.md\n"
+chartApiVersion: v1
+chartFile: alfred-app-0.22.7.tgz
+dateCreated: '2026-09-09T06:08:48.552855Z'
+digest: c729f053f8b480c6be1a4321deee81f16bce3ab3991fdc00c5f16d7cf7ca9ad3
+home: https://github.com/giantswarm/alfred-app
+icon: https://s.giantswarm.io/app-icons/1/png/alfred-app-light.png
