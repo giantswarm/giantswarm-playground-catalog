@@ -1,0 +1,13 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'false'
+  application.giantswarm.io/team: phoenix
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/mctl/issues\n"
+chartApiVersion: v2
+chartFile: bootstrap-cluster-0.1.10.tgz
+dateCreated: '2026-09-29T11:02:58.946825Z'
+digest: f703ea07dd25e66e22db1ffb168bd2db1b460bb44e08966ecb5ad7e825978c8e
+home: https://github.com/giantswarm/mctl
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
