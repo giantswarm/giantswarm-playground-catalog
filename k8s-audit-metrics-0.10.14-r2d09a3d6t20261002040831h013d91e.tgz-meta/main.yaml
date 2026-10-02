@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: tenet
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/k8s-audit-metrics/issues\n"
+chartApiVersion: v2
+chartFile: k8s-audit-metrics-0.10.14-r2d09a3d6t20261002040831h013d91e.tgz
+dateCreated: '2026-10-02T04:10:38.519640Z'
+digest: d985a83dd36d6bbd0b506556583b8073fee1420f73e657097ef8106f34c63c7b
+home: https://github.com/giantswarm/k8s-audit-metrics
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
