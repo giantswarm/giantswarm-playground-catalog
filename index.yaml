@@ -14422,6 +14422,33 @@ entries:
     version: 0.1.0
   proxysocks:
   - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/proxysocks/issues
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.managed: "true"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.5.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/proxysocks/refs/tags/v0.5.0/README.md
+      io.giantswarm.application.team: cabbage
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/proxysocks/refs/tags/v0.5.0/helm/proxysocks/values.schema.json
+    apiVersion: v2
+    appVersion: 0.5.0
+    created: "2026-10-20T11:17:03.050144759Z"
+    description: A Helm chart for the Giant Swarm Proxy
+    digest: f07b03adbaefa96dec4f57e363911dfdb52e9bad35538510b0f66ea09c3ce2b9
+    home: https://github.com/giantswarm/proxysocks
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    keywords:
+    - proxy
+    - socks5
+    - networking
+    name: proxysocks
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.5.0.tgz
+    version: 0.5.0
+  - annotations:
       io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/proxysocks-0.4.1.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/proxysocks/refs/tags/v0.4.1/README.md
@@ -16912,4 +16939,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-10-20T07:30:16.524178401Z"
+generated: "2026-10-20T11:17:03.048957612Z"
