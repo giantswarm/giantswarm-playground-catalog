@@ -1,0 +1,14 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'false'
+  application.giantswarm.io/team: phoenix
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/mctl/issues\n- name: Upstream\
+    \ project\n  url: https://github.com/some-org/some-repo\n"
+chartApiVersion: v2
+chartFile: bootstrap-cluster-crossplane-resources-0.4.1.tgz
+dateCreated: '2026-10-22T10:17:42.628043Z'
+digest: 4669fbd06c8fa6e99c3793c747d44fa55648d1e7057314841b475ff3f9f54775
+home: https://github.com/giantswarm/mctl
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
