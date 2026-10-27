@@ -7929,14 +7929,14 @@ entries:
       io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/dex-app/refs/tags/v3.4.17/helm/dex-app/values.schema.json
     apiVersion: v2
     appVersion: 3.4.17
-    created: "2026-10-27T02:07:13.016922673Z"
+    created: "2026-10-27T02:09:25.650374522Z"
     dependencies:
     - name: dex
       repository: ""
       version: 0.23.0
     description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
       connectors
-    digest: 4c778c3ed597a587c991bc019b9aa05a864ede98c5e7f1408e4e6f6adb9a6865
+    digest: 2cc5955ee6209ebb27e738192ebe843b3a6af9bebffc1d81d5283c9ca07a94dd
     home: https://github.com/giantswarm/dex-app
     icon: https://s.giantswarm.io/app-icons/dex/2/icon_light.svg
     keywords:
@@ -18672,4 +18672,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-10-27T02:07:13.013964456Z"
+generated: "2026-10-27T02:09:25.646950765Z"
