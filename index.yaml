@@ -8244,6 +8244,54 @@ entries:
           url: https://github.com/dexidp/dex/
       io.giantswarm.application.audience: all
       io.giantswarm.application.managed: "true"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-3.4.20.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/dex-app/refs/tags/v3.4.20/README.md
+      io.giantswarm.application.team: shield
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/dex-app/refs/tags/v3.4.20/helm/dex-app/values.schema.json
+    apiVersion: v2
+    appVersion: 3.4.20
+    created: "2026-10-28T16:37:30.599823619Z"
+    dependencies:
+    - name: dex
+      repository: ""
+      version: 0.23.0
+    description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+      connectors
+    digest: 304959869e2aea4d3bb476891816d6db7f38aa29b219e073e26b00e00024e8b9
+    home: https://github.com/giantswarm/dex-app
+    icon: https://s.giantswarm.io/app-icons/dex/2/icon_light.svg
+    keywords:
+    - authentication
+    - oidc
+    maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: kfox1111
+    - email: shane.starcher@gmail.com
+      name: sstarcher
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: vi7alya@gmail.com
+      name: vi7
+    - email: aaron@roydhouse.com
+      name: Aaron Roydhouse
+    - email: nbadger@mintel.com
+      name: Nick Badger
+    name: dex-app
+    sources:
+    - https://github.com/dexidp/dex/
+    - https://github.com/mintel/dex-k8s-authenticator
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-3.4.20.tgz
+    version: 3.4.20
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/dex-app/issues
+        - name: Upstream project
+          url: https://github.com/dexidp/dex/
+      io.giantswarm.application.audience: all
+      io.giantswarm.application.managed: "true"
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/dex-app-3.4.19.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/dex-app/refs/tags/v3.4.19/README.md
       io.giantswarm.application.team: shield
@@ -19115,4 +19163,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-10-28T05:42:22.696746698Z"
+generated: "2026-10-28T16:37:30.596653091Z"
