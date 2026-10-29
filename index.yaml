@@ -13870,6 +13870,26 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/k8s-audit-metrics/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/k8s-audit-metrics-0.10.14.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/k8s-audit-metrics/refs/tags/v0.10.14/README.md
+      io.giantswarm.application.team: tenet
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/k8s-audit-metrics/refs/tags/v0.10.14/helm/k8s-audit-metrics-app/values.schema.json
+    apiVersion: v2
+    appVersion: 0.10.14
+    created: "2026-10-29T19:18:18.76510986Z"
+    description: Collector that exposes metrics from k8s apiserver audit log.
+    digest: 601edf631192c6fd9968fc1fb6a002377238f0894120cab28503d0d1b084fbd4
+    home: https://github.com/giantswarm/k8s-audit-metrics
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: k8s-audit-metrics
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/k8s-audit-metrics-0.10.14.tgz
+    version: 0.10.14
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/k8s-audit-metrics/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/k8s-audit-metrics-0.10.14-r2d09a3d6t20261002040831h013d91e.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/k8s-audit-metrics/refs/tags/v0.10.14-r2d09a3d6t20261002040831h013d91e/README.md
       io.giantswarm.application.team: tenet
@@ -19191,4 +19211,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-10-29T05:42:31.789120556Z"
+generated: "2026-10-29T19:18:18.764441225Z"
