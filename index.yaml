@@ -13402,6 +13402,32 @@ entries:
           url: https://github.com/some-org/some-repo
       branch: my-branch
       commit: f00bar
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/headlamp-0.1.21.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/headlamp-app/refs/tags/v0.1.21/README.md
+      io.giantswarm.application.team: planeteers
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/headlamp-app/refs/tags/v0.1.21/helm/headlamp/values.schema.json
+    apiVersion: v2
+    appVersion: 0.0.1
+    created: "2026-11-02T22:17:15.318066481Z"
+    description: Please add description
+    digest: b18c685701ea12bf81e2ada41a7de4a6327c92b3b6f90c508f2f57ca0e4b6c0d
+    home: https://github.com/giantswarm/headlamp-app
+    icon: https://s.giantswarm.io/app-icons/headlamp/1/light.svg
+    name: headlamp
+    sources:
+    - https://github.com/some-org/some-repo
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/headlamp-0.1.21.tgz
+    version: 0.1.21
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/headlamp-app/issues
+        - name: Upstream project
+          url: https://github.com/some-org/some-repo
+      branch: my-branch
+      commit: f00bar
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/headlamp-0.1.20.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/headlamp-app/refs/tags/v0.1.20/README.md
       io.giantswarm.application.team: planeteers
@@ -19443,4 +19469,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-10-31T22:28:27.112201917Z"
+generated: "2026-11-02T22:17:15.317508648Z"
