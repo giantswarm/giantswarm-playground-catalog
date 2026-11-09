@@ -17387,6 +17387,44 @@ entries:
           url: https://github.com/sergelogvinov/proxmox-csi-plugin
       io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.managed: "true"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/proxmox-csi-plugin-0.3.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/proxmox-csi-plugin-app/refs/tags/v0.3.0/README.md
+      io.giantswarm.application.team: rocket
+      io.giantswarm.application.upstream-chart-url: https://github.com/sergelogvinov/proxmox-csi-plugin/tree/main/charts/proxmox-csi-plugin
+      io.giantswarm.application.upstream-chart-version: 0.22.0
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/proxmox-csi-plugin-app/refs/tags/v0.3.0/helm/proxmox-csi-plugin/values.schema.json
+    apiVersion: v2
+    appVersion: 0.22.0
+    created: "2026-11-09T16:21:32.363850516Z"
+    description: Container Storage Interface plugin for Proxmox
+    digest: c0ef98bf8c1e28ecb0f66fa6aae9291a3e8e505a34bdbb98e76769f473338f40
+    home: https://github.com/giantswarm/proxmox-csi-plugin-app
+    icon: https://s.giantswarm.io/app-icons/proxmox/2/light.svg
+    keywords:
+    - csi
+    - storage
+    - block-storage
+    - volume
+    - proxmox
+    maintainers:
+    - email: team-rocket@giantswarm.io
+      name: Team Rocket
+    name: proxmox-csi-plugin
+    sources:
+    - https://github.com/sergelogvinov/proxmox-csi-plugin
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/proxmox-csi-plugin-0.3.0.tgz
+    version: 0.3.0
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/proxmox-csi-plugin-app/issues
+        - name: Upstream project
+          url: https://github.com/sergelogvinov/proxmox-csi-plugin
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.managed: "true"
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/proxmox-csi-plugin-0.2.0.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/proxmox-csi-plugin-app/refs/tags/v0.2.0/README.md
       io.giantswarm.application.team: rocket
@@ -19969,4 +20007,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-11-07T22:12:09.977743436Z"
+generated: "2026-11-09T16:21:32.362259049Z"
