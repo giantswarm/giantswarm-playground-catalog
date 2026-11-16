@@ -1,0 +1,13 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'false'
+  application.giantswarm.io/team: phoenix
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/mctl/issues\n"
+chartApiVersion: v2
+chartFile: bootstrap-cluster-capa-identities-0.9.1.tgz
+dateCreated: '2026-11-16T08:07:20.096609Z'
+digest: 9d9456efacfec43d6adf2faa2904e1069f2b197183d5668016916033c09772b4
+home: https://github.com/giantswarm/mctl
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
