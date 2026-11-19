@@ -5033,6 +5033,31 @@ entries:
           url: https://github.com/giantswarm/mctl/issues
       io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.managed: "false"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-0.9.5.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.9.5/README.md
+      io.giantswarm.application.team: phoenix
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.9.5/helm/bootstrap-cluster/values.schema.json
+    apiVersion: v2
+    appVersion: 0.9.5
+    created: "2026-11-19T08:07:29.828417904Z"
+    description: Bootstrap chart that installs all required controllers via Flux HelmReleases
+    digest: 5746d3411e44d878d3c0693e9d5bbd3159ea1a20be61d25f1d385c802819f822
+    home: https://github.com/giantswarm/mctl
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: bootstrap-cluster
+    sources:
+    - https://github.com/giantswarm/mctl
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-0.9.5.tgz
+    version: 0.9.5
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/mctl/issues
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.managed: "false"
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/bootstrap-cluster-0.9.4.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/mctl/refs/tags/v0.9.4/README.md
       io.giantswarm.application.team: phoenix
@@ -20978,4 +21003,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-11-19T08:07:03.307992734Z"
+generated: "2026-11-19T08:07:29.827596249Z"
