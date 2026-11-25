@@ -19930,6 +19930,26 @@ entries:
     version: 0.0.1
   squid-proxy:
   - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/squid-proxy-app/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/squid-proxy-0.7.1.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/squid-proxy-app/refs/tags/v0.7.1/README.md
+      io.giantswarm.application.team: phoenix
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/squid-proxy-app/refs/tags/v0.7.1/helm/squid-proxy/values.schema.json
+    apiVersion: v2
+    appVersion: 5.2-22.04_beta
+    created: "2026-11-25T16:42:21.125420478Z"
+    description: squid proxy for giantswarm internal use
+    digest: 3f866dd80e6a409b8b06a3c875cd5d44a33e92f26cd9d156a28108e128e015c2
+    home: https://github.com/giantswarm/squid-proxy-app
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
+    name: squid-proxy
+    urls:
+    - https://giantswarm.github.io/giantswarm-playground-catalog/squid-proxy-0.7.1.tgz
+    version: 0.7.1
+  - annotations:
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-playground-catalog/squid-proxy-0.7.0.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/squid-proxy-app/refs/tags/v0.7.0/README.md
       io.giantswarm.application.team: phoenix
@@ -21629,4 +21649,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-playground-catalog/vertical-pod-autoscaler-crd-1.0.0.tgz
     version: 1.0.0
-generated: "2026-11-24T15:14:33.922386672Z"
+generated: "2026-11-25T16:42:21.124773727Z"
